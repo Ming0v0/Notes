@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6337f23db9946089",
+        "id": "ad055bff9e002ac4",
         "type": "tabs",
         "children": [
           {
-            "id": "094217d450615f2a",
+            "id": "3e4e120ee56dcc0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机基础/操作系统/第 1 章 概述.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/操作系统/第 1 章 概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/操作系统/第 1 章 概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,13 +126,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "计算机基础/操作系统/第 1 章 概述.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,11 +149,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "094217d450615f2a",
+  "active": "81c77d5dadd0001d",
   "lastOpenFiles": [
-    "计算机基础/计算机组成原理/系统总线.md",
-    "计算机基础/操作系统/第 1 章 概述.md",
+    "images/前端路由的工作方式.png.md",
+    "前端技术栈/Vue/Vue2/第05章 Router.md",
+    "images",
     "计算机基础/操作系统/第 2 章 进程管理.md",
+    "计算机基础/操作系统/第 1 章 概述.md",
+    "计算机基础/计算机组成原理/系统总线.md",
     "计算机基础/操作系统/第 3 章 存储管理.md",
     "计算机基础/操作系统/attachment/Pasted image 20220522141605.png",
     "计算机基础/操作系统/attachment/Pasted image 20220522143320.png",
