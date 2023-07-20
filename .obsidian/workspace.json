@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/操作系统/操作系统概述.md",
+                "file": "计算机基础/操作系统/第 1 章 概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/操作系统/操作系统概述.md",
+                "file": "计算机基础/操作系统/第 1 章 概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/操作系统/操作系统概述.md",
+                "file": "计算机基础/操作系统/第 1 章 概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/操作系统/操作系统概述.md"
+                "file": "计算机基础/操作系统/第 1 章 概述.md"
               }
             }
           }
@@ -160,7 +160,10 @@
   },
   "active": "094217d450615f2a",
   "lastOpenFiles": [
-    "计算机基础/操作系统/进程管理.md",
+    "计算机基础/计算机组成原理/系统总线.md",
+    "计算机基础/操作系统/第 1 章 概述.md",
+    "计算机基础/操作系统/第 2 章 进程管理.md",
+    "计算机基础/操作系统/第 3 章 存储管理.md",
     "计算机基础/操作系统/attachment/Pasted image 20220522141605.png",
     "计算机基础/操作系统/attachment/Pasted image 20220522143320.png",
     "计算机基础/计算机网络/数据链路层.md",
@@ -180,7 +183,6 @@
     "计算机基础/数据结构与算法/非线性结构/树/线索二叉树-Jun.md",
     "开发工具/Git/Git.md",
     "前端技术栈/Vue/Vue2/第03章 Vue组件.md",
-    "计算机基础/操作系统/操作系统概述.md",
     "网络工程"
   ]
 }

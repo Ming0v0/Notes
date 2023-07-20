@@ -1,5 +1,5 @@
 {
-  "spellcheck": false,
+  "spellcheck": true,
   "attachmentFolderPath": "./attachment",
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
@@ -8,5 +8,6 @@
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
   "strictLineBreaks": true,
-  "foldHeading": true
+  "foldHeading": true,
+  "spellcheckLanguages": null
 }
