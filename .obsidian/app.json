@@ -1,0 +1,12 @@
+{
+  "spellcheck": false,
+  "attachmentFolderPath": "./attachment",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "newFileLocation": "current",
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "strictLineBreaks": true,
+  "foldHeading": true
+}

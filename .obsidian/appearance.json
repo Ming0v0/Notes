@@ -1,0 +1,10 @@
+{
+  "accentColor": "#ffbdd1",
+  "theme": "moonstone",
+  "interfaceFontFamily": "Microsoft YaHei UI",
+  "textFontFamily": "Microsoft YaHei",
+  "monospaceFontFamily": "Consolas",
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "showViewHeader": false
+}
