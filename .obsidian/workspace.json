@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "计算机基础/操作系统/第 1 章 概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "计算机基础/操作系统/第 1 章 概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +110,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "计算机基础/操作系统/第 1 章 概述.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -133,11 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "计算机基础/操作系统/第 1 章 概述.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,22 +158,24 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "398eb5a350d7b420",
+  "active": "3e4e120ee56dcc0e",
   "lastOpenFiles": [
+    "计算机基础/计算机网络/概述.md",
+    "计算机基础/计算机网络/attachment/概述/基于ISP的三层结构的因特网.png",
+    "计算机基础/操作系统/第 2 章 进程管理.md",
+    "计算机基础/操作系统/第 1 章 概述.md",
+    "README.md",
     "ignore",
     "新建 文本文档.txt",
     "新建文件夹",
     "images/前端路由的工作方式.png.md",
     "前端技术栈/Vue/Vue2/第05章 Router.md",
     "images",
-    "计算机基础/操作系统/第 2 章 进程管理.md",
-    "计算机基础/操作系统/第 1 章 概述.md",
     "计算机基础/计算机组成原理/系统总线.md",
     "计算机基础/操作系统/第 3 章 存储管理.md",
     "计算机基础/操作系统/attachment/Pasted image 20220522141605.png",
     "计算机基础/操作系统/attachment/Pasted image 20220522143320.png",
     "计算机基础/计算机网络/数据链路层.md",
-    "计算机基础/计算机网络/概述.md",
     "Excalidraw/Drawing 2023-07-20 21.23.42.excalidraw.md",
     "Excalidraw",
     "前端技术栈/ES6/ES6模块化与异步编程高级用法.md",
