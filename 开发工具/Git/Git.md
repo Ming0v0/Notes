@@ -29,14 +29,14 @@
 
 ## 2.1 Git 简介
 
-
-![Git 简史](attachment/Git简史.png)
+![Git简史](attachment/Git简史.md)
 
 ## 2.2 Git 官网和 Logo
 [官网地址](https://git-scm.com/)
  ![](attachment/Git%20Logo.png)
 
 ## 2.3 Git 的优势
+
 - 大部分操作在本地完成，不需要联网
 - 完整性保证
 - 尽可能添加数据而不是删除或修改数据
@@ -44,25 +44,30 @@
 - 与 Linux 命令全面兼容
 
 ## 2.4 Git 结构
+
 ![Git结构](attachment/Git结构.md)
 
 ## 2.5 Git 和代码托管中心
-代码托管中心 的任务：维护远程库
+
+代码托管中心的任务：维护远程库
 - 局域网环境下：GitLab 服务器
 - 外网环境下：GitHub、码云
 
 ## 2.6 本地库和远程库
-团队内部协作
+
+- 团队内部协作
 ![内部协作](attachment/Git内部协作.png)
 
- 跨团队协作
+ - 跨团队协作
 ![跨团队协作](attachment/跨团队协作.png)
 
 # 3. Git 命令行操作
+
 ## 3.1 本地库初始化
+
 - 命令：`git init `
 - 效果
-  ```xml
+  ```txt
   $ ll .git/
   total 16
   -rw-r--r-- 1 Jun 197609   21 Feb 10 22:51 COMMIT_EDITMSG
@@ -80,61 +85,76 @@
 - 注意：.git 目录中存放的是本地库相关的子目录和文件，不要删除，也不要胡乱修改。
 
 ## 3.2 设置签名
-- 形式：
+
+形式
+```txt
   用户名：tom
-  Email 地址：goodMorning@atguigu.com
-- 作用：区分不同开发人员的身份
-- 辨析：这里设置的签名和登录远程库(代码托管中心)的账号、密码没有任何关系。
-- 命令
-- 项目级别/仓库级别：仅在当前本地库范围内有效
-    - `git config use.name 名称 `
-    - `git config user.email 邮箱地址 `
+  Email地址：goodMorning@hello.com
+```
 
-  - 信息保存位置：`./.git/config` 文件
+作用：区分不同开发人员的身份
+辨析：这里设置的签名和登录远程库(代码托管中心)的账号、密码没有任何关系。
 
-    ```xml
-    $ cat ./.git/config
-    [core]
-            repositoryformatversion = 0
-            filemode = false
-            bare = false
-            logallrefupdates = true
-            symlinks = false
-            ignorecase = true
-    [user]
-            name = Jun
-            email = Ming0v0@163.com
-    ```
+命令
+项目级别/仓库级别：仅在当前本地库范围内有效
 
- - 系统用户级别：登录当前操作系统的用户范围
-     - `git config --global use.name 名称 `
-     -` git config --global user.email 邮箱地址 `
+- `git config use.name 名称 `
+- `git config user.email 邮箱地址 `
 
-  - 信息保存位置：`~/.gitconfig` 文件
+信息保存位置（当前项目文件夹）：`./.git/config` 文件
+```xml
+$ cat ./.git/config
+[core]
+	repositoryformatversion = 0
+    filemode = false
+    bare = false
+    logallrefupdates = true
+    symlinks = false
+    ignorecase = true
+[user]
+    name = Jun
+    email = Ming0v0@163.com
+```
 
-- 级别优先级
-  - 就近原则：项目级别优先于系统用户级别，二者都有时采用项目级别的签名
-  - 如果只有系统用户级别的签名，就以系统用户级别的签名为准
-  - 二者都没有不允许
+系统用户级别：登录当前操作系统的用户范围
+
+-`git config --global use.name 名称 `
+-` git config --global user.email 邮箱地址 `
+
+信息保存位置（登录系统用户文件夹）：`~/.gitconfig` 文件
+
+级别优先级
+- 就近原则：项目级别优先于系统用户级别，二者都有时采用项目级别的签名
+- 如果只有系统用户级别的签名，就以系统用户级别的签名为准
+- 二者都没有不允许
 
 ## 3.3 基本操作
+
 ### 状态查看
+
 - `git status`
-	查看工作区、暂存区状态
+
+查看工作区、暂存区状态
 
 ### 添加
+
 - `git add \[file name]`
-	将工作区的“新建/修改”添加到暂存区
+
+将工作区的“新建/修改文件”添加到暂存区
 
 ### 提交
+
 - `git commit -m "commit message" \[file name]`
-	将暂存区的内容提交到本地库
+
+将暂存区的内容提交到本地库
 
 ### 查看历史记录
+
 - `git log`
-```xml
+
+```txt
 commit f895261bc7ba08768b96bc4052ec7ada09fa6080 (HEAD -> master)
-Author: Jun <Ming0v0@163.com>
+Author: Jun <goodMorning@hello.com>
 Date:   Thu Feb 10 22:51:08 2022 +0800
 ```
 
@@ -143,37 +163,72 @@ Date:   Thu Feb 10 22:51:08 2022 +0800
 - b 键向上翻页
 - q 键退出
 
-`git log --pretty=oneline`
+每条日志都只显示一行
 
-```xml
-f895261bc7ba08768b96bc4052ec7ada09fa6080 (HEAD -> master) Time:2022-2-10 22:51
+- `git log --pretty=oneline`
+
+```txt
+5b4c8b1908d8e1b932b2c9c99f9490d67146efea (HEAD -> master, origin/master) timed backup: 2023-08-06 20:18:26
+1a1ace9b18912c760cde8f206e4e58c020e4acdc timed backup: 2023-07-24 20:47:00
+e3b837b856feb2556bef9be53b4ccebb1bc2a2f4 timed backup: 2023-07-22 20:17:55
+540a030d69672b7a9c5d8e25bf671bfbd99e2a9d timed backup: 2023-07-21 01:08:48
+0636bede42c469126fbbac45a45bd27e250f4c8f vault backup: 2023-07-21 01:06:00
+46985dae2a061414238b0fb94ee3af0489f210c9 vault backup: 2023-07-21 00:35:46
+127ee1cb2c58800df56c24d2aa0539c10e55b18f vault backup: 2023-07-21 00:21:38
 ```
 
-`git log --oneline`
+哈希值只显示部分
 
-```xml
-f895261 (HEAD -> master) Time:2022-2-10 22:51
+- `git log --oneline`
+
+```txt
+5b4c8b1 (HEAD -> master, origin/master) timed backup: 2023-08-06 20:18:26
+1a1ace9 timed backup: 2023-07-24 20:47:00
+e3b837b timed backup: 2023-07-22 20:17:55
+540a030 timed backup: 2023-07-21 01:08:48
+0636bed vault backup: 2023-07-21 01:06:00
+46985da vault backup: 2023-07-21 00:35:46
+127ee1c vault backup: 2023-07-21 00:21:38
 ```
 
-`git reflog`
+
+**显示可引用的历史版本记录**
+
+- `git reflog`
 
 ```xml
-f895261 (HEAD -> master) HEAD@{0}: commit (initial): Time:2022-2-10 22:51
+5b4c8b1 (HEAD -> master, origin/master) HEAD@{0}: commit: timed backup: 2023-08-06 20:18:26
+1a1ace9 HEAD@{1}: commit: timed backup: 2023-07-24 20:47:00
+e3b837b HEAD@{2}: commit: timed backup: 2023-07-22 20:17:55
+540a030 HEAD@{3}: commit: timed backup: 2023-07-21 01:08:48
+0636bed HEAD@{4}: commit: vault backup: 2023-07-21 01:06:00
+46985da HEAD@{5}: commit: vault backup: 2023-07-21 00:35:46
 ```
 
-HEAD@{移动到当前版本需要多少步}
+`HEAD@{移动到当前版本需要多少步}`
 
 ###  前进后退
-本质：
-基于索引值操作\[推荐]
-  - `git reset --hard [局部索引值]`
-  - `git reset --hard a6ace91 `
-- 使用^符号：只能后退
-  - `git reset --hard HEAD^ `
-  - 注：一个^表示后退一步，n 个表示后退 n 步
-- 使用~符号：只能后退
+本质：基于索引值操作\[推荐]
+```txt
+git reset --hard [局部索引值]
+```
+
+示例
+```txt
+git reset --hard a6ace91 
+```
+
+使用^符号：只能后退
+
+- `git reset --hard HEAD^ `
+
+注：一个^表示后退一步，n 个^表示后退 n 步
+
+使用~符号：只能后退
+
   - `git reset --hard HEAD~n `
-  - 注：表示后退 n
+
+注：表示后退 n步
 
 ### reset 命令的三个参数对比
  --soft 参数
@@ -205,11 +260,15 @@ HEAD@{移动到当前版本需要多少步}
     - 不带文件名比较多个文件
 
 # 4. 分支管理
+
 ## 4.1 什么是分支？
-在版本控制过程中，使用多条线同时推进多个任务。
+
+在版本控制过程中，使用多条线同时推进多个任务
+
 ![分支进程](attachment/分支进程.png)
 
 ## 4.2 分支的好处
+
 - 同时并行推进多个功能开发，提高开发效率
 - 各个分支在开发过程中，如果某一个分支开发失败，不会对其他分支有任何影响。失败的分支删除重新开始即可。
 
@@ -217,13 +276,15 @@ HEAD@{移动到当前版本需要多少步}
 - 创建分支：`git branch [分支名]`
 - 查看分支：`git branch -v `
 - 切换分支：`git checkout [分支名]`
-- 合并分支
+
+合并分支
   - 第一步：切换到接受修改的分支（被合并，增加新内容）上：`git checkout [被合并分支名]`
   - 第二步：执行 merge 命令：`git merge [有新内容分支名]`
 
 - 解决冲突：冲突的表现
   ![](attachment/冲突.png)
-- 冲突的解决
+
+冲突的解决
   - 第一步：编辑文件，删除特殊符号
   - 第二步：把文件修改到满意的程度，保存退出
   - 第三步：`git add [文件名]`

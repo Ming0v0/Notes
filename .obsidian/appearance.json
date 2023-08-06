@@ -6,5 +6,6 @@
   "monospaceFontFamily": "Consolas",
   "cssTheme": "Minimal",
   "translucency": false,
-  "showViewHeader": false
+  "showViewHeader": false,
+  "baseFontSize": 18
 }

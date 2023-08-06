@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2e9d35cd9602406e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "开发工具/Git/attachment/Drawing 2023-08-06 19.31.27.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发工具/Git/attachment/Drawing 2023-08-06 19.31.27.excalidraw.md",
+                "file": "开发工具/Git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发工具/Git/attachment/Drawing 2023-08-06 19.31.27.excalidraw.md",
+                "file": "开发工具/Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发工具/Git/attachment/Drawing 2023-08-06 19.31.27.excalidraw.md"
+                "file": "开发工具/Git/Git.md"
               }
             }
           }
@@ -169,14 +158,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "2e9d35cd9602406e",
+  "active": "c059801db8e47c25",
   "lastOpenFiles": [
+    "开发工具/Git/attachment/Git Logo.png",
     "开发工具/Git/Git.md",
-    "开发工具/Git/attachment/Drawing 2023-08-06 19.31.27.excalidraw.md",
+    "开发工具/Git/attachment/Git简史.md",
     "开发工具/Git/attachment/未命名.canvas",
     "开发工具/Git/attachment/Git结构.md",
     "开发工具/Git/attachment/Git图标.png",
-    "开发工具/Git/attachment/Git Logo.png",
     "计算机基础/操作系统/第 1 章 概述.md",
     "计算机基础/计算机网络/概述.md",
     "计算机基础/计算机网络/attachment/概述/基于ISP的三层结构的因特网.png",
