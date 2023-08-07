@@ -1,8 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "选择排序",
+      "path": "计算机基础/数据结构与算法/排序/选择排序.md"
+    },
+    {
+      "basename": "插值查找",
+      "path": "计算机基础/数据结构与算法/查找/插值查找.md"
+    },
+    {
+      "basename": "二分查找",
+      "path": "计算机基础/数据结构与算法/查找/二分查找.md"
+    },
+    {
+      "basename": "斐波那契查找",
+      "path": "计算机基础/数据结构与算法/查找/斐波那契查找.md"
+    },
+    {
+      "basename": "线性查找",
+      "path": "计算机基础/数据结构与算法/查找/线性查找.md"
+    },
+    {
+      "basename": "第 1 章 概述",
+      "path": "计算机基础/操作系统/第 1 章 概述.md"
+    },
+    {
+      "basename": "概述",
+      "path": "计算机基础/程序设计语言基础知识/概述.md"
+    },
+    {
+      "basename": "ES6模块化与异步编程高级用法",
+      "path": "前端技术栈/ES6/ES6模块化与异步编程高级用法.md"
+    },
+    {
       "basename": "Git",
       "path": "开发工具/Git/Git.md"
+    },
+    {
+      "basename": "分支进程",
+      "path": "开发工具/Git/attachment/分支进程.md"
+    },
+    {
+      "basename": "哈希",
+      "path": "开发工具/Git/attachment/哈希.md"
+    },
+    {
+      "basename": "集中式版本控制",
+      "path": "开发工具/Git/attachment/集中式版本控制.png"
+    },
+    {
+      "basename": "集中式版本控制工具的文件管理机制",
+      "path": "开发工具/Git/attachment/集中式版本控制工具的文件管理机制.png"
+    },
+    {
+      "basename": "跨团队协作",
+      "path": "开发工具/Git/attachment/跨团队协作.png"
+    },
+    {
+      "basename": "提交对象及其父对象形成的链",
+      "path": "开发工具/Git/attachment/提交对象及其父对象形成的链.png"
+    },
+    {
+      "basename": "soft参数",
+      "path": "开发工具/Git/attachment/soft参数.md"
+    },
+    {
+      "basename": "hard参数",
+      "path": "开发工具/Git/attachment/hard参数.md"
+    },
+    {
+      "basename": "mixed参数",
+      "path": "开发工具/Git/attachment/mixed参数.md"
     },
     {
       "basename": "Git Logo",
@@ -15,10 +83,6 @@
     {
       "basename": "Git结构",
       "path": "开发工具/Git/attachment/Git结构.md"
-    },
-    {
-      "basename": "第 1 章 概述",
-      "path": "计算机基础/操作系统/第 1 章 概述.md"
     },
     {
       "basename": "概述",
