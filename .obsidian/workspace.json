@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/数据结构与算法/排序/选择排序.md",
+                "file": "计算机基础/计算机网络/概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/数据结构与算法/排序/选择排序.md",
+                "file": "计算机基础/计算机网络/概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/数据结构与算法/排序/选择排序.md",
+                "file": "计算机基础/计算机网络/概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/数据结构与算法/排序/选择排序.md"
+                "file": "计算机基础/计算机网络/概述.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "1ccbf70d1b5c75fd",
   "lastOpenFiles": [
+    "计算机基础/数据结构与算法/排序/选择排序.md",
     "计算机基础/数据结构与算法/查找/插值查找.md",
     "计算机基础/数据结构与算法/查找/二分查找.md",
     "计算机基础/数据结构与算法/查找/斐波那契查找.md",
@@ -201,7 +202,6 @@
     "Excalidraw/Drawing 2023-07-20 21.23.42.excalidraw.md",
     "Excalidraw",
     "Java技术栈/Java8-11新特性/Java8新特性.md",
-    "Java技术栈/23种设计模式/工厂模式.md",
     "网络工程"
   ]
 }
