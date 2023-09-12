@@ -382,8 +382,6 @@ init    0
 这时，我们就进入到单用户模式，使用 passwd  指令来修改 root  密码。
 
 ## 帮助指令
-
-**介绍**
 当我们对某个指令不熟悉时，我们可以使用 Linux 提供的帮助指令来了解这个指令的使用方法。
 
 **man 获得帮助信息**
@@ -396,7 +394,9 @@ man [命令或配置文件]（功能描述：获得帮助信息）
 
 **演示**
 案例：查看 ls 命令的帮助信息
-![](file:///C:/Users/Jun/AppData/Local/Temp/msohtmlclip1/01/clip_image001.jpg)
+![](attachment/Pasted%20image%2020230912161832.png)
+
+---
 
 **help 指令**
 
@@ -407,7 +407,444 @@ help 命令 （功能描述：获得 shell 内置命令的帮助信息）
 **演示**
 
 案例：查看 cd 命令的帮助信息
-![](file:///C:/Users/Jun/AppData/Local/Temp/msohtmlclip1/01/clip_image001.jpg)
+![](attachment/Pasted%20image%2020230912161823.png)
 
   
 
+## 文件目录类
+---
+**pwd 指令**
+
+基本语法
+```txt
+pwd (功能描述：显示当前工作目录的绝对路径)
+```
+
+**应用实例**
+案例：显示当前工作目录的绝对路径
+![](attachment/Pasted%20image%2020230912161627.png)
+
+  
+
+---
+**ls指令**
+
+基本语法
+```txt
+ls   [选项]  [目录或是文件]
+```
+
+常用选项
+- -a ：显示当前目录所有的文件和目录，包括隐藏的。
+- -l    ：以列表的方式显示信息
+
+**应用实例**
+案例:查看当前目录的所有内容信息
+![](attachment/Pasted%20image%2020230912161800.png)
+
+  
+![](attachment/Pasted%20image%2020230912161807.png)
+
+---
+**cd 指令**
+
+基本语法
+```txt
+cd    [参数] (功能描述：切换到指定目录)
+```
+
+常用参数
+- 绝对路径和相对路径
+
+**如何理解绝对路径和相对路径**
+绝对路径是指**从文件系统的根目录开始指定文件或目录的位置**，它包含了完整的路径信息。例如，在Windows系统中，绝对路径可能是`C:\Users\myuser\Documents\file.txt`，在Unix/Linux系统中，绝对路径可能是`/home/myuser/Documents/file.txt`。无论当前所在的工作目录是什么，绝对路径都可以准确地定位到文件或目录。
+
+相对路径是相对于当前目录或当前文件位置的路径。它**指定的是文件或目录与当前位置的相对关系**。相对路径可以简化路径的输入。例如，当前目录下的文件file.txt的相对路径可能是`./file.txt`或者`file.txt`，其中"."表示当前目录。父目录中的文件的相对路径可能是`../file.txt`，其中".."表示父目录。
+
+**总结起来，绝对路径是从根目录开始指定文件或目录的路径，相对路径是相对于当前位置指定文件或目录的路径。**
+
+- cd ~ 或者 cd ：回到自己的家目录
+
+- cd .. 回到当前目录的上一级目录
+
+**应用实例**
+案例 1：使用绝对路径切换到 root 目录
+```txt
+cd  /root
+```
+
+案例 2:     使用相对路径到/root 目录
+这里我们需要知道该用户目录在哪个目录下，才能写出这个指令，假设在`/usr/lib 
+```txt
+cd   ../../root
+```
+
+案例 3：表示回到当前目录的上一级目录
+```txt
+cd ..
+```
+
+案例 4：回到家目录cd
+```txt
+cd    ~
+```
+
+---
+
+**mkdir 指令**
+
+mkdir 指令用于创建目录(make directory)
+
+基本语法
+```txt
+mkdir [选项]  要创建的目录
+```
+  
+常用选项
+- -p ：创建多级目录
+
+**应用实例**
+案例 1:创建一个目录 `/home/dog`
+![](attachment/Pasted%20image%2020230912162720.png)
+
+案例 2:创建多级目录 /home/animal/tiger
+![](attachment/Pasted%20image%2020230912162752.png)
+
+--- 
+**rmdir 指令**
+
+rmdir 指令删除空目录
+
+基本语法
+```txt
+rmdir    [选项]    要删除的空目录
+```
+
+**应用实例**
+案例 1:删除一个目录 /home/dog
+![](attachment/Pasted%20image%2020230912162911.png)
+
+**使用细节**
+`rmdir` 删除的是空目录，如果目录下有内容时无法删除的。
+提示：如果需要删除非空目录，需要使用  `rm -rf` 要删除的目录
+
+![](attachment/Pasted%20image%2020230912162959.png)
+
+---
+touch 指令
+
+touch 指令创建空文件
+
+基本语法
+
+```txt
+touch 文件名称
+```
+
+应用实例
+案例 1: 创建一个空文件 hello.txt
+![](attachment/Pasted%20image%2020230912163113.png)
+
+![](attachment/Pasted%20image%2020230912163119.png)
+
+--- 
+**cp 指令**
+
+cp 指令拷贝文件到指定目录
+
+基本语法
+
+```txt
+cp [选项] source dest
+```
+
+常用选项
+
+- -r ：递归复制整个文件夹
+
+应用实例
+案例 1: 将 `/home/aaa.txt`  拷贝到` /home/bbb` 目录下(拷贝单个文件)
+![](attachment/Pasted%20image%2020230912163313.png)
+
+案例 2: 递归复制整个文件夹，举例
+将/home/test 整个目录拷贝到 /home/zwj 目录
+![](attachment/Pasted%20image%2020230912163330.png)
+
+
+**使用细节**
+
+强制覆盖不提示的方法：`\cp`
+
+![](attachment/Pasted%20image%2020230912163514.png)
+
+---
+
+**rm 指令**
+
+rm 指令移除【删除】文件或目录
+
+基本语法
+
+```txt
+rm  [选项]  要删除的文件或目录
+```
+
+常用选项
+- -r ：递归删除整个文件夹
+- -f ： 强制删除不提示
+
+**应用实例**
+案例 1: 将 /home/aaa.txt  删除
+![](attachment/Pasted%20image%2020230912163733.png)
+
+  
+案例 2: 递归删除整个文件夹 /home/bbb
+![](attachment/Pasted%20image%2020230912163829.png)
+
+**使用细节**
+强制删除不提示的方法：带上 -f 参数即可
+
+![](attachment/Pasted%20image%2020230912163847.png)
+
+--- 
+**mv 指令**
+
+mv 移动文件与目录或重命名
+
+基本语法
+```txt
+mv oldNameFile newNameFile       (功能描述：重命名) 
+mv /temp/movefile /targetFolder  (功能描述：移动文件)
+```
+
+**应用实例**
+案例 1: 将 /home/aaa.txt  文件 重新命名为 pig.txt
+![](attachment/Pasted%20image%2020230912164005.png)
+
+案例 2:将 /home/pig.txt     文件 移动到 /root 目录下
+![](attachment/Pasted%20image%2020230912164035.png)
+
+--- 
+**cat 指令**
+
+cat 查看文件内容，是以只读的方式打开。
+
+基本语法
+```txt
+cat [选项] 要查看的文件
+```
+
+常用选项
+- -n ：显示行号
+
+**应用实例**
+案例 1:  /etc/profile    文件内容，并显示行号
+![](attachment/Pasted%20image%2020230912164150.png)
+
+• 使用细节
+cat 只能浏览文件，而不能修改文件，为了浏览方便，一般会带上
+`管道命令 | more cat 文件名 | more [分页浏览]`
+
+---
+**more 指令**
+
+more 指令是一个基于VI 编辑器的文本过滤器，**它以全屏幕的方式按页显示文本文件的内容**。more 指令中内置了若干快捷键，详见操作说明
+
+基本语法
+```txt
+more 要查看的文件
+```
+
+应用实例
+案例: 采用 more 查看文件
+![](attachment/Pasted%20image%2020230912164446.png)
+
+快捷键栏
+![](attachment/Pasted%20image%2020230912164540.png)
+
+
+---
+**less 指令**
+
+less 指令用来分屏查看文件内容，它的功能与more 指令类似，但是比 more 指令更加强大，支持各种显示终端。less 指令在显示文件内容时，并不是一次将整个文件加载之后才显示，而是根据显示需要加载内容，**对于显示大型文件具有较高的效率**。
+
+基本语法
+
+```txt
+less 要查看的文件
+```
+
+
+应用实例
+案例: 采用 less 查看一个大文件文件 /opt/金庸-射雕英雄传 txt 精校版.txt
+![](attachment/Pasted%20image%2020230912164652.png)
+
+快捷键
+![](attachment/Pasted%20image%2020230912164709.png)
+
+---
+
+**> 指令 和 >>  指令**
+
+\> 指令 和 >> 指`
+- \> 输出重定向 : 会将原来的文件的内容覆盖
+- \>> 追加： 不会覆盖原来文件的内容，而是追加到文件的尾部。
+
+基本语法
+```txt
+ls -l >文件  （功能描述：列表的内容写入文件 a.txt 中（覆盖写））
+```
+
+![](file:///C:/Users/Jun/AppData/Local/Temp/msohtmlclip1/01/clip_image001.jpg)
+
+说明：ls -l > a.txt , 将 ls -l 的显示的内容覆盖写入到 a.txt 文件，如果该文件不存在，就创建该文件。
+
+```txt
+ls -al >>文件       （功能描述：列表的内容追加到文件 aa.txt 的末尾）
+```
+
+![](attachment/Pasted%20image%2020230912165016.png)
+
+```txt
+cat 文件 1 > 文件 2 （功能描述：将文件 1 的内容覆盖到文件 2）
+```
+![](attachment/Pasted%20image%2020230912165053.png)
+
+```txt
+echo "内容" >> 文件
+```
+
+**应用实例**
+案例 1: 将 /home 目录下的文件列表 写入到 /home/info.txt  中
+![](attachment/Pasted%20image%2020230912165233.png)
+
+案例 2: 将当前日历信息 追加到  /home/mycal 文件中
+![](attachment/Pasted%20image%2020230912165305.png)
+
+--- 
+
+**echo 指令**
+
+echo 输出内容到控制台。
+
+基本语法
+```txt
+echo    [选项]    [输出内容]
+```
+
+**应用实例**
+案例: 使用 echo 指令输出环境变量,输出当前的环境路径
+![](attachment/Pasted%20image%2020230912165536.png)
+
+案例: 使用 echo 指令输出 hello,world!
+![](attachment/Pasted%20image%2020230912165710.png)
+
+---
+
+**head 指令**
+
+head 用于显示文件的开头部分内容，默认情况下 head 指令显示文件的前 10 行内容
+
+基本语法
+
+```txt
+head  文件 (功能描述：查看文件头 10 行内容)
+head -n 5 文件  (功能描述：查看文件头 5 行内容，5 可以是任意行数)
+```
+
+应用实例
+案例: 查看/etc/profile 的前面 5 行代码
+![](attachment/Pasted%20image%2020230912165830.png)
+
+--- 
+
+**tail 指令**
+
+tail 用于输出文件中尾部的内容，默认情况下 tail 指令显示文件的后 10 行内容。
+基本语法
+
+```txt
+tail  文件        （功能描述：查看文件后 10 行内容）
+tail  -n 5 文件   （功能描述：查看文件后 5 行内容，5 可以是任意行数）
+tail  -f    文件  （功能描述：实时追踪该文档的所有更新，工作经常使用）
+```
+
+**应用实例**
+案例 1: 查看/etc/profile 最后 5 行的代码
+![](attachment/Pasted%20image%2020230912170106.png)
+
+案例 2: 实时监控 mydate.txt ,  看看到文件有变化时，是否看到， 实时的追加日期
+![](attachment/Pasted%20image%2020230912170149.png)
+
+--- 
+
+**ln 指令**
+软链接也叫符号链接，类似于 windows 里的快捷方式，主要存放了链接其他文件的路径
+
+基本语法
+```txt
+ln -s [原文件或目录] [软链接名] （功能描述：给原文件创建一个软链接）
+```
+
+应用实例
+案例 1: 在/home 目录下创建一个软连接 linkToRoot，连接到 /root  目录
+![](attachment/Pasted%20image%2020230912170343.png)
+
+案例 2: 删除软连接 linkToRoot
+![](attachment/Pasted%20image%2020230912170403.png)
+
+**细节说明**
+当我们使用 pwd 指令查看目录时，仍然看到的是软链接所在目录。
+
+--- 
+
+**history 指令**
+
+查看已经执行过历史命令,也可以执行历史指令
+
+基本语法
+```txt
+history   （功能描述：查看已经执行过历史命令）
+```
+
+应用实例
+案例 1: 显示所有的历史命令
+![](attachment/Pasted%20image%2020230912170519.png)
+
+案例 2: 显示最近使用过的 10 个指令。
+![](attachment/Pasted%20image%2020230912170530.png)
+
+案例 3：执行历史编号为 178 的指令
+![](attachment/Pasted%20image%2020230912170626.png)
+
+## 时间日期类
+
+**date 指令**
+
+显示当前日期
+
+基本语法
+```txt
+date         （功能描述：显示当前时间）
+date +%Y     （功能描述：显示当前年份）
+date +%m     （功能描述：显示当前月份）
+date +%d     （功能描述：显示当前是哪一天）
+date "+%Y-%m-%d %H:%M:%S"（功能描述：显示年月日时分秒）
+```
+
+• 应用实例
+案例 1: 显示当前时间信息
+![](attachment/Pasted%20image%2020230912170927.png)
+
+案例 2: 显示当前时间年月日
+![](attachment/Pasted%20image%2020230912170937.png)
+
+案例 3: 显示当前时间年月日时分秒
+![](attachment/Pasted%20image%2020230912170949.png)
+
+**设置日期**
+
+基础语法
+```txt
+date    -s    字符串时间
+```
