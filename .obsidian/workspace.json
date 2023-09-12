@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/计算机网络/概述.md",
+                "file": "Linux/Linux基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/计算机网络/概述.md",
+                "file": "Linux/Linux基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/计算机网络/概述.md",
+                "file": "Linux/Linux基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/计算机网络/概述.md"
+                "file": "Linux/Linux基础.md"
               }
             }
           }
@@ -160,11 +160,21 @@
   },
   "active": "1ccbf70d1b5c75fd",
   "lastOpenFiles": [
-    "计算机基础/计算机网络/attachment/Pasted image 20230907020649.png",
-    "计算机基础/计算机网络/attachment/Pasted image 20230907020544.png",
-    "计算机基础/计算机网络/attachment/Pasted image 20230907020347.png",
-    "计算机基础/计算机网络/attachment/Pasted image 20230907020313.png",
-    "计算机基础/计算机网络/attachment/Pasted image 20230907020205.png",
+    "Linux/attachment/Pasted image 20230912122636.png",
+    "Linux/attachment/Pasted image 20230912122345.png",
+    "Linux/attachment/Pasted image 20230912122344.png",
+    "Linux/attachment/Pasted image 20230912122116.png",
+    "Linux/attachment/Pasted image 20230912122114.png",
+    "Linux/attachment/Pasted image 20230912121933.png",
+    "Linux/attachment/Pasted image 20230912121758.png",
+    "Linux/attachment/Pasted image 20230912121732.png",
+    "Linux/attachment/Pasted image 20230912121721.png",
+    "Linux/attachment/Pasted image 20230912121326.png",
+    "Linux/attachment/Pasted image 20230912115643.png",
+    "Linux/attachment",
+    "计算机基础/计算机网络/概述.md",
+    "Linux/Linux基础.md",
+    "Linux",
     "计算机基础/数据结构与算法/排序/选择排序.md",
     "计算机基础/数据结构与算法/查找/插值查找.md",
     "计算机基础/数据结构与算法/查找/二分查找.md",
@@ -176,19 +186,12 @@
     "开发工具/Git/Git.md",
     "开发工具/Git/attachment/分支进程.md",
     "开发工具/Git/attachment/哈希.md",
-    "开发工具/Git/attachment/集中式版本控制.png",
-    "开发工具/Git/attachment/集中式版本控制工具的文件管理机制.png",
-    "开发工具/Git/attachment/跨团队协作.png",
-    "开发工具/Git/attachment/提交对象及其父对象形成的链.png",
     "开发工具/Git/attachment/soft参数.md",
-    "开发工具/Git/attachment/Pasted image 20230806233651.png",
-    "开发工具/Git/attachment/Pasted image 20230806233637.png",
     "开发工具/Git/attachment/hard参数.md",
     "开发工具/Git/attachment/mixed参数.md",
     "开发工具/Git/attachment/Git简史.md",
     "开发工具/Git/attachment/未命名.canvas",
     "开发工具/Git/attachment/Git结构.md",
-    "计算机基础/计算机网络/概述.md",
     "计算机基础/操作系统/第 2 章 进程管理.md",
     "README.md",
     "ignore",
@@ -200,7 +203,6 @@
     "计算机基础/计算机组成原理/系统总线.md",
     "计算机基础/操作系统/第 3 章 存储管理.md",
     "计算机基础/计算机网络/数据链路层.md",
-    "Excalidraw/Drawing 2023-07-20 21.23.42.excalidraw.md",
     "Excalidraw",
     "网络工程"
   ]
