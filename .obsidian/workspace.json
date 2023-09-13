@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux基础.md",
+                "file": "数据库/MySQL/基础篇/第01章_数据库概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux基础.md",
+                "file": "数据库/MySQL/基础篇/第01章_数据库概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux基础.md",
+                "file": "数据库/MySQL/基础篇/第01章_数据库概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux基础.md"
+                "file": "数据库/MySQL/基础篇/第01章_数据库概述.md"
               }
             }
           }
@@ -160,6 +160,9 @@
   },
   "active": "1ccbf70d1b5c75fd",
   "lastOpenFiles": [
+    "数据库/MySQL/基础篇/第00章_写在最后.md",
+    "数据库/MySQL/基础篇/第00章_写在前面.md",
+    "Linux/Linux基础.md",
     "Linux/attachment/Pasted image 20230913192843.png",
     "Linux/attachment/Pasted image 20230913192839.png",
     "Linux/attachment/Pasted image 20230913192833.png",
@@ -170,10 +173,8 @@
     "Linux/attachment/Pasted image 20230913192009.png",
     "Linux/attachment/Pasted image 20230913191720.png",
     "Linux/attachment/Pasted image 20230913191609.png",
-    "Linux/attachment/Pasted image 20230913191451.png",
     "Linux/attachment",
     "计算机基础/计算机网络/概述.md",
-    "Linux/Linux基础.md",
     "Linux",
     "计算机基础/数据结构与算法/排序/选择排序.md",
     "计算机基础/数据结构与算法/查找/插值查找.md",
@@ -202,7 +203,6 @@
     "images",
     "计算机基础/计算机组成原理/系统总线.md",
     "计算机基础/操作系统/第 3 章 存储管理.md",
-    "计算机基础/计算机网络/数据链路层.md",
     "Excalidraw",
     "网络工程"
   ]
