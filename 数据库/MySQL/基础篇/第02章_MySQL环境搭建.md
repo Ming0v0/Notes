@@ -1,10 +1,4 @@
-# 第02章_MySQL环境搭建
-
-讲师：尚硅谷 宋红康（江湖人称：康师傅）
-
-官网：[http://www.atguigu.com](http://www.atguigu.com/)
-
-***
+# 第02章 MySQL环境搭建
 
 ## 1. MySQL的卸载
 
@@ -158,7 +152,7 @@ MySQL下载完成后，找到下载文件，双击进行安装，具体操作步
 
 步骤2：打开“Choosing a Setup Type”（选择安装类型）窗口，在其中列出了5种安装类型，分别是Developer Default（默认安装类型）、Server only（仅作为服务器）、Client only（仅作为客户端）、Full（完全安装）、Custom（自定义安装）。这里选择“Custom（自定义安装）”类型按钮，单击“Next(下一步)”按钮。
 
-<img src="images/image-20211014170553535.png" alt="image-20211014170553535" style="zoom:90%;" />
+<img src="attachment/image-20211014170553535.png" alt="image-20211014170553535" style="zoom:90%;" />
 
 步骤3：打开“Select Products” （选择产品）窗口，可以定制需要安装的产品清单。例如，选择“MySQL Server 8.0.26-X64”后，单击“→”添加按钮，即可选择安装MySQL服务器，如图所示。采用通用的方法，可以添加其他你需要安装的产品。
 

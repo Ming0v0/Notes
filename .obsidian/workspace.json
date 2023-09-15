@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/MySQL/基础篇/第01章_数据库概述.md",
+                "file": "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/MySQL/基础篇/第01章_数据库概述.md",
+                "file": "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/MySQL/基础篇/第01章_数据库概述.md",
+                "file": "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/MySQL/基础篇/第01章_数据库概述.md"
+                "file": "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md"
               }
             }
           }
@@ -160,6 +160,11 @@
   },
   "active": "1ccbf70d1b5c75fd",
   "lastOpenFiles": [
+    "数据库/MySQL/基础篇/第03章_基本的SELECT语句.md",
+    "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md",
+    "数据库/MySQL/基础篇/第01章 数据库概述.md",
+    "数据库/MySQL/基础篇/attachment/Pasted image 20230915190110.png",
+    "数据库/MySQL/基础篇/attachment/Pasted image 20230915184436.png",
     "数据库/MySQL/基础篇/第00章_写在最后.md",
     "数据库/MySQL/基础篇/第00章_写在前面.md",
     "Linux/Linux基础.md",
@@ -171,8 +176,6 @@
     "Linux/attachment/Pasted image 20230913192548.png",
     "Linux/attachment/Pasted image 20230913192538.png",
     "Linux/attachment/Pasted image 20230913192009.png",
-    "Linux/attachment/Pasted image 20230913191720.png",
-    "Linux/attachment/Pasted image 20230913191609.png",
     "Linux/attachment",
     "计算机基础/计算机网络/概述.md",
     "Linux",
@@ -199,10 +202,7 @@
     "新建 文本文档.txt",
     "新建文件夹",
     "images/前端路由的工作方式.png.md",
-    "前端技术栈/Vue/Vue2/第05章 Router.md",
     "images",
-    "计算机基础/计算机组成原理/系统总线.md",
-    "计算机基础/操作系统/第 3 章 存储管理.md",
     "Excalidraw",
     "网络工程"
   ]

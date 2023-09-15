@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "第01章_数据库概述",
-      "path": "数据库/MySQL/基础篇/第01章_数据库概述.md"
+      "basename": "第02章_MySQL环境搭建",
+      "path": "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md"
+    },
+    {
+      "basename": "第03章_基本的SELECT语句",
+      "path": "数据库/MySQL/基础篇/第03章_基本的SELECT语句.md"
+    },
+    {
+      "basename": "第01章 数据库概述",
+      "path": "数据库/MySQL/基础篇/第01章 数据库概述.md"
     },
     {
       "basename": "Linux基础",
