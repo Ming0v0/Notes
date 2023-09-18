@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "数据链路层",
+      "path": "计算机基础/计算机网络/数据链路层.md"
+    },
+    {
+      "basename": "Linux基础",
+      "path": "Linux/Linux基础.md"
+    },
+    {
+      "basename": "插值查找",
+      "path": "计算机基础/数据结构与算法/查找/插值查找.md"
+    },
+    {
       "basename": "第02章_MySQL环境搭建",
       "path": "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md"
     },
@@ -13,20 +25,12 @@
       "path": "数据库/MySQL/基础篇/第01章 数据库概述.md"
     },
     {
-      "basename": "Linux基础",
-      "path": "Linux/Linux基础.md"
-    },
-    {
       "basename": "概述",
       "path": "计算机基础/计算机网络/概述.md"
     },
     {
       "basename": "选择排序",
       "path": "计算机基础/数据结构与算法/排序/选择排序.md"
-    },
-    {
-      "basename": "插值查找",
-      "path": "计算机基础/数据结构与算法/查找/插值查找.md"
     },
     {
       "basename": "二分查找",
@@ -135,10 +139,6 @@
     {
       "basename": "Pasted image 20220522143320",
       "path": "计算机基础/操作系统/attachment/Pasted image 20220522143320.png"
-    },
-    {
-      "basename": "数据链路层",
-      "path": "计算机基础/计算机网络/数据链路层.md"
     }
   ],
   "omittedPaths": [],

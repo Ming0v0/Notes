@@ -11,8 +11,12 @@
             "id": "cf7900411daeb386",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "计算机基础/计算机网络/数据链路层.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md",
+                "file": "计算机基础/计算机网络/数据链路层.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md",
+                "file": "计算机基础/计算机网络/数据链路层.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md"
+                "file": "计算机基础/计算机网络/数据链路层.md"
               }
             }
           }
@@ -154,8 +158,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "398eb5a350d7b420",
+  "active": "cf7900411daeb386",
   "lastOpenFiles": [
+    "Linux/Linux基础.md",
+    "计算机基础/数据结构与算法/查找/插值查找.md",
     "数据库/MySQL/基础篇/第03章_基本的SELECT语句.md",
     "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md",
     "数据库/MySQL/基础篇/第01章 数据库概述.md",
@@ -163,7 +169,6 @@
     "数据库/MySQL/基础篇/attachment/Pasted image 20230915184436.png",
     "数据库/MySQL/基础篇/第00章_写在最后.md",
     "数据库/MySQL/基础篇/第00章_写在前面.md",
-    "Linux/Linux基础.md",
     "Linux/attachment/Pasted image 20230913192843.png",
     "Linux/attachment/Pasted image 20230913192839.png",
     "Linux/attachment/Pasted image 20230913192833.png",
@@ -176,7 +181,6 @@
     "计算机基础/计算机网络/概述.md",
     "Linux",
     "计算机基础/数据结构与算法/排序/选择排序.md",
-    "计算机基础/数据结构与算法/查找/插值查找.md",
     "计算机基础/数据结构与算法/查找/二分查找.md",
     "计算机基础/数据结构与算法/查找/斐波那契查找.md",
     "计算机基础/数据结构与算法/查找/线性查找.md",
