@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux基础.md",
+                "file": "计算机基础/数据库技术基础/数据模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux基础.md",
+                "file": "计算机基础/数据库技术基础/数据模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux基础.md",
+                "file": "计算机基础/数据库技术基础/数据模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux基础.md"
+                "file": "计算机基础/数据库技术基础/数据模型.md"
               }
             }
           }
@@ -160,13 +160,14 @@
   },
   "active": "cf7900411daeb386",
   "lastOpenFiles": [
+    "计算机基础/数据库技术基础/关系代数.md",
     "数学/初中数学/七年级.md",
+    "Linux/Linux基础.md",
     "数学/初中数学/attachment/Pasted image 20230918111858.png",
     "数学/初中数学/attachment",
     "计算机基础/计算机网络/数据链路层.md",
     "数学/初中数学",
     "数学",
-    "Linux/Linux基础.md",
     "计算机基础/数据结构与算法/查找/插值查找.md",
     "数据库/MySQL/基础篇/第03章_基本的SELECT语句.md",
     "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md",

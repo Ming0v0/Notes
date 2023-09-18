@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Linux基础",
-      "path": "Linux/Linux基础.md"
+      "basename": "数据模型",
+      "path": "计算机基础/数据库技术基础/数据模型.md"
+    },
+    {
+      "basename": "关系代数",
+      "path": "计算机基础/数据库技术基础/关系代数.md"
     },
     {
       "basename": "七年级",
       "path": "数学/初中数学/七年级.md"
+    },
+    {
+      "basename": "Linux基础",
+      "path": "Linux/Linux基础.md"
     },
     {
       "basename": "数据链路层",
