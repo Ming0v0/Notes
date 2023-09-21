@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "55e1f941e7c9971b",
+        "id": "365c2542c2fa22e5",
         "type": "tabs",
         "children": [
           {
-            "id": "ba9a4cf598bc82a5",
+            "id": "51720daf07731026",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/初中数学/七年级.md",
+                "file": "计算机基础/计算机组成原理/计算机系统概论.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "30784d06b09dabce",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/初中数学/七年级.md",
+                "file": "计算机基础/计算机组成原理/计算机系统概论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/初中数学/七年级.md",
+                "file": "计算机基础/计算机组成原理/计算机系统概论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/初中数学/七年级.md"
+                "file": "计算机基础/计算机组成原理/计算机系统概论.md"
               }
             }
           }
@@ -160,7 +159,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "398eb5a350d7b420",
+  "active": "51720daf07731026",
   "lastOpenFiles": [
     "数学/初中数学/七年级.md",
     "数据库/MySQL/基础篇/第04章 运算符.md",
