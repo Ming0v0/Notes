@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "七年级",
+      "path": "数学/初中数学/七年级.md"
+    },
+    {
       "basename": "第04章 运算符",
       "path": "数据库/MySQL/基础篇/第04章 运算符.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "第01章 面向对象",
       "path": "Java技术栈/Java SE/第01章 面向对象.md"
-    },
-    {
-      "basename": "七年级",
-      "path": "数学/初中数学/七年级.md"
     },
     {
       "basename": "二分查找",
