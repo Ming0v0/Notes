@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "第04章 运算符",
+      "path": "数据库/MySQL/基础篇/第04章 运算符.md"
+    },
+    {
+      "basename": "Express框架",
+      "path": "前端技术栈/Node.js/Express框架.md"
+    },
+    {
+      "basename": "Linux基础",
+      "path": "Linux/Linux基础.md"
+    },
+    {
+      "basename": "第06章 缓存机制",
+      "path": "Java技术栈/MyBatis/第06章 缓存机制.md"
+    },
+    {
+      "basename": "第08章 运行原理",
+      "path": "Java技术栈/MyBatis/第08章 运行原理.md"
+    },
+    {
+      "basename": "第07章 逆向工程",
+      "path": "Java技术栈/MyBatis/第07章 逆向工程.md"
+    },
+    {
+      "basename": "Pasted image 20220612203225",
+      "path": "Java技术栈/Java SE/attachment/Pasted image 20220612203225.png"
+    },
+    {
+      "basename": "Pasted image 20220612200533",
+      "path": "Java技术栈/Java SE/attachment/Pasted image 20220612200533.png"
+    },
+    {
+      "basename": "Pasted image 20220612193700",
+      "path": "Java技术栈/Java SE/attachment/Pasted image 20220612193700.png"
+    },
+    {
+      "basename": "单例模式",
+      "path": "Java技术栈/23种设计模式/单例模式.md"
+    },
+    {
+      "basename": "第03章 多线程",
+      "path": "Java技术栈/Java SE/第03章 多线程.md"
+    },
+    {
+      "basename": "第02章 异常处理",
+      "path": "Java技术栈/Java SE/第02章 异常处理.md"
+    },
+    {
+      "basename": "第01章 面向对象",
+      "path": "Java技术栈/Java SE/第01章 面向对象.md"
+    },
+    {
       "basename": "七年级",
       "path": "数学/初中数学/七年级.md"
+    },
+    {
+      "basename": "二分查找",
+      "path": "计算机基础/数据结构与算法/查找/二分查找.md"
     },
     {
       "basename": "第06章 多表查询",
@@ -11,10 +67,6 @@
     {
       "basename": "第05章 排序与分页",
       "path": "数据库/MySQL/基础篇/第05章 排序与分页.md"
-    },
-    {
-      "basename": "第04章 运算符",
-      "path": "数据库/MySQL/基础篇/第04章 运算符.md"
     },
     {
       "basename": "第03章 基本的SELECT语句",
@@ -27,18 +79,6 @@
     {
       "basename": "第01章 数据库概述",
       "path": "数据库/MySQL/基础篇/第01章 数据库概述.md"
-    },
-    {
-      "basename": "面向对象",
-      "path": "Java技术栈/Java SE/面向对象.md"
-    },
-    {
-      "basename": "多线程",
-      "path": "Java技术栈/Java SE/多线程.md"
-    },
-    {
-      "basename": "异常处理",
-      "path": "Java技术栈/Java SE/异常处理.md"
     },
     {
       "basename": "计算机系统概论",
@@ -69,10 +109,6 @@
       "path": "计算机基础/数据库技术基础/关系代数.md"
     },
     {
-      "basename": "Linux基础",
-      "path": "Linux/Linux基础.md"
-    },
-    {
       "basename": "数据链路层",
       "path": "计算机基础/计算机网络/数据链路层.md"
     },
@@ -87,10 +123,6 @@
     {
       "basename": "选择排序",
       "path": "计算机基础/数据结构与算法/排序/选择排序.md"
-    },
-    {
-      "basename": "二分查找",
-      "path": "计算机基础/数据结构与算法/查找/二分查找.md"
     },
     {
       "basename": "斐波那契查找",
@@ -167,34 +199,6 @@
     {
       "basename": "基于ISP的三层结构的因特网",
       "path": "计算机基础/计算机网络/attachment/概述/基于ISP的三层结构的因特网.png"
-    },
-    {
-      "basename": "第 2 章 进程管理",
-      "path": "计算机基础/操作系统/第 2 章 进程管理.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "第05章 Router",
-      "path": "前端技术栈/Vue/Vue2/第05章 Router.md"
-    },
-    {
-      "basename": "系统总线",
-      "path": "计算机基础/计算机组成原理/系统总线.md"
-    },
-    {
-      "basename": "第 3 章 存储管理",
-      "path": "计算机基础/操作系统/第 3 章 存储管理.md"
-    },
-    {
-      "basename": "Pasted image 20220522141605",
-      "path": "计算机基础/操作系统/attachment/Pasted image 20220522141605.png"
-    },
-    {
-      "basename": "Pasted image 20220522143320",
-      "path": "计算机基础/操作系统/attachment/Pasted image 20220522143320.png"
     }
   ],
   "omittedPaths": [],
