@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "斐波那契查找",
+      "path": "计算机基础/数据结构与算法/查找/斐波那契查找.md"
+    },
+    {
+      "basename": "插值查找",
+      "path": "计算机基础/数据结构与算法/查找/插值查找.md"
+    },
+    {
+      "basename": "二分查找",
+      "path": "计算机基础/数据结构与算法/查找/二分查找.md"
+    },
+    {
+      "basename": "线性查找",
+      "path": "计算机基础/数据结构与算法/查找/线性查找.md"
+    },
+    {
+      "basename": "系统分析与设计概述",
+      "path": "计算机基础/结构化开发方法/系统分析与设计概述.md"
+    },
+    {
+      "basename": "系统总线",
+      "path": "计算机基础/计算机组成原理/系统总线.md"
+    },
+    {
+      "basename": "概述",
+      "path": "计算机基础/程序设计语言基础知识/概述.md"
+    },
+    {
+      "basename": "第06章 多表查询",
+      "path": "数据库/MySQL/基础篇/第06章 多表查询.md"
+    },
+    {
       "basename": "第05章 排序与分页",
       "path": "数据库/MySQL/基础篇/第05章 排序与分页.md"
     },
     {
-      "basename": "第03章 基本的SELECT语句",
-      "path": "数据库/MySQL/基础篇/第03章 基本的SELECT语句.md"
-    },
-    {
       "basename": "第04章 运算符",
       "path": "数据库/MySQL/基础篇/第04章 运算符.md"
+    },
+    {
+      "basename": "第03章 基本的SELECT语句",
+      "path": "数据库/MySQL/基础篇/第03章 基本的SELECT语句.md"
     },
     {
       "basename": "计算机系统概论",
@@ -69,14 +101,6 @@
       "path": "Java技术栈/Java SE/第01章 面向对象.md"
     },
     {
-      "basename": "二分查找",
-      "path": "计算机基础/数据结构与算法/查找/二分查找.md"
-    },
-    {
-      "basename": "第06章 多表查询",
-      "path": "数据库/MySQL/基础篇/第06章 多表查询.md"
-    },
-    {
       "basename": "第02章_MySQL环境搭建",
       "path": "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md"
     },
@@ -113,10 +137,6 @@
       "path": "计算机基础/计算机网络/数据链路层.md"
     },
     {
-      "basename": "插值查找",
-      "path": "计算机基础/数据结构与算法/查找/插值查找.md"
-    },
-    {
       "basename": "概述",
       "path": "计算机基础/计算机网络/概述.md"
     },
@@ -125,20 +145,8 @@
       "path": "计算机基础/数据结构与算法/排序/选择排序.md"
     },
     {
-      "basename": "斐波那契查找",
-      "path": "计算机基础/数据结构与算法/查找/斐波那契查找.md"
-    },
-    {
-      "basename": "线性查找",
-      "path": "计算机基础/数据结构与算法/查找/线性查找.md"
-    },
-    {
       "basename": "第 1 章 概述",
       "path": "计算机基础/操作系统/第 1 章 概述.md"
-    },
-    {
-      "basename": "概述",
-      "path": "计算机基础/程序设计语言基础知识/概述.md"
     },
     {
       "basename": "ES6模块化与异步编程高级用法",
@@ -191,14 +199,6 @@
     {
       "basename": "Git简史",
       "path": "开发工具/Git/attachment/Git简史.md"
-    },
-    {
-      "basename": "Git结构",
-      "path": "开发工具/Git/attachment/Git结构.md"
-    },
-    {
-      "basename": "基于ISP的三层结构的因特网",
-      "path": "计算机基础/计算机网络/attachment/概述/基于ISP的三层结构的因特网.png"
     }
   ],
   "omittedPaths": [],
