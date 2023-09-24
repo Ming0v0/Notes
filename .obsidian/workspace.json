@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/第03章 常用命令.md",
+                "file": "Linux/第02章 Vi 和 Vim 编辑器.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/第03章 常用命令.md",
+                "file": "Linux/第02章 Vi 和 Vim 编辑器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/第03章 常用命令.md",
+                "file": "Linux/第02章 Vi 和 Vim 编辑器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/第03章 常用命令.md"
+                "file": "Linux/第02章 Vi 和 Vim 编辑器.md"
               }
             }
           }
@@ -160,12 +160,24 @@
   },
   "active": "51720daf07731026",
   "lastOpenFiles": [
-    "Linux/第04章 组管理和权限管理.md",
-    "Linux/Linux基础.md",
+    "Linux/第01章 Linux概述.md",
     "Linux/第03章 常用命令.md",
+    "Linux/attachment/Pasted image 20230924164013.png",
+    "Linux/attachment/Pasted image 20230924162414.png",
+    "Linux/attachment/Pasted image 20230924162007.png",
+    "Linux/attachment/Pasted image 20230924161431.png",
+    "Linux/第05章 Crond 任务调度.md",
+    "Linux/第04章 组管理和权限管理.md",
+    "Linux/attachment/Pasted image 20230924151749.png",
+    "Linux/attachment/Pasted image 20230924151624.png",
+    "Linux/第09章 Shell 编程.md",
+    "Linux/Linux基础.md",
+    "Linux/第08章 进程管理.md",
+    "Linux/第07章 网络配置.md",
+    "Linux/第06章 Linux 磁盘分区、挂载.md",
+    "Linux/attachment/未命名.md",
     "Linux/第02章 Vi 和 Vim 编辑器.md",
     "Linux/attachment/第03章 基本命令的使用.md",
-    "Linux/第01章 Linux概述.md",
     "计算机基础/数据结构与算法/非线性结构/树/树的基础.md",
     "计算机基础/数据结构与算法/非线性结构/树/attachment/图片2.png",
     "计算机基础/数据结构与算法/非线性结构/树/attachment/Pasted image 20220521095916.png",
@@ -181,25 +193,12 @@
     "计算机基础/数据结构与算法/查找/二分查找.md",
     "计算机基础/数据结构与算法/查找/线性查找.md",
     "计算机基础/结构化开发方法/系统分析与设计概述.md",
-    "计算机基础/计算机组成原理/系统总线.md",
-    "计算机基础/程序设计语言基础知识/概述.md",
-    "数据库/MySQL/基础篇/第06章 多表查询.md",
-    "数据库/MySQL/基础篇/第05章 排序与分页.md",
-    "数据库/MySQL/基础篇/第04章 运算符.md",
-    "数据库/MySQL/基础篇/第03章 基本的SELECT语句.md",
-    "计算机基础/计算机组成原理/计算机系统概论.md",
     "Java技术栈/Java SE/attachment/Pasted image 20220612203225.png",
     "Java技术栈/Java SE/attachment/Pasted image 20220612200533.png",
-    "Java技术栈/Java SE/attachment/Pasted image 20220612193700.png",
-    "数据库/MySQL/基础篇/attachment/Pasted image 20230920095758.png",
-    "数据库/MySQL/基础篇/attachment/Pasted image 20230920094156.png",
-    "数据库/MySQL/基础篇/attachment/Pasted image 20230920094120.png",
     "数学/高中数学",
-    "数学/初中数学/attachment/Pasted image 20230918111858.png",
     "数学/初中数学/attachment",
     "数学/初中数学",
     "数学",
-    "数据库/MySQL/基础篇/attachment/Pasted image 20230915190110.png",
     "Linux/attachment",
     "Linux",
     "开发工具/Git/attachment/未命名.canvas",

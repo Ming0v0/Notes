@@ -1,28 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "第02章 Vi 和 Vim 编辑器",
+      "path": "Linux/第02章 Vi 和 Vim 编辑器.md"
+    },
+    {
+      "basename": "第01章 Linux概述",
+      "path": "Linux/第01章 Linux概述.md"
+    },
+    {
       "basename": "第03章 常用命令",
       "path": "Linux/第03章 常用命令.md"
+    },
+    {
+      "basename": "第05章 Crond 任务调度",
+      "path": "Linux/第05章 Crond 任务调度.md"
     },
     {
       "basename": "第04章 组管理和权限管理",
       "path": "Linux/第04章 组管理和权限管理.md"
     },
     {
-      "basename": "Linux基础",
-      "path": "Linux/Linux基础.md"
+      "basename": "第09章 Shell 编程",
+      "path": "Linux/第09章 Shell 编程.md"
     },
     {
-      "basename": "第02章 Vi 和 Vim 编辑器",
-      "path": "Linux/第02章 Vi 和 Vim 编辑器.md"
+      "basename": "第08章 进程管理",
+      "path": "Linux/第08章 进程管理.md"
+    },
+    {
+      "basename": "第07章 网络配置",
+      "path": "Linux/第07章 网络配置.md"
+    },
+    {
+      "basename": "第06章 Linux 磁盘分区、挂载",
+      "path": "Linux/第06章 Linux 磁盘分区、挂载.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "Linux/attachment/未命名.md"
     },
     {
       "basename": "第03章 基本命令的使用",
       "path": "Linux/attachment/第03章 基本命令的使用.md"
-    },
-    {
-      "basename": "第01章 Linux概述",
-      "path": "Linux/第01章 Linux概述.md"
     },
     {
       "basename": "树的基础",
@@ -175,30 +195,6 @@
     {
       "basename": "数组",
       "path": "计算机基础/数据结构与算法/线性结构/数组.md"
-    },
-    {
-      "basename": "数据模型",
-      "path": "计算机基础/数据库技术基础/数据模型.md"
-    },
-    {
-      "basename": "关系代数",
-      "path": "计算机基础/数据库技术基础/关系代数.md"
-    },
-    {
-      "basename": "数据链路层",
-      "path": "计算机基础/计算机网络/数据链路层.md"
-    },
-    {
-      "basename": "概述",
-      "path": "计算机基础/计算机网络/概述.md"
-    },
-    {
-      "basename": "选择排序",
-      "path": "计算机基础/数据结构与算法/排序/选择排序.md"
-    },
-    {
-      "basename": "第 1 章 概述",
-      "path": "计算机基础/操作系统/第 1 章 概述.md"
     }
   ],
   "omittedPaths": [],
