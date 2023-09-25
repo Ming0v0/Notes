@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/计算机组成原理/系统总线.md",
+                "file": "Linux/第01章 Linux概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/计算机组成原理/系统总线.md",
+                "file": "Linux/第01章 Linux概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/计算机组成原理/系统总线.md",
+                "file": "Linux/第01章 Linux概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/计算机组成原理/系统总线.md"
+                "file": "Linux/第01章 Linux概述.md"
               }
             }
           }
@@ -160,8 +160,10 @@
   },
   "active": "51720daf07731026",
   "lastOpenFiles": [
-    "Linux/第02章 Vi 和 Vim 编辑器.md",
+    "Linux/第09章 Shell 编程.md",
     "Linux/第01章 Linux概述.md",
+    "计算机基础/计算机组成原理/系统总线.md",
+    "Linux/第02章 Vi 和 Vim 编辑器.md",
     "Linux/第03章 常用命令.md",
     "Linux/attachment/Pasted image 20230924164013.png",
     "Linux/attachment/Pasted image 20230924162414.png",
@@ -171,7 +173,6 @@
     "Linux/第04章 组管理和权限管理.md",
     "Linux/attachment/Pasted image 20230924151749.png",
     "Linux/attachment/Pasted image 20230924151624.png",
-    "Linux/第09章 Shell 编程.md",
     "Linux/Linux基础.md",
     "Linux/第08章 进程管理.md",
     "Linux/第07章 网络配置.md",
