@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/第02章 Vi 和 Vim 编辑器.md",
+                "file": "计算机基础/计算机组成原理/系统总线.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/第02章 Vi 和 Vim 编辑器.md",
+                "file": "计算机基础/计算机组成原理/系统总线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/第02章 Vi 和 Vim 编辑器.md",
+                "file": "计算机基础/计算机组成原理/系统总线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/第02章 Vi 和 Vim 编辑器.md"
+                "file": "计算机基础/计算机组成原理/系统总线.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "51720daf07731026",
   "lastOpenFiles": [
+    "Linux/第02章 Vi 和 Vim 编辑器.md",
     "Linux/第01章 Linux概述.md",
     "Linux/第03章 常用命令.md",
     "Linux/attachment/Pasted image 20230924164013.png",
@@ -176,7 +177,6 @@
     "Linux/第07章 网络配置.md",
     "Linux/第06章 Linux 磁盘分区、挂载.md",
     "Linux/attachment/未命名.md",
-    "Linux/第02章 Vi 和 Vim 编辑器.md",
     "Linux/attachment/第03章 基本命令的使用.md",
     "计算机基础/数据结构与算法/非线性结构/树/树的基础.md",
     "计算机基础/数据结构与算法/非线性结构/树/attachment/图片2.png",

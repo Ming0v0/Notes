@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "系统总线",
+      "path": "计算机基础/计算机组成原理/系统总线.md"
+    },
+    {
       "basename": "第02章 Vi 和 Vim 编辑器",
       "path": "Linux/第02章 Vi 和 Vim 编辑器.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "系统分析与设计概述",
       "path": "计算机基础/结构化开发方法/系统分析与设计概述.md"
-    },
-    {
-      "basename": "系统总线",
-      "path": "计算机基础/计算机组成原理/系统总线.md"
     },
     {
       "basename": "概述",
