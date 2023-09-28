@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/第01章 Linux概述.md",
+                "file": "计算机基础/计算机组成原理/数字的表示.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/第01章 Linux概述.md",
+                "file": "计算机基础/计算机组成原理/数字的表示.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/第01章 Linux概述.md",
+                "file": "计算机基础/计算机组成原理/数字的表示.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/第01章 Linux概述.md"
+                "file": "计算机基础/计算机组成原理/数字的表示.md"
               }
             }
           }
@@ -160,8 +160,9 @@
   },
   "active": "51720daf07731026",
   "lastOpenFiles": [
-    "Linux/第09章 Shell 编程.md",
     "Linux/第01章 Linux概述.md",
+    "计算机基础/计算机组成原理/数字的表示.md",
+    "Linux/第09章 Shell 编程.md",
     "计算机基础/计算机组成原理/系统总线.md",
     "Linux/第02章 Vi 和 Vim 编辑器.md",
     "Linux/第03章 常用命令.md",
@@ -193,7 +194,6 @@
     "计算机基础/数据结构与算法/查找/插值查找.md",
     "计算机基础/数据结构与算法/查找/二分查找.md",
     "计算机基础/数据结构与算法/查找/线性查找.md",
-    "计算机基础/结构化开发方法/系统分析与设计概述.md",
     "Java技术栈/Java SE/attachment/Pasted image 20220612203225.png",
     "Java技术栈/Java SE/attachment/Pasted image 20220612200533.png",
     "数学/高中数学",
