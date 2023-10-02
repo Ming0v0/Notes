@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/第02章 Vi 和 Vim 编辑器.md",
+                "file": "Linux/第03章 常用命令.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/第02章 Vi 和 Vim 编辑器.md",
+                "file": "Linux/第03章 常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/第02章 Vi 和 Vim 编辑器.md",
+                "file": "Linux/第03章 常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/第02章 Vi 和 Vim 编辑器.md"
+                "file": "Linux/第03章 常用命令.md"
               }
             }
           }
@@ -160,12 +160,12 @@
   },
   "active": "51720daf07731026",
   "lastOpenFiles": [
-    "计算机基础/计算机组成原理/数字的表示.md",
     "Linux/第01章 Linux概述.md",
+    "Linux/第03章 常用命令.md",
+    "Linux/第02章 Vi 和 Vim 编辑器.md",
+    "计算机基础/计算机组成原理/数字的表示.md",
     "Linux/第09章 Shell 编程.md",
     "计算机基础/计算机组成原理/系统总线.md",
-    "Linux/第02章 Vi 和 Vim 编辑器.md",
-    "Linux/第03章 常用命令.md",
     "Linux/attachment/Pasted image 20230924164013.png",
     "Linux/attachment/Pasted image 20230924162414.png",
     "Linux/attachment/Pasted image 20230924162007.png",
