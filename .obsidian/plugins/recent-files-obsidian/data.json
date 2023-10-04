@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "指令控制方式",
+      "path": "计算机基础/计算机组成原理/指令控制方式.md"
+    },
+    {
+      "basename": "七年级",
+      "path": "数学/初中数学/七年级.md"
+    },
+    {
+      "basename": "RISC和CISC",
+      "path": "计算机基础/计算机组成原理/RISC和CISC.md"
+    },
+    {
+      "basename": "校验码",
+      "path": "计算机基础/计算机组成原理/校验码.md"
+    },
+    {
+      "basename": "寻址",
+      "path": "计算机基础/计算机组成原理/寻址.md"
+    },
+    {
       "basename": "浮点数",
       "path": "计算机基础/计算机组成原理/浮点数.md"
     },
@@ -133,10 +153,6 @@
       "path": "计算机基础/计算机组成原理/计算机系统概论.md"
     },
     {
-      "basename": "七年级",
-      "path": "数学/初中数学/七年级.md"
-    },
-    {
       "basename": "Express框架",
       "path": "前端技术栈/Node.js/Express框架.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "第02章_MySQL环境搭建",
       "path": "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md"
-    },
-    {
-      "basename": "第01章 数据库概述",
-      "path": "数据库/MySQL/基础篇/第01章 数据库概述.md"
-    },
-    {
-      "basename": "存储器的基本结构",
-      "path": "计算机基础/计算机组成原理/attachment/存储器的基本结构.md"
-    },
-    {
-      "basename": "栈",
-      "path": "计算机基础/数据结构与算法/线性结构/栈.md"
-    },
-    {
-      "basename": "高一",
-      "path": "数学/高中数学/高一.md"
     }
   ],
   "omittedPaths": [],
