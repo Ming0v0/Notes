@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "存储器",
+      "path": "计算机基础/计算机组成原理/存储器.md"
+    },
+    {
       "basename": "指令控制方式",
       "path": "计算机基础/计算机组成原理/指令控制方式.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "第01章 面向对象",
       "path": "Java技术栈/Java SE/第01章 面向对象.md"
-    },
-    {
-      "basename": "第02章_MySQL环境搭建",
-      "path": "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md"
     }
   ],
   "omittedPaths": [],
