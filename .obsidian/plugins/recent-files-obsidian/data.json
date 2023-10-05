@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "系统总线",
+      "path": "计算机基础/计算机组成原理/系统总线.md"
+    },
+    {
       "basename": "输入输出控制方式",
       "path": "计算机基础/计算机组成原理/输入输出控制方式.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "第09章 Shell 编程",
       "path": "Linux/第09章 Shell 编程.md"
-    },
-    {
-      "basename": "系统总线",
-      "path": "计算机基础/计算机组成原理/系统总线.md"
     },
     {
       "basename": "第05章 Crond 任务调度",
