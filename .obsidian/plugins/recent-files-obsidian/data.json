@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "输入输出控制方式",
+      "path": "计算机基础/计算机组成原理/输入输出控制方式.md"
+    },
+    {
+      "basename": "中断",
+      "path": "计算机基础/计算机组成原理/中断.md"
+    },
+    {
       "basename": "高速缓存",
       "path": "计算机基础/计算机组成原理/高速缓存.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "单例模式",
       "path": "Java技术栈/23种设计模式/单例模式.md"
-    },
-    {
-      "basename": "第03章 多线程",
-      "path": "Java技术栈/Java SE/第03章 多线程.md"
-    },
-    {
-      "basename": "第02章 异常处理",
-      "path": "Java技术栈/Java SE/第02章 异常处理.md"
     }
   ],
   "omittedPaths": [],

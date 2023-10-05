@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/计算机组成原理/高速缓存.md",
+                "file": "计算机基础/计算机组成原理/输入输出控制方式.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/计算机组成原理/高速缓存.md",
+                "file": "计算机基础/计算机组成原理/输入输出控制方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/计算机组成原理/高速缓存.md",
+                "file": "计算机基础/计算机组成原理/输入输出控制方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/计算机组成原理/高速缓存.md"
+                "file": "计算机基础/计算机组成原理/输入输出控制方式.md"
               }
             }
           }
@@ -160,12 +160,18 @@
   },
   "active": "51720daf07731026",
   "lastOpenFiles": [
+    "计算机基础/计算机组成原理/attachment/Pasted image 20231005005800.png",
+    "计算机基础/计算机组成原理/中断.md",
+    "计算机基础/计算机组成原理/输入输出控制方式.md",
+    "计算机基础/计算机组成原理/attachment/Pasted image 20231005004208.png",
+    "计算机基础/计算机组成原理/高速缓存.md",
+    "计算机基础/计算机组成原理/attachment/Pasted image 20231005001655.png",
+    "计算机基础/计算机组成原理/attachment/Pasted image 20231004235934.png",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231004232132.png",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231004231815.png",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231004231717.png",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231004231715.png",
     "计算机基础/计算机组成原理/存储器.md",
-    "计算机基础/计算机组成原理/高速缓存.md",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231004215525.png",
     "计算机基础/计算机组成原理/指令控制方式.md",
     "数学/初中数学/七年级.md",
@@ -173,18 +179,14 @@
     "计算机基础/计算机组成原理/attachment/Pasted image 20231004151718.png",
     "计算机基础/计算机组成原理/RISC和CISC.md",
     "计算机基础/计算机组成原理/校验码.md",
-    "计算机基础/计算机组成原理/attachment/Pasted image 20231004142418.png",
     "计算机基础/计算机组成原理/寻址.md",
     "计算机基础/计算机组成原理/浮点数.md",
-    "计算机基础/计算机组成原理/attachment/Pasted image 20231004110342.png",
     "计算机基础/计算机组成原理/数字的表示.md",
-    "计算机基础/计算机组成原理/attachment/Pasted image 20231004101956.png",
     "Linux/第03章 常用命令.md",
     "Linux/第01章 Linux概述.md",
     "Linux/第02章 Vi 和 Vim 编辑器.md",
     "Linux/第09章 Shell 编程.md",
     "计算机基础/计算机组成原理/系统总线.md",
-    "Linux/attachment/Pasted image 20230924164013.png",
     "Linux/第05章 Crond 任务调度.md",
     "Linux/第04章 组管理和权限管理.md",
     "Linux/Linux基础.md",
@@ -194,8 +196,6 @@
     "Linux/attachment/未命名.md",
     "Linux/attachment/第03章 基本命令的使用.md",
     "计算机基础/数据结构与算法/非线性结构/树/树的基础.md",
-    "计算机基础/数据结构与算法/非线性结构/树/线索二叉树-Jun.md",
-    "计算机基础/数据结构与算法/非线性结构/树/线索二叉树.md",
     "数学/高中数学",
     "数学/初中数学/attachment",
     "数学/初中数学",
