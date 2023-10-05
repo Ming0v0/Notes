@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/计算机组成原理/系统总线.md",
+                "file": "计算机基础/计算机组成原理/计算机系统概论.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/计算机组成原理/系统总线.md",
+                "file": "计算机基础/计算机组成原理/计算机系统概论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/计算机组成原理/系统总线.md",
+                "file": "计算机基础/计算机组成原理/计算机系统概论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/计算机组成原理/系统总线.md"
+                "file": "计算机基础/计算机组成原理/计算机系统概论.md"
               }
             }
           }
@@ -160,8 +160,12 @@
   },
   "active": "51720daf07731026",
   "lastOpenFiles": [
-    "计算机基础/计算机组成原理/输入输出控制方式.md",
+    "计算机基础/计算机组成原理/attachment/存储体的基本结构.md",
+    "计算机基础/计算机组成原理/计算机系统概论.md",
+    "计算机基础/计算机组成原理/attachment/存储器的基本结构.md",
     "计算机基础/计算机组成原理/系统总线.md",
+    "计算机基础/计算机组成原理/存储器.md",
+    "计算机基础/计算机组成原理/输入输出控制方式.md",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231005192757.png",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231005005800.png",
     "计算机基础/计算机组成原理/中断.md",
@@ -173,7 +177,6 @@
     "计算机基础/计算机组成原理/attachment/Pasted image 20231004231815.png",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231004231717.png",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231004231715.png",
-    "计算机基础/计算机组成原理/存储器.md",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231004215525.png",
     "计算机基础/计算机组成原理/指令控制方式.md",
     "数学/初中数学/七年级.md",
@@ -193,8 +196,6 @@
     "Linux/第07章 网络配置.md",
     "Linux/第06章 Linux 磁盘分区、挂载.md",
     "Linux/attachment/未命名.md",
-    "Linux/attachment/第03章 基本命令的使用.md",
-    "计算机基础/数据结构与算法/非线性结构/树/树的基础.md",
     "数学/高中数学",
     "数学/初中数学/attachment",
     "数学/初中数学",
