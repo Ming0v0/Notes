@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "概述",
+      "path": "计算机基础/信息安全/概述.md"
+    },
+    {
+      "basename": "第 1 章 概述",
+      "path": "计算机基础/操作系统/第 1 章 概述.md"
+    },
+    {
       "basename": "计算机系统概论",
       "path": "计算机基础/计算机组成原理/计算机系统概论.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "第07章 逆向工程",
       "path": "Java技术栈/MyBatis/第07章 逆向工程.md"
-    },
-    {
-      "basename": "Pasted image 20220612203225",
-      "path": "Java技术栈/Java SE/attachment/Pasted image 20220612203225.png"
-    },
-    {
-      "basename": "Pasted image 20220612200533",
-      "path": "Java技术栈/Java SE/attachment/Pasted image 20220612200533.png"
     }
   ],
   "omittedPaths": [],
