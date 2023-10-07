@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/信息安全/概述.md",
+                "file": "计算机基础/程序设计语言基础知识/概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/信息安全/概述.md",
+                "file": "计算机基础/程序设计语言基础知识/概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/信息安全/概述.md",
+                "file": "计算机基础/程序设计语言基础知识/概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/信息安全/概述.md"
+                "file": "计算机基础/程序设计语言基础知识/概述.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "51720daf07731026",
   "lastOpenFiles": [
-    "计算机基础/操作系统/第 1 章 概述.md",
     "计算机基础/信息安全/概述.md",
+    "计算机基础/操作系统/第 1 章 概述.md",
     "计算机基础/计算机组成原理/计算机系统概论.md",
     "计算机基础/信息安全",
     "计算机基础/计算机组成原理/attachment/存储体的基本结构.md",
