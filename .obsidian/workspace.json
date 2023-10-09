@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/程序设计语言基础知识/概述.md",
+                "file": "计算机基础/数据结构与算法/线性结构/队列.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/程序设计语言基础知识/概述.md",
+                "file": "计算机基础/数据结构与算法/线性结构/队列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/程序设计语言基础知识/概述.md",
+                "file": "计算机基础/数据结构与算法/线性结构/队列.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/程序设计语言基础知识/概述.md"
+                "file": "计算机基础/数据结构与算法/线性结构/队列.md"
               }
             }
           }
@@ -160,6 +160,11 @@
   },
   "active": "51720daf07731026",
   "lastOpenFiles": [
+    "计算机基础/数据结构与算法/线性结构/attachment/静态队列的问题.md",
+    "计算机基础/数据结构与算法/线性结构/队列.md",
+    "计算机基础/数据结构与算法/线性结构/attachment/队列.png",
+    "计算机基础/数据结构与算法/线性结构/attachment/丢手帕.png",
+    "计算机基础/程序设计语言基础知识/概述.md",
     "计算机基础/信息安全/概述.md",
     "计算机基础/操作系统/第 1 章 概述.md",
     "计算机基础/计算机组成原理/计算机系统概论.md",
@@ -179,8 +184,6 @@
     "计算机基础/计算机组成原理/attachment/Pasted image 20231004232132.png",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231004231815.png",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231004231717.png",
-    "计算机基础/计算机组成原理/attachment/Pasted image 20231004231715.png",
-    "计算机基础/计算机组成原理/attachment/Pasted image 20231004215525.png",
     "计算机基础/计算机组成原理/指令控制方式.md",
     "数学/初中数学/七年级.md",
     "计算机基础/计算机组成原理/RISC和CISC.md",
@@ -193,10 +196,6 @@
     "Linux/第02章 Vi 和 Vim 编辑器.md",
     "Linux/第09章 Shell 编程.md",
     "Linux/第05章 Crond 任务调度.md",
-    "Linux/第04章 组管理和权限管理.md",
-    "Linux/Linux基础.md",
-    "Linux/第08章 进程管理.md",
-    "Linux/第07章 网络配置.md",
     "数学/高中数学",
     "数学/初中数学/attachment",
     "数学/初中数学",

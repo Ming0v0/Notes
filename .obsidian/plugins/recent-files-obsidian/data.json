@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "队列",
+      "path": "计算机基础/数据结构与算法/线性结构/队列.md"
+    },
+    {
+      "basename": "静态队列的问题",
+      "path": "计算机基础/数据结构与算法/线性结构/attachment/静态队列的问题.md"
+    },
+    {
+      "basename": "队列",
+      "path": "计算机基础/数据结构与算法/线性结构/attachment/队列.png"
+    },
+    {
+      "basename": "丢手帕",
+      "path": "计算机基础/数据结构与算法/线性结构/attachment/丢手帕.png"
+    },
+    {
       "basename": "概述",
       "path": "计算机基础/程序设计语言基础知识/概述.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "第03章 基本的SELECT语句",
       "path": "数据库/MySQL/基础篇/第03章 基本的SELECT语句.md"
-    },
-    {
-      "basename": "Express框架",
-      "path": "前端技术栈/Node.js/Express框架.md"
-    },
-    {
-      "basename": "第06章 缓存机制",
-      "path": "Java技术栈/MyBatis/第06章 缓存机制.md"
-    },
-    {
-      "basename": "第08章 运行原理",
-      "path": "Java技术栈/MyBatis/第08章 运行原理.md"
-    },
-    {
-      "basename": "第07章 逆向工程",
-      "path": "Java技术栈/MyBatis/第07章 逆向工程.md"
     }
   ],
   "omittedPaths": [],
