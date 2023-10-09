@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ceafb99b37bc2b2e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "计算机基础/数据结构与算法/线性结构/attachment/循环队列-当队列满但是指针相同.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -160,8 +170,12 @@
   },
   "active": "51720daf07731026",
   "lastOpenFiles": [
-    "计算机基础/数据结构与算法/线性结构/attachment/静态队列的问题.md",
+    "计算机基础/数据结构与算法/线性结构/attachment/循环队列-当队列满但是指针相同.excalidraw.md",
     "计算机基础/数据结构与算法/线性结构/队列.md",
+    "计算机基础/数据结构与算法/线性结构/稀疏数组.md",
+    "计算机基础/数据结构与算法/线性结构/数组.md",
+    "计算机基础/数据结构与算法/线性结构/链表.md",
+    "计算机基础/数据结构与算法/线性结构/attachment/静态队列的问题.md",
     "计算机基础/数据结构与算法/线性结构/attachment/队列.png",
     "计算机基础/数据结构与算法/线性结构/attachment/丢手帕.png",
     "计算机基础/程序设计语言基础知识/概述.md",
@@ -193,9 +207,6 @@
     "计算机基础/计算机组成原理/数字的表示.md",
     "Linux/第03章 常用命令.md",
     "Linux/第01章 Linux概述.md",
-    "Linux/第02章 Vi 和 Vim 编辑器.md",
-    "Linux/第09章 Shell 编程.md",
-    "Linux/第05章 Crond 任务调度.md",
     "数学/高中数学",
     "数学/初中数学/attachment",
     "数学/初中数学",
