@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "365c2542c2fa22e5",
+        "id": "c5de0d3dfeab9612",
         "type": "tabs",
         "children": [
           {
-            "id": "51720daf07731026",
+            "id": "d054c2615e1c87b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/计算机网络/物理层.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63ef27187c9a9ec0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机基础/数据结构与算法/非线性结构/图/图的基础.md",
+                "file": "计算机基础/操作系统/第 2 章 进程管理.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/计算机网络/物理层.md",
+                "file": "计算机基础/操作系统/第 2 章 进程管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/计算机网络/物理层.md",
+                "file": "计算机基础/操作系统/第 2 章 进程管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/计算机网络/物理层.md"
+                "file": "计算机基础/操作系统/第 2 章 进程管理.md"
               }
             }
           }
@@ -171,45 +158,45 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "398eb5a350d7b420",
+  "active": "d054c2615e1c87b6",
   "lastOpenFiles": [
+    "计算机基础/数据库技术基础/关系代数.md",
+    "计算机基础/数据库技术基础/数据模型.md",
+    "计算机基础/数据库技术基础/概述.md",
+    "计算机基础/操作系统/第 2 章 进程管理.md",
+    "计算机基础/操作系统/第 1 章 概述.md",
+    "计算机基础/面向对象技术/面向对象基础.md",
+    "计算机基础/信息安全/概述.md",
+    "计算机基础/计算机组成原理/指令控制方式.md",
+    "计算机基础/软件工程概论/软件项目管理.md",
+    "计算机基础/软件工程概论/系统测试.md",
+    "计算机基础/软件工程概论/软件过程模型.md",
+    "计算机基础/软件工程概论/软件工程概述.md",
+    "计算机基础/计算机网络/物理层.md",
     "计算机基础/数据结构与算法/线性结构/约瑟夫环.md",
     "计算机基础/数据结构与算法/非线性结构/图/图的基础.md",
     "计算机基础/数据结构与算法/线性结构/稀疏数组.md",
     "计算机基础/数据结构与算法/线性结构/数组.md",
     "计算机基础/数据结构与算法/线性结构/队列.md",
     "计算机基础/数据结构与算法/线性结构/attachment/循环队列-当队列满但是指针相同.excalidraw.md",
-    "计算机基础/计算机网络/物理层.md",
     "计算机基础/计算机网络/数据链路层.md",
     "计算机基础/数据结构与算法/线性结构/链表.md",
     "计算机基础/数据结构与算法/线性结构/attachment/静态队列的问题.md",
     "计算机基础/数据结构与算法/线性结构/attachment/队列.png",
     "计算机基础/数据结构与算法/线性结构/attachment/丢手帕.png",
     "计算机基础/程序设计语言基础知识/概述.md",
-    "计算机基础/信息安全/概述.md",
-    "计算机基础/操作系统/第 1 章 概述.md",
     "计算机基础/计算机组成原理/计算机系统概论.md",
     "计算机基础/信息安全",
     "计算机基础/计算机组成原理/attachment/存储体的基本结构.md",
     "计算机基础/计算机组成原理/attachment/存储器的基本结构.md",
-    "计算机基础/计算机组成原理/系统总线.md",
-    "计算机基础/计算机组成原理/存储器.md",
-    "计算机基础/计算机组成原理/输入输出控制方式.md",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231005192757.png",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231005005800.png",
-    "计算机基础/计算机组成原理/中断.md",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231005004208.png",
-    "计算机基础/计算机组成原理/高速缓存.md",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231005001655.png",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231004235934.png",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231004232132.png",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231004231815.png",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231004231717.png",
-    "计算机基础/计算机组成原理/指令控制方式.md",
-    "数学/初中数学/七年级.md",
-    "计算机基础/计算机组成原理/RISC和CISC.md",
-    "计算机基础/计算机组成原理/校验码.md",
-    "计算机基础/计算机组成原理/寻址.md",
     "数学/高中数学",
     "数学/初中数学/attachment",
     "数学/初中数学",
