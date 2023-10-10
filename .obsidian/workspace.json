@@ -13,23 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/数据结构与算法/线性结构/队列.md",
+                "file": "计算机基础/计算机网络/物理层.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ceafb99b37bc2b2e",
+            "id": "63ef27187c9a9ec0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "计算机基础/数据结构与算法/线性结构/attachment/循环队列-当队列满但是指针相同.excalidraw.md"
+                "file": "计算机基础/数据结构与算法/非线性结构/图/图的基础.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/数据结构与算法/线性结构/队列.md",
+                "file": "计算机基础/计算机网络/物理层.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/数据结构与算法/线性结构/队列.md",
+                "file": "计算机基础/计算机网络/物理层.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/数据结构与算法/线性结构/队列.md"
+                "file": "计算机基础/计算机网络/物理层.md"
               }
             }
           }
@@ -168,12 +171,16 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "51720daf07731026",
+  "active": "398eb5a350d7b420",
   "lastOpenFiles": [
-    "计算机基础/数据结构与算法/线性结构/attachment/循环队列-当队列满但是指针相同.excalidraw.md",
-    "计算机基础/数据结构与算法/线性结构/队列.md",
+    "计算机基础/数据结构与算法/线性结构/约瑟夫环.md",
+    "计算机基础/数据结构与算法/非线性结构/图/图的基础.md",
     "计算机基础/数据结构与算法/线性结构/稀疏数组.md",
     "计算机基础/数据结构与算法/线性结构/数组.md",
+    "计算机基础/数据结构与算法/线性结构/队列.md",
+    "计算机基础/数据结构与算法/线性结构/attachment/循环队列-当队列满但是指针相同.excalidraw.md",
+    "计算机基础/计算机网络/物理层.md",
+    "计算机基础/计算机网络/数据链路层.md",
     "计算机基础/数据结构与算法/线性结构/链表.md",
     "计算机基础/数据结构与算法/线性结构/attachment/静态队列的问题.md",
     "计算机基础/数据结构与算法/线性结构/attachment/队列.png",
@@ -203,10 +210,6 @@
     "计算机基础/计算机组成原理/RISC和CISC.md",
     "计算机基础/计算机组成原理/校验码.md",
     "计算机基础/计算机组成原理/寻址.md",
-    "计算机基础/计算机组成原理/浮点数.md",
-    "计算机基础/计算机组成原理/数字的表示.md",
-    "Linux/第03章 常用命令.md",
-    "Linux/第01章 Linux概述.md",
     "数学/高中数学",
     "数学/初中数学/attachment",
     "数学/初中数学",
