@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "死锁",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +159,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "d054c2615e1c87b6",
+  "active": "dd95503f78ec87a4",
   "lastOpenFiles": [
     "计算机基础/数据库技术基础/关系代数.md",
     "计算机基础/数据库技术基础/数据模型.md",
