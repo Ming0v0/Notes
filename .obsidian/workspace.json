@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/面向对象技术/面向对象基础.md",
+                "file": "计算机基础/数据库技术基础/概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "动态绑定",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/面向对象技术/面向对象基础.md",
+                "file": "计算机基础/数据库技术基础/概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/面向对象技术/面向对象基础.md",
+                "file": "计算机基础/数据库技术基础/概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/面向对象技术/面向对象基础.md"
+                "file": "计算机基础/数据库技术基础/概述.md"
               }
             }
           }
@@ -161,8 +160,8 @@
   },
   "active": "d054c2615e1c87b6",
   "lastOpenFiles": [
-    "计算机基础/面向对象技术/UML.md",
     "计算机基础/面向对象技术/面向对象基础.md",
+    "计算机基础/面向对象技术/UML.md",
     "计算机基础/操作系统/第 2 章 进程管理.md",
     "计算机基础/数据库技术基础/关系代数.md",
     "计算机基础/数据库技术基础/数据模型.md",
