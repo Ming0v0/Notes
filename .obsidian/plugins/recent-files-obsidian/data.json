@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "需求分析",
+      "path": "计算机基础/软件工程概论/需求分析.md"
+    },
+    {
       "basename": "UML",
       "path": "计算机基础/面向对象技术/UML.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "第06章 Linux 磁盘分区、挂载",
       "path": "Linux/第06章 Linux 磁盘分区、挂载.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "Linux/attachment/未命名.md"
     }
   ],
   "omittedPaths": [],
