@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/数据库技术基础/概述.md",
+                "file": "计算机基础/面向对象技术/UML.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/数据库技术基础/概述.md",
+                "file": "计算机基础/面向对象技术/UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/数据库技术基础/概述.md",
+                "file": "计算机基础/面向对象技术/UML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/数据库技术基础/概述.md"
+                "file": "计算机基础/面向对象技术/UML.md"
               }
             }
           }
@@ -162,10 +162,10 @@
   "lastOpenFiles": [
     "计算机基础/面向对象技术/面向对象基础.md",
     "计算机基础/面向对象技术/UML.md",
-    "计算机基础/操作系统/第 2 章 进程管理.md",
-    "计算机基础/数据库技术基础/关系代数.md",
     "计算机基础/数据库技术基础/数据模型.md",
+    "计算机基础/数据库技术基础/关系代数.md",
     "计算机基础/数据库技术基础/概述.md",
+    "计算机基础/操作系统/第 2 章 进程管理.md",
     "计算机基础/操作系统/第 1 章 概述.md",
     "计算机基础/信息安全/概述.md",
     "计算机基础/计算机组成原理/指令控制方式.md",
