@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/面向对象技术/UML.md",
+                "file": "计算机基础/软件工程概论/系统设计.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/面向对象技术/UML.md",
+                "file": "计算机基础/软件工程概论/系统设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/面向对象技术/UML.md",
+                "file": "计算机基础/软件工程概论/系统设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/面向对象技术/UML.md"
+                "file": "计算机基础/软件工程概论/系统设计.md"
               }
             }
           }
@@ -160,9 +160,11 @@
   },
   "active": "d054c2615e1c87b6",
   "lastOpenFiles": [
+    "计算机基础/软件工程概论/系统测试.md",
+    "计算机基础/软件工程概论/软件工程概述.md",
+    "计算机基础/面向对象技术/UML.md",
     "数据库/MySQL/基础篇/第10章_创建和管理表.md.2023-10-11_23.32.36.foldersync.old",
     "计算机基础/软件工程概论/需求分析.md",
-    "计算机基础/面向对象技术/UML.md",
     "计算机基础/面向对象技术/面向对象基础.md",
     "计算机基础/数据库技术基础/数据模型.md",
     "计算机基础/数据库技术基础/关系代数.md",
@@ -172,9 +174,7 @@
     "计算机基础/信息安全/概述.md",
     "计算机基础/计算机组成原理/指令控制方式.md",
     "计算机基础/软件工程概论/软件项目管理.md",
-    "计算机基础/软件工程概论/系统测试.md",
     "计算机基础/软件工程概论/软件过程模型.md",
-    "计算机基础/软件工程概论/软件工程概述.md",
     "计算机基础/计算机网络/物理层.md",
     "计算机基础/数据结构与算法/线性结构/约瑟夫环.md",
     "计算机基础/数据结构与算法/非线性结构/图/图的基础.md",
@@ -205,7 +205,6 @@
     "Linux",
     "开发工具/Git/attachment/未命名.canvas",
     "ignore",
-    "新建 文本文档.txt",
-    "新建文件夹"
+    "新建 文本文档.txt"
   ]
 }
