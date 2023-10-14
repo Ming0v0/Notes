@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/软件工程概论/系统设计.md",
+                "file": "计算机基础/软件工程概论/软件项目管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/软件工程概论/系统设计.md",
+                "file": "计算机基础/软件工程概论/软件项目管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/软件工程概论/系统设计.md",
+                "file": "计算机基础/软件工程概论/软件项目管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/软件工程概论/系统设计.md"
+                "file": "计算机基础/软件工程概论/软件项目管理.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   "active": "d054c2615e1c87b6",
   "lastOpenFiles": [
     "计算机基础/软件工程概论/系统测试.md",
+    "计算机基础/软件工程概论/系统设计.md",
     "计算机基础/软件工程概论/软件工程概述.md",
     "计算机基础/面向对象技术/UML.md",
     "数据库/MySQL/基础篇/第10章_创建和管理表.md.2023-10-11_23.32.36.foldersync.old",
