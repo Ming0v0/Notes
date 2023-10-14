@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/软件工程概论/软件项目管理.md",
+                "file": "计算机基础/数据库技术基础/关系代数.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/软件工程概论/软件项目管理.md",
+                "file": "计算机基础/数据库技术基础/关系代数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/软件工程概论/软件项目管理.md",
+                "file": "计算机基础/数据库技术基础/关系代数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/软件工程概论/软件项目管理.md"
+                "file": "计算机基础/数据库技术基础/关系代数.md"
               }
             }
           }
@@ -160,6 +160,15 @@
   },
   "active": "d054c2615e1c87b6",
   "lastOpenFiles": [
+    "计算机基础/数据库技术基础/attachment/Pasted image 20231014115810.png",
+    "计算机基础/数据库技术基础/attachment/Pasted image 20231014114544.png",
+    "计算机基础/数据库技术基础/attachment/Pasted image 20231014112832.png",
+    "计算机基础/数据库技术基础/attachment/Pasted image 20231014111926.png",
+    "计算机基础/数据库技术基础/attachment/Pasted image 20231014103229.png",
+    "计算机基础/数据库技术基础/概述.md",
+    "计算机基础/数据库技术基础/关系代数.md",
+    "计算机基础/数据库技术基础/attachment/Pasted image 20231014091328.png",
+    "计算机基础/软件工程概论/软件项目管理.md",
     "计算机基础/软件工程概论/系统测试.md",
     "计算机基础/软件工程概论/系统设计.md",
     "计算机基础/软件工程概论/软件工程概述.md",
@@ -168,13 +177,10 @@
     "计算机基础/软件工程概论/需求分析.md",
     "计算机基础/面向对象技术/面向对象基础.md",
     "计算机基础/数据库技术基础/数据模型.md",
-    "计算机基础/数据库技术基础/关系代数.md",
-    "计算机基础/数据库技术基础/概述.md",
     "计算机基础/操作系统/第 2 章 进程管理.md",
     "计算机基础/操作系统/第 1 章 概述.md",
     "计算机基础/信息安全/概述.md",
     "计算机基础/计算机组成原理/指令控制方式.md",
-    "计算机基础/软件工程概论/软件项目管理.md",
     "计算机基础/软件工程概论/软件过程模型.md",
     "计算机基础/计算机网络/物理层.md",
     "计算机基础/数据结构与算法/线性结构/约瑟夫环.md",
@@ -188,16 +194,10 @@
     "计算机基础/数据结构与算法/线性结构/attachment/静态队列的问题.md",
     "计算机基础/数据结构与算法/线性结构/attachment/队列.png",
     "计算机基础/数据结构与算法/线性结构/attachment/丢手帕.png",
-    "计算机基础/程序设计语言基础知识/概述.md",
     "计算机基础/信息安全",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231005192757.png",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231005005800.png",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231005004208.png",
-    "计算机基础/计算机组成原理/attachment/Pasted image 20231005001655.png",
-    "计算机基础/计算机组成原理/attachment/Pasted image 20231004235934.png",
-    "计算机基础/计算机组成原理/attachment/Pasted image 20231004232132.png",
-    "计算机基础/计算机组成原理/attachment/Pasted image 20231004231815.png",
-    "计算机基础/计算机组成原理/attachment/Pasted image 20231004231717.png",
     "数学/高中数学",
     "数学/初中数学/attachment",
     "数学/初中数学",
