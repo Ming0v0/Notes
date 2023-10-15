@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/数据库技术基础/关系代数.md",
+                "file": "计算机基础/数据库技术基础/关系数据库的规范化.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/数据库技术基础/关系代数.md",
+                "file": "计算机基础/数据库技术基础/关系数据库的规范化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/数据库技术基础/关系代数.md",
+                "file": "计算机基础/数据库技术基础/关系数据库的规范化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/数据库技术基础/关系代数.md"
+                "file": "计算机基础/数据库技术基础/关系数据库的规范化.md"
               }
             }
           }
@@ -160,6 +160,8 @@
   },
   "active": "d054c2615e1c87b6",
   "lastOpenFiles": [
+    "计算机基础/数据库技术基础/关系代数.md",
+    "计算机基础/数据库技术基础/关系数据库的规范化.md",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015095615.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015094715.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015094225.png",
@@ -170,9 +172,7 @@
     "计算机基础/数据库技术基础/attachment/Pasted image 20231014115810.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231014114544.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231014112832.png",
-    "计算机基础/数据库技术基础/attachment/Pasted image 20231014111926.png",
     "计算机基础/数据库技术基础/概述.md",
-    "计算机基础/数据库技术基础/关系代数.md",
     "计算机基础/软件工程概论/软件项目管理.md",
     "计算机基础/软件工程概论/系统测试.md",
     "计算机基础/软件工程概论/系统设计.md",

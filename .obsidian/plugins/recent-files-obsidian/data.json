@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "关系数据库的规范化",
+      "path": "计算机基础/数据库技术基础/关系数据库的规范化.md"
+    },
+    {
       "basename": "关系代数",
       "path": "计算机基础/数据库技术基础/关系代数.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "第08章 进程管理",
       "path": "Linux/第08章 进程管理.md"
-    },
-    {
-      "basename": "第07章 网络配置",
-      "path": "Linux/第07章 网络配置.md"
     }
   ],
   "omittedPaths": [],
