@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "第03章 基本的SELECT语句",
+      "path": "数据库/MySQL/基础篇/第03章 基本的SELECT语句.md"
+    },
+    {
+      "basename": "第02章_MySQL环境搭建",
+      "path": "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md"
+    },
+    {
+      "basename": "第01章 数据库概述",
+      "path": "数据库/MySQL/基础篇/第01章 数据库概述.md"
+    },
+    {
+      "basename": "第10章 索引优化与查询优化",
+      "path": "数据库/MySQL/高级篇/第10章 索引优化与查询优化.md"
+    },
+    {
+      "basename": "数据模型",
+      "path": "计算机基础/数据库技术基础/数据模型.md"
+    },
+    {
       "basename": "关系数据库的规范化",
       "path": "计算机基础/数据库技术基础/关系数据库的规范化.md"
     },
@@ -39,10 +59,6 @@
     {
       "basename": "面向对象基础",
       "path": "计算机基础/面向对象技术/面向对象基础.md"
-    },
-    {
-      "basename": "数据模型",
-      "path": "计算机基础/数据库技术基础/数据模型.md"
     },
     {
       "basename": "第 2 章 进程管理",
@@ -183,22 +199,6 @@
     {
       "basename": "第02章 Vi 和 Vim 编辑器",
       "path": "Linux/第02章 Vi 和 Vim 编辑器.md"
-    },
-    {
-      "basename": "第09章 Shell 编程",
-      "path": "Linux/第09章 Shell 编程.md"
-    },
-    {
-      "basename": "第05章 Crond 任务调度",
-      "path": "Linux/第05章 Crond 任务调度.md"
-    },
-    {
-      "basename": "第04章 组管理和权限管理",
-      "path": "Linux/第04章 组管理和权限管理.md"
-    },
-    {
-      "basename": "第08章 进程管理",
-      "path": "Linux/第08章 进程管理.md"
     }
   ],
   "omittedPaths": [],

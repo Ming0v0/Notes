@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/数据库技术基础/关系数据库的规范化.md",
+                "file": "数据库/MySQL/基础篇/第03章 基本的SELECT语句.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/数据库技术基础/关系数据库的规范化.md",
+                "file": "数据库/MySQL/基础篇/第03章 基本的SELECT语句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/数据库技术基础/关系数据库的规范化.md",
+                "file": "数据库/MySQL/基础篇/第03章 基本的SELECT语句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/数据库技术基础/关系数据库的规范化.md"
+                "file": "数据库/MySQL/基础篇/第03章 基本的SELECT语句.md"
               }
             }
           }
@@ -160,8 +160,14 @@
   },
   "active": "d054c2615e1c87b6",
   "lastOpenFiles": [
-    "计算机基础/数据库技术基础/关系代数.md",
+    "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md",
+    "数据库/MySQL/基础篇/第01章 数据库概述.md",
+    "数据库/MySQL/基础篇/第03章 基本的SELECT语句.md",
+    "数据库/MySQL/高级篇/第10章 索引优化与查询优化.md",
+    "计算机基础/数据库技术基础/数据模型.md",
     "计算机基础/数据库技术基础/关系数据库的规范化.md",
+    "计算机基础/数据库技术基础/关系代数.md",
+    "计算机基础/数据库技术基础/概述.md",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015095615.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015094715.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015094225.png",
@@ -172,7 +178,6 @@
     "计算机基础/数据库技术基础/attachment/Pasted image 20231014115810.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231014114544.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231014112832.png",
-    "计算机基础/数据库技术基础/概述.md",
     "计算机基础/软件工程概论/软件项目管理.md",
     "计算机基础/软件工程概论/系统测试.md",
     "计算机基础/软件工程概论/系统设计.md",
@@ -181,7 +186,6 @@
     "数据库/MySQL/基础篇/第10章_创建和管理表.md.2023-10-11_23.32.36.foldersync.old",
     "计算机基础/软件工程概论/需求分析.md",
     "计算机基础/面向对象技术/面向对象基础.md",
-    "计算机基础/数据库技术基础/数据模型.md",
     "计算机基础/操作系统/第 2 章 进程管理.md",
     "计算机基础/操作系统/第 1 章 概述.md",
     "计算机基础/信息安全/概述.md",
@@ -193,10 +197,6 @@
     "计算机基础/数据结构与算法/线性结构/稀疏数组.md",
     "计算机基础/数据结构与算法/线性结构/数组.md",
     "计算机基础/数据结构与算法/线性结构/队列.md",
-    "计算机基础/数据结构与算法/线性结构/attachment/循环队列-当队列满但是指针相同.excalidraw.md",
-    "计算机基础/计算机网络/数据链路层.md",
-    "计算机基础/数据结构与算法/线性结构/链表.md",
-    "计算机基础/数据结构与算法/线性结构/attachment/静态队列的问题.md",
     "计算机基础/信息安全",
     "数学/高中数学",
     "数学/初中数学/attachment",
