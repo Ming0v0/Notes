@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/第09章 Shell 编程.md",
+                "file": "数据库/MySQL/基础篇/第13章_约束.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "自增",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/第09章 Shell 编程.md",
+                "file": "数据库/MySQL/基础篇/第13章_约束.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/第09章 Shell 编程.md",
+                "file": "数据库/MySQL/基础篇/第13章_约束.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/第09章 Shell 编程.md"
+                "file": "数据库/MySQL/基础篇/第13章_约束.md"
               }
             }
           }
@@ -160,11 +160,17 @@
   },
   "active": "d054c2615e1c87b6",
   "lastOpenFiles": [
+    "数据库/MySQL/基础篇/第10章_创建和管理表.md",
+    "数据库/MySQL/基础篇/第11章_数据处理之增删改.md",
+    "数据库/MySQL/基础篇/第13章_约束.md",
+    "数据库/MySQL/基础篇/第14章_视图.md",
+    "Java技术栈/MyBatis/第04章 映射文件.md",
+    "数据库/MySQL/基础篇/第01章 数据库概述.md",
+    "Linux/第09章 Shell 编程.md",
     "计算机基础/软件工程概论/软件项目管理.md",
     "计算机基础/数据库技术基础/关系代数.md",
     "数据库/MySQL/基础篇/第03章 基本的SELECT语句.md",
     "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md",
-    "数据库/MySQL/基础篇/第01章 数据库概述.md",
     "数据库/MySQL/高级篇/第10章 索引优化与查询优化.md",
     "计算机基础/数据库技术基础/数据模型.md",
     "计算机基础/数据库技术基础/关系数据库的规范化.md",
@@ -191,12 +197,6 @@
     "计算机基础/信息安全/概述.md",
     "计算机基础/计算机组成原理/指令控制方式.md",
     "计算机基础/软件工程概论/软件过程模型.md",
-    "计算机基础/计算机网络/物理层.md",
-    "计算机基础/数据结构与算法/线性结构/约瑟夫环.md",
-    "计算机基础/数据结构与算法/非线性结构/图/图的基础.md",
-    "计算机基础/数据结构与算法/线性结构/稀疏数组.md",
-    "计算机基础/数据结构与算法/线性结构/数组.md",
-    "计算机基础/数据结构与算法/线性结构/队列.md",
     "计算机基础/信息安全",
     "数学/高中数学",
     "数学/初中数学/attachment",
