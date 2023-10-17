@@ -29,7 +29,7 @@ echo "hello,world"
 说明：不用赋予脚本+x 权限，直接执行即可
 ![](attachment/Pasted%20image%2020230913155539.png)
 
-## shell 变量
+## Shell 变量
 
 Linux Shell 中的变量分为，**系统变量**和**用户自定义变量**。
 - 系统变量：`$HOME、$PWD、$SHELL、$USER `等等，比如: `echo $HOME` 等等..
@@ -38,13 +38,13 @@ Linux Shell 中的变量分为，**系统变量**和**用户自定义变量**。
 - 显示当前 shell 中所有变量：set
 
 
- **shell 变量的定义**
+**shell 变量的定义**
 基本语法
 - 定义变量：`变量=值 `
 - 撤销变量：`unset 变量`
 - 声明静态变量：`readonly 变量`，注意：不能 `unset`
 
-快速入门
+**快速入门**
 案例 1：定义变量 A
 案例 2：撤销变量 A
 ![](attachment/Pasted%20image%2020230913160053.png)
@@ -79,7 +79,7 @@ echo $变量名         （功能描述：查询环境变量的值）
 
 **快速入门**
 
-在/etc/profile 文件中定义 TOMCAT_HOME 环境变量
+在/etc/profile 文件中定义 `TOMCAT_HOME` 环境变量
 ![](attachment/Pasted%20image%2020230913161050.png)
 
 查看环境变量 TOMCAT_HOME 的值

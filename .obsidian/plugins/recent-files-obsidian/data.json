@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "第09章 Shell 编程",
+      "path": "Linux/第09章 Shell 编程.md"
+    },
+    {
       "basename": "软件项目管理",
       "path": "计算机基础/软件工程概论/软件项目管理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "第01章 Linux概述",
       "path": "Linux/第01章 Linux概述.md"
-    },
-    {
-      "basename": "第02章 Vi 和 Vim 编辑器",
-      "path": "Linux/第02章 Vi 和 Vim 编辑器.md"
     }
   ],
   "omittedPaths": [],
