@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "系统分析与设计概述",
+      "path": "计算机基础/结构化开发方法/系统分析与设计概述.md"
+    },
+    {
       "basename": "软件过程模型",
       "path": "计算机基础/软件工程概论/软件过程模型.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "RISC和CISC",
       "path": "计算机基础/计算机组成原理/RISC和CISC.md"
-    },
-    {
-      "basename": "校验码",
-      "path": "计算机基础/计算机组成原理/校验码.md"
     }
   ],
   "omittedPaths": [],
