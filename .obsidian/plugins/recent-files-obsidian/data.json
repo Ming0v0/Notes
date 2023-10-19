@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "第06章 多表查询",
+      "path": "数据库/MySQL/基础篇/第06章 多表查询.md"
+    },
+    {
+      "basename": "第07章_单行函数",
+      "path": "数据库/MySQL/基础篇/第07章_单行函数.md"
+    },
+    {
+      "basename": "第05章 排序与分页",
+      "path": "数据库/MySQL/基础篇/第05章 排序与分页.md"
+    },
+    {
       "basename": "工厂模式",
       "path": "Java技术栈/23种设计模式/工厂模式.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "队列",
       "path": "计算机基础/数据结构与算法/线性结构/attachment/队列.png"
-    },
-    {
-      "basename": "丢手帕",
-      "path": "计算机基础/数据结构与算法/线性结构/attachment/丢手帕.png"
-    },
-    {
-      "basename": "计算机系统概论",
-      "path": "计算机基础/计算机组成原理/计算机系统概论.md"
-    },
-    {
-      "basename": "存储体的基本结构",
-      "path": "计算机基础/计算机组成原理/attachment/存储体的基本结构.md"
     }
   ],
   "omittedPaths": [],
