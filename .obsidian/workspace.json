@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/MySQL/基础篇/第06章 多表查询.md",
+                "file": "网络工程/生成树协议STP.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5110321044922,
-    "collapsed": true
+    "width": 313.5110321044922
   },
   "right": {
     "id": "30784d06b09dabce",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/MySQL/基础篇/第06章 多表查询.md",
+                "file": "网络工程/生成树协议STP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/MySQL/基础篇/第06章 多表查询.md",
+                "file": "网络工程/生成树协议STP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/MySQL/基础篇/第06章 多表查询.md"
+                "file": "网络工程/生成树协议STP.md"
               }
             }
           }
@@ -143,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,6 +160,8 @@
   },
   "active": "d054c2615e1c87b6",
   "lastOpenFiles": [
+    "数据库/MySQL/基础篇/第06章 多表查询.md",
+    "网络工程/生成树协议STP.md",
     "数据库/MySQL/基础篇/第07章_单行函数.md",
     "数据库/MySQL/基础篇/第05章 排序与分页.md",
     "Java技术栈/23种设计模式/工厂模式.md",
@@ -186,8 +186,6 @@
     "Java技术栈/MyBatis/第04章 映射文件.md",
     "数据库/MySQL/基础篇/第01章 数据库概述.md",
     "Linux/第09章 Shell 编程.md",
-    "计算机基础/软件工程概论/软件项目管理.md",
-    "数据库/MySQL/基础篇/第03章 基本的SELECT语句.md",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015095615.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015094715.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015094225.png",

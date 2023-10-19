@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "生成树协议STP",
+      "path": "网络工程/生成树协议STP.md"
+    },
+    {
       "basename": "第06章 多表查询",
       "path": "数据库/MySQL/基础篇/第06章 多表查询.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "静态队列的问题",
       "path": "计算机基础/数据结构与算法/线性结构/attachment/静态队列的问题.md"
-    },
-    {
-      "basename": "队列",
-      "path": "计算机基础/数据结构与算法/线性结构/attachment/队列.png"
     }
   ],
   "omittedPaths": [],
