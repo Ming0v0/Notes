@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java技术栈/23种设计模式/建造者模式.md",
+                "file": "计算机基础/软件工程概论/系统测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java技术栈/23种设计模式/建造者模式.md",
+                "file": "计算机基础/软件工程概论/系统测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java技术栈/23种设计模式/建造者模式.md",
+                "file": "计算机基础/软件工程概论/系统测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java技术栈/23种设计模式/建造者模式.md"
+                "file": "计算机基础/软件工程概论/系统测试.md"
               }
             }
           }
@@ -160,6 +160,13 @@
   },
   "active": "d054c2615e1c87b6",
   "lastOpenFiles": [
+    "计算机基础/软件工程概论/系统设计.md",
+    "计算机基础/软件工程概论/运行和维护知识.md",
+    "计算机基础/软件工程概论/需求分析.md",
+    "Java技术栈/23种设计模式/策略模式.md",
+    "Java技术栈/23种设计模式/桥接模式.md",
+    "Java技术栈/23种设计模式/装饰模式.md",
+    "Java技术栈/23种设计模式/建造者模式.md",
     "网络工程/生成树协议STP.md",
     "数据库/Redis6/第02章 常用五大数据类型.md",
     "数据库/Redis6/第03章 Redis配置文件介绍.md",
@@ -183,16 +190,9 @@
     "计算机基础/面向对象技术/面向对象基础.md",
     "Java技术栈/23种设计模式/组合关系.md",
     "Java技术栈/23种设计模式/适配器模式.md",
-    "Java技术栈/23种设计模式/桥接模式.md",
-    "Java技术栈/23种设计模式/建造者模式.md",
     "Java技术栈/23种设计模式/单例模式.md",
-    "Java技术栈/23种设计模式/策略模式.md",
     "Java技术栈/23种设计模式/设计模式七大原则.md",
     "计算机基础/结构化开发方法/系统分析与设计概述.md",
-    "计算机基础/软件工程概论/软件过程模型.md",
-    "计算机基础/程序设计语言基础知识/概述.md",
-    "计算机基础/数据库技术基础/数据模型.md",
-    "计算机基础/数据库技术基础/关系代数.md",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015095615.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015094715.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015094225.png",
