@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "对扩展开放，对修改关闭",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,8 +160,16 @@
   },
   "active": "d054c2615e1c87b6",
   "lastOpenFiles": [
-    "数据库/MySQL/基础篇/第06章 多表查询.md",
+    "网络工程/attachment/Pasted image 20231019232540.png",
+    "网络工程/attachment/Pasted image 20231019231951.png",
+    "网络工程/attachment/Pasted image 20231019231906.png",
+    "数据库/MySQL/基础篇/第13章 约束.md",
     "网络工程/生成树协议STP.md",
+    "网络工程/attachment/Pasted image 20231019230833.png",
+    "网络工程/attachment/Pasted image 20231019230651.png",
+    "网络工程/attachment/Pasted image 20231019230634.png",
+    "网络工程/attachment",
+    "数据库/MySQL/基础篇/第06章 多表查询.md",
     "数据库/MySQL/基础篇/第07章_单行函数.md",
     "数据库/MySQL/基础篇/第05章 排序与分页.md",
     "Java技术栈/23种设计模式/工厂模式.md",
@@ -180,22 +188,15 @@
     "计算机基础/数据库技术基础/关系代数.md",
     "计算机基础/数据库技术基础/关系数据库的规范化.md",
     "数据库/MySQL/基础篇/第10章_创建和管理表.md",
-    "数据库/MySQL/基础篇/第13章 约束.md",
     "数据库/MySQL/基础篇/第11章_数据处理之增删改.md",
     "数据库/MySQL/基础篇/第14章_视图.md",
     "Java技术栈/MyBatis/第04章 映射文件.md",
     "数据库/MySQL/基础篇/第01章 数据库概述.md",
-    "Linux/第09章 Shell 编程.md",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015095615.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015094715.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015094225.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015093550.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231014134638.png",
-    "计算机基础/数据库技术基础/attachment/Pasted image 20231014133954.png",
-    "计算机基础/数据库技术基础/attachment/Pasted image 20231014133658.png",
-    "计算机基础/数据库技术基础/attachment/Pasted image 20231014115810.png",
-    "计算机基础/数据库技术基础/attachment/Pasted image 20231014114544.png",
-    "计算机基础/数据库技术基础/attachment/Pasted image 20231014112832.png",
     "数据库/MySQL/基础篇/第10章_创建和管理表.md.2023-10-11_23.32.36.foldersync.old",
     "计算机基础/信息安全",
     "数学/高中数学",
@@ -205,7 +206,6 @@
     "Linux/attachment",
     "Linux",
     "开发工具/Git/attachment/未命名.canvas",
-    "ignore",
-    "新建 文本文档.txt"
+    "ignore"
   ]
 }
