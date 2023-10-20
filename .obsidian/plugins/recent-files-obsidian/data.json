@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "建造者模式",
+      "path": "Java技术栈/23种设计模式/建造者模式.md"
+    },
+    {
       "basename": "生成树协议STP",
       "path": "网络工程/生成树协议STP.md"
+    },
+    {
+      "basename": "第02章 常用五大数据类型",
+      "path": "数据库/Redis6/第02章 常用五大数据类型.md"
+    },
+    {
+      "basename": "第03章 Redis配置文件介绍",
+      "path": "数据库/Redis6/第03章 Redis配置文件介绍.md"
+    },
+    {
+      "basename": "第04章 Redis的发布和订阅",
+      "path": "数据库/Redis6/第04章 Redis的发布和订阅.md"
+    },
+    {
+      "basename": "第05章 Redis新数据类型",
+      "path": "数据库/Redis6/第05章 Redis新数据类型.md"
+    },
+    {
+      "basename": "第06章 Redis持久化",
+      "path": "数据库/Redis6/第06章 Redis持久化.md"
+    },
+    {
+      "basename": "第07章 Redis事务",
+      "path": "数据库/Redis6/第07章 Redis事务.md"
+    },
+    {
+      "basename": "第08章 Redis主从复制",
+      "path": "数据库/Redis6/第08章 Redis主从复制.md"
     },
     {
       "basename": "第13章 约束",
@@ -39,10 +71,6 @@
     {
       "basename": "桥接模式",
       "path": "Java技术栈/23种设计模式/桥接模式.md"
-    },
-    {
-      "basename": "建造者模式",
-      "path": "Java技术栈/23种设计模式/建造者模式.md"
     },
     {
       "basename": "单例模式",
@@ -171,34 +199,6 @@
     {
       "basename": "约瑟夫环",
       "path": "计算机基础/数据结构与算法/线性结构/约瑟夫环.md"
-    },
-    {
-      "basename": "稀疏数组",
-      "path": "计算机基础/数据结构与算法/线性结构/稀疏数组.md"
-    },
-    {
-      "basename": "数组",
-      "path": "计算机基础/数据结构与算法/线性结构/数组.md"
-    },
-    {
-      "basename": "队列",
-      "path": "计算机基础/数据结构与算法/线性结构/队列.md"
-    },
-    {
-      "basename": "循环队列-当队列满但是指针相同.excalidraw",
-      "path": "计算机基础/数据结构与算法/线性结构/attachment/循环队列-当队列满但是指针相同.excalidraw.md"
-    },
-    {
-      "basename": "数据链路层",
-      "path": "计算机基础/计算机网络/数据链路层.md"
-    },
-    {
-      "basename": "链表",
-      "path": "计算机基础/数据结构与算法/线性结构/链表.md"
-    },
-    {
-      "basename": "静态队列的问题",
-      "path": "计算机基础/数据结构与算法/线性结构/attachment/静态队列的问题.md"
     }
   ],
   "omittedPaths": [],
