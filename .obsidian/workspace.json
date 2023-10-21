@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/软件工程概论/系统测试.md",
+                "file": "前端技术栈/Node.js/身份认证.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "JWT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/软件工程概论/系统测试.md",
+                "file": "前端技术栈/Node.js/身份认证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/软件工程概论/系统测试.md",
+                "file": "前端技术栈/Node.js/身份认证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/软件工程概论/系统测试.md"
+                "file": "前端技术栈/Node.js/身份认证.md"
               }
             }
           }
@@ -160,6 +161,8 @@
   },
   "active": "d054c2615e1c87b6",
   "lastOpenFiles": [
+    "计算机基础/数据结构与算法/查找/斐波那契查找.md",
+    "计算机基础/软件工程概论/系统测试.md",
     "计算机基础/软件工程概论/系统设计.md",
     "计算机基础/软件工程概论/运行和维护知识.md",
     "计算机基础/软件工程概论/需求分析.md",
@@ -191,8 +194,6 @@
     "Java技术栈/23种设计模式/组合关系.md",
     "Java技术栈/23种设计模式/适配器模式.md",
     "Java技术栈/23种设计模式/单例模式.md",
-    "Java技术栈/23种设计模式/设计模式七大原则.md",
-    "计算机基础/结构化开发方法/系统分析与设计概述.md",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015095615.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015094715.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015094225.png",
