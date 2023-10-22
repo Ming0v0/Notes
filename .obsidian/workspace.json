@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/数据库技术基础/关系代数.md",
+                "file": "计算机基础/软件工程概论/软件项目管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "左外连接",
+                "query": "COCOMO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/数据库技术基础/关系代数.md",
+                "file": "计算机基础/软件工程概论/软件项目管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/数据库技术基础/关系代数.md",
+                "file": "计算机基础/软件工程概论/软件项目管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/数据库技术基础/关系代数.md"
+                "file": "计算机基础/软件工程概论/软件项目管理.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "d054c2615e1c87b6",
   "lastOpenFiles": [
+    "计算机基础/数据库技术基础/关系代数.md",
     "数据库/MySQL/基础篇/第06章 多表查询.md",
     "计算机基础/面向对象技术/面向对象基础.md",
     "计算机基础/结构化开发方法/系统分析与设计概述.md",
@@ -195,7 +196,6 @@
     "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019230651.png",
     "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019230634.png",
     "计算机基础/计算机网络/实践/网络工程/attachment",
-    "数据库/MySQL/基础篇/第07章_单行函数.md",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015095615.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015094715.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015094225.png",
