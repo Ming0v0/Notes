@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/软件工程概论/系统测试.md",
+                "file": "计算机基础/数据库技术基础/关系代数.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "左外连接",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/软件工程概论/系统测试.md",
+                "file": "计算机基础/数据库技术基础/关系代数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/软件工程概论/系统测试.md",
+                "file": "计算机基础/数据库技术基础/关系代数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/软件工程概论/系统测试.md"
+                "file": "计算机基础/数据库技术基础/关系代数.md"
               }
             }
           }
@@ -158,22 +159,27 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "398eb5a350d7b420",
+  "active": "d054c2615e1c87b6",
   "lastOpenFiles": [
-    "Java技术栈/Spring框架/Spring Boot3",
-    "计算机基础/软件工程概论/软件过程模型.md",
+    "数据库/MySQL/基础篇/第06章 多表查询.md",
+    "计算机基础/面向对象技术/面向对象基础.md",
+    "计算机基础/结构化开发方法/系统分析与设计概述.md",
+    "计算机基础/软件工程概论/系统设计.md",
+    "计算机基础/软件工程概论/系统测试.md",
     "计算机基础/软件工程概论/软件项目管理.md",
+    "计算机基础/软件工程概论/软件过程模型.md",
+    "计算机基础/软件工程概论/软件工程概述.md",
+    "计算机基础/软件工程概论/需求分析.md",
+    "计算机基础/软件工程概论/运行和维护知识.md",
+    "计算机基础/计算机网络/实践",
+    "Java技术栈/Spring框架/Spring Boot3",
     "前端技术栈/Node.js/身份认证.md",
     "计算机基础/数据结构与算法/查找/斐波那契查找.md",
-    "计算机基础/软件工程概论/系统测试.md",
-    "计算机基础/软件工程概论/系统设计.md",
-    "计算机基础/软件工程概论/运行和维护知识.md",
-    "计算机基础/软件工程概论/需求分析.md",
     "Java技术栈/23种设计模式/策略模式.md",
     "Java技术栈/23种设计模式/桥接模式.md",
     "Java技术栈/23种设计模式/装饰模式.md",
     "Java技术栈/23种设计模式/建造者模式.md",
-    "网络工程/生成树协议STP.md",
+    "计算机基础/计算机网络/实践/网络工程/生成树协议STP.md",
     "数据库/Redis6/第02章 常用五大数据类型.md",
     "数据库/Redis6/第03章 Redis配置文件介绍.md",
     "数据库/Redis6/第04章 Redis的发布和订阅.md",
@@ -181,18 +187,15 @@
     "数据库/Redis6/第06章 Redis持久化.md",
     "数据库/Redis6/第07章 Redis事务.md",
     "数据库/Redis6/第08章 Redis主从复制.md",
-    "网络工程/attachment/Pasted image 20231019232540.png",
-    "网络工程/attachment/Pasted image 20231019231951.png",
-    "网络工程/attachment/Pasted image 20231019231906.png",
+    "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019232540.png",
+    "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019231951.png",
+    "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019231906.png",
     "数据库/MySQL/基础篇/第13章 约束.md",
-    "网络工程/attachment/Pasted image 20231019230833.png",
-    "网络工程/attachment/Pasted image 20231019230651.png",
-    "网络工程/attachment/Pasted image 20231019230634.png",
-    "网络工程/attachment",
-    "数据库/MySQL/基础篇/第06章 多表查询.md",
+    "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019230833.png",
+    "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019230651.png",
+    "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019230634.png",
+    "计算机基础/计算机网络/实践/网络工程/attachment",
     "数据库/MySQL/基础篇/第07章_单行函数.md",
-    "数据库/MySQL/基础篇/第05章 排序与分页.md",
-    "Java技术栈/23种设计模式/工厂模式.md",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015095615.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015094715.png",
     "计算机基础/数据库技术基础/attachment/Pasted image 20231015094225.png",
@@ -204,8 +207,6 @@
     "数学/初中数学",
     "数学",
     "Linux/attachment",
-    "Linux",
-    "开发工具/Git/attachment/未命名.canvas",
-    "ignore"
+    "开发工具/Git/attachment/未命名.canvas"
   ]
 }
