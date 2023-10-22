@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/软件工程概论/软件项目管理.md",
+                "file": "计算机基础/软件工程概论/系统测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "COCOMO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/软件工程概论/软件项目管理.md",
+                "file": "计算机基础/软件工程概论/系统测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/软件工程概论/软件项目管理.md",
+                "file": "计算机基础/软件工程概论/系统测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/软件工程概论/软件项目管理.md"
+                "file": "计算机基础/软件工程概论/系统测试.md"
               }
             }
           }
@@ -161,17 +160,21 @@
   },
   "active": "d054c2615e1c87b6",
   "lastOpenFiles": [
-    "计算机基础/数据库技术基础/关系代数.md",
-    "数据库/MySQL/基础篇/第06章 多表查询.md",
-    "计算机基础/面向对象技术/面向对象基础.md",
-    "计算机基础/结构化开发方法/系统分析与设计概述.md",
-    "计算机基础/软件工程概论/系统设计.md",
+    "计算机基础/软件工程概论/attachment/Pasted image 20231022163659.png",
+    "Excalidraw/Drawing 2023-10-22 16.18.17.excalidraw.md",
     "计算机基础/软件工程概论/系统测试.md",
-    "计算机基础/软件工程概论/软件项目管理.md",
+    "计算机基础/软件工程概论/系统设计.md",
+    "计算机基础/面向对象技术/UML.md",
+    "计算机基础/面向对象技术/面向对象基础.md",
+    "计算机基础/软件工程概论/运行和维护知识.md",
+    "计算机基础/结构化开发方法/系统分析与设计概述.md",
     "计算机基础/软件工程概论/软件过程模型.md",
     "计算机基础/软件工程概论/软件工程概述.md",
+    "计算机基础/软件工程概论/软件项目管理.md",
+    "计算机基础/数据结构与算法/非线性结构/树/二叉树-Jun.md",
+    "计算机基础/数据库技术基础/关系代数.md",
+    "数据库/MySQL/基础篇/第06章 多表查询.md",
     "计算机基础/软件工程概论/需求分析.md",
-    "计算机基础/软件工程概论/运行和维护知识.md",
     "计算机基础/计算机网络/实践",
     "Java技术栈/Spring框架/Spring Boot3",
     "前端技术栈/Node.js/身份认证.md",
@@ -185,13 +188,9 @@
     "数据库/Redis6/第03章 Redis配置文件介绍.md",
     "数据库/Redis6/第04章 Redis的发布和订阅.md",
     "数据库/Redis6/第05章 Redis新数据类型.md",
-    "数据库/Redis6/第06章 Redis持久化.md",
-    "数据库/Redis6/第07章 Redis事务.md",
-    "数据库/Redis6/第08章 Redis主从复制.md",
     "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019232540.png",
     "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019231951.png",
     "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019231906.png",
-    "数据库/MySQL/基础篇/第13章 约束.md",
     "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019230833.png",
     "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019230651.png",
     "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019230634.png",
