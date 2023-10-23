@@ -1,3 +1,3 @@
-```
-# Hello
+```txt
+Hello
 ```

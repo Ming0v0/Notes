@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Git",
       "path": "开发工具/Git/Git.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "第09章 Shell 编程",
       "path": "Linux/第09章 Shell 编程.md"
-    },
-    {
-      "basename": "第03章 基本的SELECT语句",
-      "path": "数据库/MySQL/基础篇/第03章 基本的SELECT语句.md"
     }
   ],
   "omittedPaths": [],
