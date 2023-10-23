@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c5de0d3dfeab9612",
+        "id": "a8c3530b27c3981c",
         "type": "tabs",
         "children": [
           {
-            "id": "d054c2615e1c87b6",
+            "id": "6946ce4c64423edb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/第03章 常用命令.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/第03章 常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/第03章 常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/第03章 常用命令.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -158,8 +150,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "d054c2615e1c87b6",
+  "active": "6946ce4c64423edb",
   "lastOpenFiles": [
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "Linux/第03章 常用命令.md",
     "计算机基础/软件工程概论/系统测试.md",
     "计算机基础/软件工程概论/系统设计.md",
     "计算机基础/软件工程概论/attachment/语句测试.md",
@@ -187,8 +182,6 @@
     "Java技术栈/23种设计模式/建造者模式.md",
     "计算机基础/计算机网络/实践/网络工程/生成树协议STP.md",
     "数据库/Redis6/第02章 常用五大数据类型.md",
-    "数据库/Redis6/第03章 Redis配置文件介绍.md",
-    "数据库/Redis6/第04章 Redis的发布和订阅.md",
     "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019232540.png",
     "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019231951.png",
     "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019231906.png",

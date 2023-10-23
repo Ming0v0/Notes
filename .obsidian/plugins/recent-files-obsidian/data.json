@@ -191,14 +191,6 @@
     {
       "basename": "第03章 基本的SELECT语句",
       "path": "数据库/MySQL/基础篇/第03章 基本的SELECT语句.md"
-    },
-    {
-      "basename": "第02章_MySQL环境搭建",
-      "path": "数据库/MySQL/基础篇/第02章_MySQL环境搭建.md"
-    },
-    {
-      "basename": "第10章 索引优化与查询优化",
-      "path": "数据库/MySQL/高级篇/第10章 索引优化与查询优化.md"
     }
   ],
   "omittedPaths": [],
