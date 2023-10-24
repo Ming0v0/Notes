@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "UML",
-      "path": "计算机基础/面向对象技术/UML.md"
-    },
-    {
       "basename": "面向对象基础",
       "path": "计算机基础/面向对象技术/面向对象基础.md"
     },
     {
+      "basename": "软件过程模型",
+      "path": "计算机基础/软件工程概论/软件过程模型.md"
+    },
+    {
       "basename": "软件项目管理",
       "path": "计算机基础/软件工程概论/软件项目管理.md"
+    },
+    {
+      "basename": "README",
+      "path": "计算机基础/软件工程概论/README.md"
+    },
+    {
+      "basename": "UML",
+      "path": "计算机基础/面向对象技术/UML.md"
     },
     {
       "basename": "系统分析与设计概述",
@@ -83,10 +91,6 @@
     {
       "basename": "运行和维护知识",
       "path": "计算机基础/软件工程概论/运行和维护知识.md"
-    },
-    {
-      "basename": "软件过程模型",
-      "path": "计算机基础/软件工程概论/软件过程模型.md"
     },
     {
       "basename": "软件工程概述",
@@ -195,10 +199,6 @@
     {
       "basename": "概述",
       "path": "计算机基础/程序设计语言基础知识/概述.md"
-    },
-    {
-      "basename": "数据模型",
-      "path": "计算机基础/数据库技术基础/数据模型.md"
     }
   ],
   "omittedPaths": [],
