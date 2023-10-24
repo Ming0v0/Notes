@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发工具/Git/README.md",
+                "file": "计算机基础/计算机网络/生成树协议STP.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发工具/Git/README.md",
+                "file": "计算机基础/计算机网络/生成树协议STP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发工具/Git/README.md",
+                "file": "计算机基础/计算机网络/生成树协议STP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发工具/Git/README.md"
+                "file": "计算机基础/计算机网络/生成树协议STP.md"
               }
             }
           }
@@ -160,8 +160,14 @@
   },
   "active": "398eb5a350d7b420",
   "lastOpenFiles": [
-    "开发工具/README.md",
+    "计算机基础/计算机网络/attachment/Pasted image 20231019232540.png",
+    "计算机基础/计算机网络/attachment/Pasted image 20231019231951.png",
+    "计算机基础/计算机网络/attachment/Pasted image 20231019231906.png",
+    "计算机基础/计算机网络/attachment/Pasted image 20231019230833.png",
+    "计算机基础/计算机网络/attachment/Pasted image 20231019230651.png",
+    "计算机基础/计算机网络/attachment/Pasted image 20231019230634.png",
     "开发工具/Git/README.md",
+    "开发工具/README.md",
     "README.md",
     "未命名.canvas",
     "开发工具/Git/Git.md",
@@ -190,17 +196,11 @@
     "前端技术栈/Node.js/身份认证.md",
     "计算机基础/数据结构与算法/查找/斐波那契查找.md",
     "Java技术栈/23种设计模式/策略模式.md",
-    "Java技术栈/23种设计模式/桥接模式.md",
     "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019232540.png",
     "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019231951.png",
     "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019231906.png",
     "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019230833.png",
-    "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019230651.png",
-    "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019230634.png",
     "计算机基础/计算机网络/实践/网络工程/attachment",
-    "计算机基础/数据库技术基础/attachment/Pasted image 20231015095615.png",
-    "计算机基础/数据库技术基础/attachment/Pasted image 20231015094715.png",
-    "计算机基础/数据库技术基础/attachment/Pasted image 20231015094225.png",
     "数据库/MySQL/基础篇/第10章_创建和管理表.md.2023-10-11_23.32.36.foldersync.old",
     "计算机基础/信息安全",
     "数学/高中数学",

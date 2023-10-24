@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "生成树协议STP",
+      "path": "计算机基础/计算机网络/生成树协议STP.md"
+    },
+    {
       "basename": "README",
       "path": "开发工具/Git/README.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Git",
       "path": "开发工具/Git/Git.md"
-    },
-    {
-      "basename": "生成树协议STP",
-      "path": "计算机基础/计算机网络/生成树协议STP.md"
     },
     {
       "basename": "第03章 常用命令",
