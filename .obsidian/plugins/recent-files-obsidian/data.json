@@ -2,6 +2,14 @@
   "recentFiles": [
     {
       "basename": "README",
+      "path": "开发工具/Git/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "开发工具/README.md"
+    },
+    {
+      "basename": "README",
       "path": "README.md"
     },
     {
@@ -10,7 +18,7 @@
     },
     {
       "basename": "生成树协议STP",
-      "path": "计算机基础/计算机网络/实践/网络工程/生成树协议STP.md"
+      "path": "计算机基础/计算机网络/生成树协议STP.md"
     },
     {
       "basename": "第03章 常用命令",
@@ -191,10 +199,6 @@
     {
       "basename": "第01章 数据库概述",
       "path": "数据库/MySQL/基础篇/第01章 数据库概述.md"
-    },
-    {
-      "basename": "第09章 Shell 编程",
-      "path": "Linux/第09章 Shell 编程.md"
     }
   ],
   "omittedPaths": [],
