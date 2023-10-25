@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/数据结构与算法/非线性结构/图/图的基础.md",
+                "file": "计算机基础/数据结构与算法/排序/堆排序.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/数据结构与算法/非线性结构/图/图的基础.md",
+                "file": "计算机基础/数据结构与算法/排序/堆排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/数据结构与算法/非线性结构/图/图的基础.md",
+                "file": "计算机基础/数据结构与算法/排序/堆排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/数据结构与算法/非线性结构/图/图的基础.md"
+                "file": "计算机基础/数据结构与算法/排序/堆排序.md"
               }
             }
           }
@@ -160,8 +160,11 @@
   },
   "active": "6d9575d862acb74f",
   "lastOpenFiles": [
-    "README.md",
+    "Excalidraw/Drawing 2023-10-25 13.51.20.excalidraw.md",
+    "计算机基础/数据结构与算法/排序/堆排序.md",
+    "Excalidraw",
     "计算机基础/数据结构与算法/非线性结构/图/图的基础.md",
+    "README.md",
     "SUMMARY.md",
     "数学/README.md",
     "开发工具/README.md",
@@ -184,8 +187,6 @@
     "计算机基础/面向对象技术/README.md",
     "数据库/MySQL/高级篇/README.md",
     "数据库/MySQL/基础篇/README.md",
-    "计算机基础/计算机组成原理/README.md",
-    "计算机基础/结构化开发方法/README.md",
     "计算机基础/计算机网络/attachment/Pasted image 20231019232540.png",
     "计算机基础/计算机网络/attachment/Pasted image 20231019231951.png",
     "计算机基础/计算机网络/attachment/Pasted image 20231019231906.png",
@@ -207,7 +208,6 @@
     "数学/初中数学/attachment",
     "数学/初中数学",
     "数学",
-    "Linux/attachment",
     "开发工具/Git/attachment/未命名.canvas"
   ]
 }
