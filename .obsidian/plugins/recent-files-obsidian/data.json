@@ -29,10 +29,6 @@
       "path": "计算机基础/软件工程概论/软件项目管理.md"
     },
     {
-      "basename": "README",
-      "path": "计算机基础/软件工程概论/README.md"
-    },
-    {
       "basename": "概述",
       "path": "计算机基础/信息安全/概述.md"
     },
@@ -45,32 +41,12 @@
       "path": "计算机基础/计算机组成原理/数字的表示.md"
     },
     {
-      "basename": "README",
-      "path": "计算机基础/信息安全/README.md"
-    },
-    {
       "basename": "七年级",
       "path": "数学/初中数学/七年级.md"
     },
     {
-      "basename": "SUMMARY",
-      "path": "SUMMARY.md"
-    },
-    {
       "basename": "生成树协议STP",
       "path": "计算机基础/计算机网络/生成树协议STP.md"
-    },
-    {
-      "basename": "README",
-      "path": "开发工具/Git/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "开发工具/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Git",
