@@ -1,3 +1,0 @@
-```txt
-Hello World
-```
