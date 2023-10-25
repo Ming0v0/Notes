@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "第02章 MySQL的数据目录",
+      "path": "数据库/MySQL/高级篇/第02章 MySQL的数据目录.md"
+    },
+    {
+      "basename": "第03章 用户与权限管理",
+      "path": "数据库/MySQL/高级篇/第03章 用户与权限管理.md"
+    },
+    {
+      "basename": "第04章 逻辑架构",
+      "path": "数据库/MySQL/高级篇/第04章 逻辑架构.md"
+    },
+    {
+      "basename": "第01章 Linux下MySQL的安装与使用",
+      "path": "数据库/MySQL/高级篇/第01章 Linux下MySQL的安装与使用.md"
+    },
+    {
+      "basename": "概述",
+      "path": "运维/Nginx/概述.md"
+    },
+    {
       "basename": "UML",
       "path": "计算机基础/面向对象技术/UML.md"
     },
@@ -86,7 +106,7 @@
     },
     {
       "basename": "第03章 常用命令",
-      "path": "Linux/第03章 常用命令.md"
+      "path": "运维/Linux/第03章 常用命令.md"
     },
     {
       "basename": "语句测试",
@@ -179,18 +199,6 @@
     {
       "basename": "组合关系",
       "path": "Java技术栈/23种设计模式/组合关系.md"
-    },
-    {
-      "basename": "适配器模式",
-      "path": "Java技术栈/23种设计模式/适配器模式.md"
-    },
-    {
-      "basename": "单例模式",
-      "path": "Java技术栈/23种设计模式/单例模式.md"
-    },
-    {
-      "basename": "设计模式七大原则",
-      "path": "Java技术栈/23种设计模式/设计模式七大原则.md"
     }
   ],
   "omittedPaths": [],

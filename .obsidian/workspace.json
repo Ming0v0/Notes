@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/面向对象技术/UML.md",
+                "file": "数据库/MySQL/高级篇/第02章 MySQL的数据目录.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/面向对象技术/UML.md",
+                "file": "数据库/MySQL/高级篇/第02章 MySQL的数据目录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/面向对象技术/UML.md",
+                "file": "数据库/MySQL/高级篇/第02章 MySQL的数据目录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/面向对象技术/UML.md"
+                "file": "数据库/MySQL/高级篇/第02章 MySQL的数据目录.md"
               }
             }
           }
@@ -160,8 +160,15 @@
   },
   "active": "6d9575d862acb74f",
   "lastOpenFiles": [
-    "计算机基础/数据结构与算法/算法/普里姆算法.md",
+    "数据库/MySQL/高级篇/第03章 用户与权限管理.md",
+    "数据库/MySQL/高级篇/第04章 逻辑架构.md",
+    "数据库/MySQL/高级篇/第02章 MySQL的数据目录.md",
+    "数据库/MySQL/高级篇/第01章 Linux下MySQL的安装与使用.md",
+    "运维/Nginx/概述.md",
     "计算机基础/面向对象技术/UML.md",
+    "运维/Nginx",
+    "运维",
+    "计算机基础/数据结构与算法/算法/普里姆算法.md",
     "计算机基础/软件工程概论/运行和维护知识.md",
     "计算机基础/软件工程概论/需求分析.md",
     "计算机基础/软件工程概论/系统设计.md",
@@ -182,11 +189,6 @@
     "开发工具/README.md",
     "数据库/README.md",
     "计算机基础/README.md",
-    "前端技术栈/README.md",
-    "Linux/README.md",
-    "数学/高中数学/README.md",
-    "数学/初中数学/README.md",
-    "Java技术栈/README.md",
     "计算机基础/计算机网络/attachment/Pasted image 20231019232540.png",
     "计算机基础/计算机网络/attachment/Pasted image 20231019231951.png",
     "计算机基础/计算机网络/attachment/Pasted image 20231019231906.png",
@@ -206,8 +208,6 @@
     "计算机基础/信息安全",
     "数学/高中数学",
     "数学/初中数学/attachment",
-    "数学/初中数学",
-    "数学",
     "开发工具/Git/attachment/未命名.canvas"
   ]
 }
