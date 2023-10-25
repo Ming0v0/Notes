@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/数据结构与算法/排序/堆排序.md",
+                "file": "计算机基础/面向对象技术/UML.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/数据结构与算法/排序/堆排序.md",
+                "file": "计算机基础/面向对象技术/UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/数据结构与算法/排序/堆排序.md",
+                "file": "计算机基础/面向对象技术/UML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/数据结构与算法/排序/堆排序.md"
+                "file": "计算机基础/面向对象技术/UML.md"
               }
             }
           }
@@ -160,8 +160,20 @@
   },
   "active": "6d9575d862acb74f",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-10-25 13.51.20.excalidraw.md",
+    "计算机基础/数据结构与算法/算法/普里姆算法.md",
+    "计算机基础/面向对象技术/UML.md",
+    "计算机基础/软件工程概论/运行和维护知识.md",
+    "计算机基础/软件工程概论/需求分析.md",
+    "计算机基础/软件工程概论/系统设计.md",
+    "计算机基础/软件工程概论/系统测试.md",
+    "计算机基础/软件工程概论/软件项目管理.md",
+    "计算机基础/软件工程概论/软件过程模型.md",
+    "计算机基础/软件工程概论/软件工程概述.md",
+    "计算机基础/面向对象技术/面向对象基础.md",
+    "计算机基础/数据结构与算法/排序/归并排序.md",
+    "计算机基础/数据结构与算法/排序/插入排序.md",
     "计算机基础/数据结构与算法/排序/堆排序.md",
+    "Excalidraw/Drawing 2023-10-25 13.51.20.excalidraw.md",
     "Excalidraw",
     "计算机基础/数据结构与算法/非线性结构/图/图的基础.md",
     "README.md",
@@ -175,18 +187,6 @@
     "数学/高中数学/README.md",
     "数学/初中数学/README.md",
     "Java技术栈/README.md",
-    "开发工具/Git/README.md",
-    "数据库/MySQL/README.md",
-    "前端技术栈/Vue/README.md",
-    "前端技术栈/ES6/README.md",
-    "计算机基础/信息安全/README.md",
-    "计算机基础/操作系统/README.md",
-    "数据库/Redis6/README.md",
-    "计算机基础/计算机网络/README.md",
-    "计算机基础/软件工程概论/README.md",
-    "计算机基础/面向对象技术/README.md",
-    "数据库/MySQL/高级篇/README.md",
-    "数据库/MySQL/基础篇/README.md",
     "计算机基础/计算机网络/attachment/Pasted image 20231019232540.png",
     "计算机基础/计算机网络/attachment/Pasted image 20231019231951.png",
     "计算机基础/计算机网络/attachment/Pasted image 20231019231906.png",
