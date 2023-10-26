@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "磁盘调度算法",
+      "path": "计算机基础/操作系统/磁盘调度算法.md"
+    },
+    {
+      "basename": "第 2 章 进程管理",
+      "path": "计算机基础/操作系统/第 2 章 进程管理.md"
+    },
+    {
       "basename": "第02章 MySQL的数据目录",
       "path": "数据库/MySQL/高级篇/第02章 MySQL的数据目录.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "第05章 排序与分页",
       "path": "数据库/MySQL/基础篇/第05章 排序与分页.md"
-    },
-    {
-      "basename": "工厂模式",
-      "path": "Java技术栈/23种设计模式/工厂模式.md"
-    },
-    {
-      "basename": "组合关系",
-      "path": "Java技术栈/23种设计模式/组合关系.md"
     }
   ],
   "omittedPaths": [],
