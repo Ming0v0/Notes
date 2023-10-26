@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/操作系统/磁盘调度算法.md",
+                "file": "数据库/MySQL/高级篇/第03章 用户与权限管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/操作系统/磁盘调度算法.md",
+                "file": "数据库/MySQL/高级篇/第03章 用户与权限管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/操作系统/磁盘调度算法.md",
+                "file": "数据库/MySQL/高级篇/第03章 用户与权限管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/操作系统/磁盘调度算法.md"
+                "file": "数据库/MySQL/高级篇/第03章 用户与权限管理.md"
               }
             }
           }
@@ -160,9 +160,9 @@
   },
   "active": "6d9575d862acb74f",
   "lastOpenFiles": [
+    "计算机基础/操作系统/磁盘调度算法.md",
     "计算机基础/操作系统/attachment/Pasted image 20231026094909.png",
     "计算机基础/操作系统/第 2 章 进程管理.md",
-    "计算机基础/操作系统/磁盘调度算法.md",
     "计算机基础/操作系统/attachment/Pasted image 20231026091623.png",
     "数据库/MySQL/高级篇/第02章 MySQL的数据目录.md",
     "数据库/MySQL/高级篇/第03章 用户与权限管理.md",
@@ -202,7 +202,6 @@
     "计算机基础/计算机网络/实践",
     "Java技术栈/Spring框架/Spring Boot3",
     "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019232540.png",
-    "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019231951.png",
     "计算机基础/计算机网络/实践/网络工程/attachment",
     "数据库/MySQL/基础篇/第10章_创建和管理表.md.2023-10-11_23.32.36.foldersync.old",
     "计算机基础/信息安全",

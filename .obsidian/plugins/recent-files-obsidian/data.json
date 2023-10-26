@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "第03章 用户与权限管理",
+      "path": "数据库/MySQL/高级篇/第03章 用户与权限管理.md"
+    },
+    {
       "basename": "磁盘调度算法",
       "path": "计算机基础/操作系统/磁盘调度算法.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "第02章 MySQL的数据目录",
       "path": "数据库/MySQL/高级篇/第02章 MySQL的数据目录.md"
-    },
-    {
-      "basename": "第03章 用户与权限管理",
-      "path": "数据库/MySQL/高级篇/第03章 用户与权限管理.md"
     },
     {
       "basename": "第04章 逻辑架构",
