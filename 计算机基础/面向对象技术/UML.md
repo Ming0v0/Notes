@@ -79,11 +79,42 @@ UML中有4种关系，即依赖、关联、泛化和实现。
 ### 依赖
 
 依赖(Dependency)。依赖是两个事物间的语义关系，其中一个事物（独立事物）发生变化会影响另一个事物（依赖事物）的语义。
-
+![[attachment/Pasted image 20220509180304.png]]
 如果对象A用到对象B，但是和B的关系不是太明显的时候，就可以把这种关系看作是依赖关系。如果对象A依赖于对象B，则 `A use a B`。比如驾驶员和汽车的关系，驾驶员使用汽车，二者之间就是依赖关系。
 
 依赖关系在Java中的具体代码表现形式为**B为A的构造器**或**方法中的局部变量**、**方法或构造器的参数**、**方法的返回值**，或者**A调用B的静态方法**。
-![[attachment/Pasted image 20220509180304.png]]
+
+假设我们有两个类：`Order`（订单）和`PaymentProcessor`（支付处理器）。`Order` 类依赖于 `PaymentProcessor` 类来完成支付操作。
+
+定义 `PaymentProcessor` 类：
+```java
+public class PaymentProcessor {
+    public void processPayment(double amount) {
+        // 执行支付处理逻辑
+        System.out.println("Payment processed for amount: " + amount);
+    }
+}
+```
+
+定义 `Order` 类，它在某些情况下需要使用 `PaymentProcessor` 来处理支付：
+```java
+public class Order {
+    private double totalAmount;
+    private PaymentProcessor paymentProcessor;
+
+    public Order(double totalAmount, PaymentProcessor paymentProcessor) {
+        this.totalAmount = totalAmount;
+        this.paymentProcessor = paymentProcessor;
+    }
+
+    public void checkout() {
+        // 在这里，Order 类使用了 PaymentProcessor 来完成支付
+        paymentProcessor.processPayment(totalAmount);
+    }
+}
+```
+
+在上述示例中，`Order` 类通过构造函数接受一个 `PaymentProcessor` 对象，并在 `checkout` 方法中调用了 `PaymentProcessor` 的 `processPayment` 方法来完成支付操作。这种关系表示 `Order` 类依赖于 `PaymentProcessor` 类来执行支付操作。
 
 ### 关联
 
@@ -110,7 +141,7 @@ public class Person {
 	private IDCard card; 
 } 
 public class IDCard{
-
+	// 功能
 } 
 // 双向一对一关系
 public class Person {
@@ -142,7 +173,11 @@ public class Computer{
 ```
 
 <font color='#007d65'>在UML图中，聚合关系用空心菱形加实线箭头表示，空心菱形在整体一方，箭头指向部分一方</font>
-![[attachment/Pasted image 20220513224049.png]]
+
+![聚合关系](attachment/聚合关系.md)
+
+---
+
 组合（Composition）。是整体与部分的关系, 但**部分不能离开整体而单独存在。** 如公司和部门是整体和部分的关系, 没有公司就不存在部门。
 
 ```java
@@ -152,6 +187,7 @@ public void Company{
 ```
 
 <font color='#007d65'>在UML图中，组合关系用实心菱形加实线箭头表示，实心菱形在整体一方，箭头指向部分一方</font>
+![[组合关系]]
 
 组合关系是关联关系的一种，是比聚合关系还要强的关系，它要求普通的聚合关系中代表整体的对象负责代表部分的对象的生命周期
 
@@ -177,10 +213,18 @@ UML提供的图包括类图、对象图、用例图、交互图、状态图、�
 
 类图(Class Diagram)展现了<font color="#c63c26">一组对象、接口、协作及其关系</font>。类图给出系统的*静态设计视图。* 包含主动类的类图给出了系统的静态进程视图
 
-1. 类
-2. 接口
-3. 协作
-4. 依赖、泛化和关联关系
+1. **类（Class）**：类是类图的核心元素，用于表示系统中的对象或类。类通常包括类名、属性和方法。
+	- **类名**：类名位于顶部，通常以粗体显示。
+	- **属性**：属性是类的特征或数据成员，通常以名称和类型表示。
+	- **方法**：方法是类的行为或函数成员，通常以名称、参数列表和返回类型表示。
+2. **关系（Relationships）**：关系用于表示不同类之间的连接或关联。以下是一些常见的关系类型：
+    - **关联关系（Association）**：表示两个类之间的关联。关联可以具有角色、多重性和导航性。
+    - **聚合关系（Aggregation）**：表示"整体-部分"的关系，其中一个类包含其他类的一部分。聚合关系通常使用一个菱形表示。
+    - **组合关系（Composition）**：与聚合关系类似，但更强，表示一个类包含其他类的整体部分，生命周期受控制。组合关系通常使用实心菱形表示。
+    - **继承关系（Inheritance）**：表示类之间的继承关系，其中一个类（子类或派生类）继承另一个类（父类或基类）的属性和方法。继承关系通常使用一个带空心箭头的实线表示。
+3. **接口（Interface）**：接口表示类必须实现的方法集合，通常以斜体字体表示，并在上方带有 "`<<interface>>`" 标记。
+4. **抽象类（Abstract Class）**：抽象类是不能被实例化的类，通常用斜体字体表示，并在上方带有 "{abstract}" 标记。
+5. **依赖关系（Dependency）**：表示一个类依赖于另一个类以执行某些操作，通常用虚线箭头表示。
 
 
 ![[attachment/Pasted image 20220513225821.png]]

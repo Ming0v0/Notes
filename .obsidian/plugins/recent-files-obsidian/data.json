@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "UML",
+      "path": "计算机基础/面向对象技术/UML.md"
+    },
+    {
+      "basename": "组合关系",
+      "path": "计算机基础/面向对象技术/attachment/组合关系.md"
+    },
+    {
+      "basename": "聚合关系",
+      "path": "计算机基础/面向对象技术/attachment/聚合关系.md"
+    },
+    {
+      "basename": "面向对象基础",
+      "path": "计算机基础/面向对象技术/面向对象基础.md"
+    },
+    {
+      "basename": "Pasted image 20220513224050",
+      "path": "计算机基础/面向对象技术/attachment/Pasted image 20220513224050.png"
+    },
+    {
+      "basename": "Pasted image 20220518171049",
+      "path": "计算机基础/面向对象技术/attachment/Pasted image 20220518171049.png"
+    },
+    {
+      "basename": "Pasted image 20220513224049",
+      "path": "计算机基础/面向对象技术/attachment/Pasted image 20220513224049.png"
+    },
+    {
       "basename": "第03章 用户与权限管理",
       "path": "数据库/MySQL/高级篇/第03章 用户与权限管理.md"
     },
@@ -27,10 +55,6 @@
     {
       "basename": "概述",
       "path": "运维/Nginx/概述.md"
-    },
-    {
-      "basename": "UML",
-      "path": "计算机基础/面向对象技术/UML.md"
     },
     {
       "basename": "普里姆算法",
@@ -63,10 +87,6 @@
     {
       "basename": "软件工程概述",
       "path": "计算机基础/软件工程概论/软件工程概述.md"
-    },
-    {
-      "basename": "面向对象基础",
-      "path": "计算机基础/面向对象技术/面向对象基础.md"
     },
     {
       "basename": "归并排序",
@@ -179,26 +199,6 @@
     {
       "basename": "第06章 Redis持久化",
       "path": "数据库/Redis6/第06章 Redis持久化.md"
-    },
-    {
-      "basename": "第07章 Redis事务",
-      "path": "数据库/Redis6/第07章 Redis事务.md"
-    },
-    {
-      "basename": "第08章 Redis主从复制",
-      "path": "数据库/Redis6/第08章 Redis主从复制.md"
-    },
-    {
-      "basename": "第13章 约束",
-      "path": "数据库/MySQL/基础篇/第13章 约束.md"
-    },
-    {
-      "basename": "第07章_单行函数",
-      "path": "数据库/MySQL/基础篇/第07章_单行函数.md"
-    },
-    {
-      "basename": "第05章 排序与分页",
-      "path": "数据库/MySQL/基础篇/第05章 排序与分页.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/MySQL/高级篇/第03章 用户与权限管理.md",
+                "file": "计算机基础/面向对象技术/UML.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5110321044922
+    "width": 446.5
   },
   "right": {
     "id": "30784d06b09dabce",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/MySQL/高级篇/第03章 用户与权限管理.md",
+                "file": "计算机基础/面向对象技术/UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/MySQL/高级篇/第03章 用户与权限管理.md",
+                "file": "计算机基础/面向对象技术/UML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/MySQL/高级篇/第03章 用户与权限管理.md"
+                "file": "计算机基础/面向对象技术/UML.md"
               }
             }
           }
@@ -160,16 +160,22 @@
   },
   "active": "6d9575d862acb74f",
   "lastOpenFiles": [
+    "计算机基础/面向对象技术/attachment/组合关系.md",
+    "计算机基础/面向对象技术/UML.md",
+    "计算机基础/面向对象技术/attachment/聚合关系.md",
+    "计算机基础/面向对象技术/面向对象基础.md",
+    "计算机基础/面向对象技术/attachment/Pasted image 20220513224050.png",
+    "计算机基础/面向对象技术/attachment/Pasted image 20220518171049.png",
+    "计算机基础/面向对象技术/attachment/Pasted image 20220513224049.png",
+    "数据库/MySQL/高级篇/第03章 用户与权限管理.md",
     "计算机基础/操作系统/磁盘调度算法.md",
     "计算机基础/操作系统/attachment/Pasted image 20231026094909.png",
     "计算机基础/操作系统/第 2 章 进程管理.md",
     "计算机基础/操作系统/attachment/Pasted image 20231026091623.png",
     "数据库/MySQL/高级篇/第02章 MySQL的数据目录.md",
-    "数据库/MySQL/高级篇/第03章 用户与权限管理.md",
     "数据库/MySQL/高级篇/第04章 逻辑架构.md",
     "数据库/MySQL/高级篇/第01章 Linux下MySQL的安装与使用.md",
     "运维/Nginx/概述.md",
-    "计算机基础/面向对象技术/UML.md",
     "运维/Nginx",
     "运维",
     "计算机基础/数据结构与算法/算法/普里姆算法.md",
@@ -180,7 +186,6 @@
     "计算机基础/软件工程概论/软件项目管理.md",
     "计算机基础/软件工程概论/软件过程模型.md",
     "计算机基础/软件工程概论/软件工程概述.md",
-    "计算机基础/面向对象技术/面向对象基础.md",
     "计算机基础/数据结构与算法/排序/归并排序.md",
     "计算机基础/数据结构与算法/排序/插入排序.md",
     "计算机基础/数据结构与算法/排序/堆排序.md",
@@ -189,19 +194,15 @@
     "计算机基础/数据结构与算法/非线性结构/图/图的基础.md",
     "README.md",
     "SUMMARY.md",
-    "数学/README.md",
     "计算机基础/计算机网络/attachment/Pasted image 20231019232540.png",
     "计算机基础/计算机网络/attachment/Pasted image 20231019231951.png",
     "计算机基础/计算机网络/attachment/Pasted image 20231019231906.png",
     "计算机基础/计算机网络/attachment/Pasted image 20231019230833.png",
     "计算机基础/计算机网络/attachment/Pasted image 20231019230651.png",
-    "计算机基础/计算机网络/attachment/Pasted image 20231019230634.png",
     "未命名.canvas",
     "未命名 1.canvas",
-    "计算机基础/软件工程概论/attachment/Pasted image 20231022163659.png",
     "计算机基础/计算机网络/实践",
     "Java技术栈/Spring框架/Spring Boot3",
-    "计算机基础/计算机网络/实践/网络工程/attachment/Pasted image 20231019232540.png",
     "计算机基础/计算机网络/实践/网络工程/attachment",
     "数据库/MySQL/基础篇/第10章_创建和管理表.md.2023-10-11_23.32.36.foldersync.old",
     "计算机基础/信息安全",
