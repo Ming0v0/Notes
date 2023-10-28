@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/面向对象技术/UML.md",
+                "file": "计算机基础/结构化开发方法/系统分析与设计概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/面向对象技术/UML.md",
+                "file": "计算机基础/结构化开发方法/系统分析与设计概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/面向对象技术/UML.md",
+                "file": "计算机基础/结构化开发方法/系统分析与设计概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/面向对象技术/UML.md"
+                "file": "计算机基础/结构化开发方法/系统分析与设计概述.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "6d9575d862acb74f",
   "lastOpenFiles": [
-    "计算机基础/面向对象技术/attachment/组合关系.md",
     "计算机基础/面向对象技术/UML.md",
+    "计算机基础/面向对象技术/attachment/组合关系.md",
     "计算机基础/面向对象技术/attachment/聚合关系.md",
     "计算机基础/面向对象技术/面向对象基础.md",
     "计算机基础/面向对象技术/attachment/Pasted image 20220513224050.png",
