@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运维/Linux/第02章 Vi 和 Vim 编辑器.md",
+                "file": "计算机基础/信息安全/概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "运维/Linux/第02章 Vi 和 Vim 编辑器.md",
+                "file": "计算机基础/信息安全/概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "运维/Linux/第02章 Vi 和 Vim 编辑器.md",
+                "file": "计算机基础/信息安全/概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "运维/Linux/第02章 Vi 和 Vim 编辑器.md"
+                "file": "计算机基础/信息安全/概述.md"
               }
             }
           }
@@ -160,10 +160,11 @@
   },
   "active": "6d9575d862acb74f",
   "lastOpenFiles": [
+    "计算机基础/面向对象技术/UML.md",
+    "运维/Linux/第02章 Vi 和 Vim 编辑器.md",
     "运维/Linux/第03章 常用命令.md",
     "运维/Linux/第01章 Linux概述.md",
     "计算机基础/结构化开发方法/系统分析与设计概述.md",
-    "计算机基础/面向对象技术/UML.md",
     "计算机基础/面向对象技术/attachment/组合关系.md",
     "计算机基础/面向对象技术/attachment/聚合关系.md",
     "计算机基础/面向对象技术/面向对象基础.md",
@@ -192,7 +193,6 @@
     "计算机基础/数据结构与算法/排序/归并排序.md",
     "计算机基础/数据结构与算法/排序/插入排序.md",
     "计算机基础/数据结构与算法/排序/堆排序.md",
-    "Excalidraw/Drawing 2023-10-25 13.51.20.excalidraw.md",
     "Excalidraw",
     "计算机基础/计算机网络/attachment/Pasted image 20231019232540.png",
     "计算机基础/计算机网络/attachment/Pasted image 20231019231951.png",
