@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "第02章 Vi 和 Vim 编辑器",
+      "path": "运维/Linux/第02章 Vi 和 Vim 编辑器.md"
+    },
+    {
+      "basename": "第03章 常用命令",
+      "path": "运维/Linux/第03章 常用命令.md"
+    },
+    {
+      "basename": "第01章 Linux概述",
+      "path": "运维/Linux/第01章 Linux概述.md"
+    },
+    {
       "basename": "系统分析与设计概述",
       "path": "计算机基础/结构化开发方法/系统分析与设计概述.md"
     },
@@ -133,10 +145,6 @@
       "path": "开发工具/Git/Git.md"
     },
     {
-      "basename": "第03章 常用命令",
-      "path": "运维/Linux/第03章 常用命令.md"
-    },
-    {
       "basename": "语句测试",
       "path": "计算机基础/软件工程概论/attachment/语句测试.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "第04章 Redis的发布和订阅",
       "path": "数据库/Redis6/第04章 Redis的发布和订阅.md"
-    },
-    {
-      "basename": "第05章 Redis新数据类型",
-      "path": "数据库/Redis6/第05章 Redis新数据类型.md"
-    },
-    {
-      "basename": "第06章 Redis持久化",
-      "path": "数据库/Redis6/第06章 Redis持久化.md"
     }
   ],
   "omittedPaths": [],
