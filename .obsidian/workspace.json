@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/信息安全/概述.md",
+                "file": "计算机基础/数据结构与算法/非线性结构/树/二叉排序树.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/信息安全/概述.md",
+                "file": "计算机基础/数据结构与算法/非线性结构/树/二叉排序树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/信息安全/概述.md",
+                "file": "计算机基础/数据结构与算法/非线性结构/树/二叉排序树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/信息安全/概述.md"
+                "file": "计算机基础/数据结构与算法/非线性结构/树/二叉排序树.md"
               }
             }
           }
@@ -160,6 +160,9 @@
   },
   "active": "6d9575d862acb74f",
   "lastOpenFiles": [
+    "计算机基础/数据结构与算法/非线性结构/树/二叉排序树.md",
+    "计算机基础/数据结构与算法/非线性结构/树/二叉排序树.md",
+    "计算机基础/信息安全/概述.md",
     "计算机基础/面向对象技术/UML.md",
     "运维/Linux/第02章 Vi 和 Vim 编辑器.md",
     "运维/Linux/第03章 常用命令.md",
@@ -190,9 +193,6 @@
     "计算机基础/软件工程概论/软件项目管理.md",
     "计算机基础/软件工程概论/软件过程模型.md",
     "计算机基础/软件工程概论/软件工程概述.md",
-    "计算机基础/数据结构与算法/排序/归并排序.md",
-    "计算机基础/数据结构与算法/排序/插入排序.md",
-    "计算机基础/数据结构与算法/排序/堆排序.md",
     "Excalidraw",
     "计算机基础/计算机网络/attachment/Pasted image 20231019232540.png",
     "计算机基础/计算机网络/attachment/Pasted image 20231019231951.png",

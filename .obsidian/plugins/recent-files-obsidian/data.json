@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "二叉排序树",
+      "path": "计算机基础/数据结构与算法/非线性结构/树/二叉排序树.md"
+    },
+    {
       "basename": "概述",
       "path": "计算机基础/信息安全/概述.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "第02章 常用五大数据类型",
       "path": "数据库/Redis6/第02章 常用五大数据类型.md"
-    },
-    {
-      "basename": "第03章 Redis配置文件介绍",
-      "path": "数据库/Redis6/第03章 Redis配置文件介绍.md"
-    },
-    {
-      "basename": "第04章 Redis的发布和订阅",
-      "path": "数据库/Redis6/第04章 Redis的发布和订阅.md"
     }
   ],
   "omittedPaths": [],
