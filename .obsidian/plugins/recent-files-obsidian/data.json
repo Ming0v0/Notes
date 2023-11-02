@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "平衡二叉树-Jun",
+      "path": "计算机基础/数据结构与算法/非线性结构/树/平衡二叉树-Jun.md"
+    },
+    {
+      "basename": "二叉树",
+      "path": "计算机基础/数据结构与算法/非线性结构/树/二叉树.md"
+    },
+    {
+      "basename": "树的基础",
+      "path": "计算机基础/数据结构与算法/非线性结构/树/树的基础.md"
+    },
+    {
       "basename": "第03章 用户与权限管理",
       "path": "数据库/MySQL/高级篇/第03章 用户与权限管理.md"
     },
@@ -117,16 +129,8 @@
       "path": "计算机基础/面向对象技术/attachment/聚合关系.md"
     },
     {
-      "basename": "Pasted image 20220513224050",
-      "path": "计算机基础/面向对象技术/attachment/Pasted image 20220513224050.png"
-    },
-    {
       "basename": "Pasted image 20220518171049",
       "path": "计算机基础/面向对象技术/attachment/Pasted image 20220518171049.png"
-    },
-    {
-      "basename": "Pasted image 20220513224049",
-      "path": "计算机基础/面向对象技术/attachment/Pasted image 20220513224049.png"
     },
     {
       "basename": "磁盘调度算法",
@@ -191,10 +195,6 @@
     {
       "basename": "队列",
       "path": "计算机基础/数据结构与算法/线性结构/队列.md"
-    },
-    {
-      "basename": "二叉树-Jun",
-      "path": "计算机基础/数据结构与算法/非线性结构/树/二叉树-Jun.md"
     },
     {
       "basename": "关系代数",
