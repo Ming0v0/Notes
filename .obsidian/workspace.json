@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/数据结构与算法/非线性结构/树/平衡二叉树-Jun.md",
+                "file": "计算机基础/计算机组成原理/浮点数.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/数据结构与算法/非线性结构/树/平衡二叉树-Jun.md",
+                "file": "计算机基础/计算机组成原理/浮点数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/数据结构与算法/非线性结构/树/平衡二叉树-Jun.md",
+                "file": "计算机基础/计算机组成原理/浮点数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/数据结构与算法/非线性结构/树/平衡二叉树-Jun.md"
+                "file": "计算机基础/计算机组成原理/浮点数.md"
               }
             }
           }
@@ -160,6 +160,8 @@
   },
   "active": "6d9575d862acb74f",
   "lastOpenFiles": [
+    "计算机基础/计算机组成原理/数字的表示.md",
+    "计算机基础/数据结构与算法/非线性结构/树/平衡二叉树-Jun.md",
     "计算机基础/数据结构与算法/非线性结构/树/二叉树.md",
     "计算机基础/数据结构与算法/非线性结构/树/树的基础.md",
     "数据库/MySQL/高级篇/第03章 用户与权限管理.md",
@@ -181,11 +183,9 @@
     "计算机基础/计算机组成原理/系统总线.md",
     "计算机基础/计算机组成原理/校验码.md",
     "计算机基础/计算机组成原理/浮点数.md",
-    "计算机基础/计算机组成原理/数字的表示.md",
     "计算机基础/计算机组成原理/指令控制方式.md",
     "计算机基础/数据结构与算法/非线性结构/树/二叉排序树.md",
     "计算机基础/数据结构与算法/非线性结构/树/二叉排序树.md",
-    "计算机基础/面向对象技术/UML.md",
     "计算机基础/面向对象技术/attachment/Pasted image 20220513224050.png",
     "计算机基础/面向对象技术/attachment/Pasted image 20220518171049.png",
     "计算机基础/面向对象技术/attachment/Pasted image 20220513224049.png",
