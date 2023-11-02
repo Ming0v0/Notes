@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/面向对象技术/UML.md",
+                "file": "Java技术栈/23种设计模式/结构型/桥接模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/面向对象技术/UML.md",
+                "file": "Java技术栈/23种设计模式/结构型/桥接模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/面向对象技术/UML.md",
+                "file": "Java技术栈/23种设计模式/结构型/桥接模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/面向对象技术/UML.md"
+                "file": "Java技术栈/23种设计模式/结构型/桥接模式.md"
               }
             }
           }
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,6 +160,12 @@
   },
   "active": "6d9575d862acb74f",
   "lastOpenFiles": [
+    "Java技术栈/23种设计模式/创建型/原型模式.md",
+    "Java技术栈/23种设计模式/设计模式七大原则.md",
+    "计算机基础/面向对象技术/UML.md",
+    "Java技术栈/23种设计模式/结构型",
+    "Java技术栈/23种设计模式/创建型",
+    "Java技术栈/23种设计模式/行为型",
     "计算机基础/面向对象技术/面向对象基础.md",
     "计算机基础/结构化开发方法/系统分析与设计概述.md",
     "计算机基础/软件工程概论/系统设计.md",
@@ -177,15 +183,12 @@
     "计算机基础/软件工程概论/需求分析.md",
     "计算机基础/软件工程概论/运行和维护知识.md",
     "计算机基础/软件工程概论/软件项目管理.md",
-    "Java技术栈/23种设计模式/设计模式七大原则.md",
     "计算机基础/信息安全/概述.md",
     "计算机基础/计算机组成原理/RISC和CISC.md",
     "计算机基础/计算机组成原理/中断.md",
     "计算机基础/计算机组成原理/存储器.md",
     "计算机基础/计算机组成原理/寻址.md",
     "计算机基础/计算机组成原理/系统总线.md",
-    "计算机基础/计算机组成原理/校验码.md",
-    "计算机基础/计算机组成原理/指令控制方式.md",
     "计算机基础/面向对象技术/attachment/Pasted image 20220513224050.png",
     "计算机基础/面向对象技术/attachment/Pasted image 20220518171049.png",
     "计算机基础/面向对象技术/attachment/Pasted image 20220513224049.png",
@@ -205,9 +208,6 @@
     "Java技术栈/Spring框架/Spring Boot3",
     "计算机基础/计算机网络/实践/网络工程/attachment",
     "数据库/MySQL/基础篇/第10章_创建和管理表.md.2023-10-11_23.32.36.foldersync.old",
-    "计算机基础/信息安全",
-    "数学/高中数学",
-    "数学/初中数学/attachment",
     "开发工具/Git/attachment/未命名.canvas"
   ]
 }

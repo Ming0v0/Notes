@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "桥接模式",
+      "path": "Java技术栈/23种设计模式/结构型/桥接模式.md"
+    },
+    {
+      "basename": "原型模式",
+      "path": "Java技术栈/23种设计模式/创建型/原型模式.md"
+    },
+    {
+      "basename": "设计模式七大原则",
+      "path": "Java技术栈/23种设计模式/设计模式七大原则.md"
+    },
+    {
       "basename": "UML",
       "path": "计算机基础/面向对象技术/UML.md"
     },
@@ -71,10 +83,6 @@
     {
       "basename": "软件项目管理",
       "path": "计算机基础/软件工程概论/软件项目管理.md"
-    },
-    {
-      "basename": "设计模式七大原则",
-      "path": "Java技术栈/23种设计模式/设计模式七大原则.md"
     },
     {
       "basename": "概述",
@@ -191,14 +199,6 @@
     {
       "basename": "语句测试",
       "path": "计算机基础/软件工程概论/attachment/语句测试.md"
-    },
-    {
-      "basename": "队列",
-      "path": "计算机基础/数据结构与算法/线性结构/队列.md"
-    },
-    {
-      "basename": "关系代数",
-      "path": "计算机基础/数据库技术基础/关系代数.md"
     }
   ],
   "omittedPaths": [],
