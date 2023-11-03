@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "磁盘调度算法",
+      "path": "计算机基础/操作系统/磁盘调度算法.md"
+    },
+    {
       "basename": "UML",
       "path": "计算机基础/面向对象技术/UML.md"
     },
@@ -143,10 +147,6 @@
     {
       "basename": "Pasted image 20220518171049",
       "path": "计算机基础/面向对象技术/attachment/Pasted image 20220518171049.png"
-    },
-    {
-      "basename": "磁盘调度算法",
-      "path": "计算机基础/操作系统/磁盘调度算法.md"
     },
     {
       "basename": "第02章 MySQL的数据目录",
