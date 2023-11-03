@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java技术栈/23种设计模式/结构型/桥接模式.md",
+                "file": "计算机基础/面向对象技术/UML.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java技术栈/23种设计模式/结构型/桥接模式.md",
+                "file": "计算机基础/面向对象技术/UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java技术栈/23种设计模式/结构型/桥接模式.md",
+                "file": "计算机基础/面向对象技术/UML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java技术栈/23种设计模式/结构型/桥接模式.md"
+                "file": "计算机基础/面向对象技术/UML.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "6d9575d862acb74f",
   "lastOpenFiles": [
+    "Java技术栈/23种设计模式/结构型/桥接模式.md",
     "Java技术栈/23种设计模式/创建型/原型模式.md",
     "Java技术栈/23种设计模式/设计模式七大原则.md",
     "计算机基础/面向对象技术/UML.md",
@@ -188,7 +189,6 @@
     "计算机基础/计算机组成原理/中断.md",
     "计算机基础/计算机组成原理/存储器.md",
     "计算机基础/计算机组成原理/寻址.md",
-    "计算机基础/计算机组成原理/系统总线.md",
     "计算机基础/面向对象技术/attachment/Pasted image 20220513224050.png",
     "计算机基础/面向对象技术/attachment/Pasted image 20220518171049.png",
     "计算机基础/面向对象技术/attachment/Pasted image 20220513224049.png",
