@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "第06章 多表查询",
+      "path": "数据库/MySQL/基础篇/第06章 多表查询.md"
+    },
+    {
       "basename": "UML",
       "path": "计算机基础/面向对象技术/UML.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "第04章 逻辑架构",
       "path": "数据库/MySQL/高级篇/第04章 逻辑架构.md"
-    },
-    {
-      "basename": "第01章 Linux下MySQL的安装与使用",
-      "path": "数据库/MySQL/高级篇/第01章 Linux下MySQL的安装与使用.md"
     }
   ],
   "omittedPaths": [],
