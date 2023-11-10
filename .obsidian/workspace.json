@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/MySQL/基础篇/第06章 多表查询.md",
+                "file": "计算机基础/计算机网络/网际层/NET网络地址转换技术.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/MySQL/基础篇/第06章 多表查询.md",
+                "file": "计算机基础/计算机网络/网际层/NET网络地址转换技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/MySQL/基础篇/第06章 多表查询.md",
+                "file": "计算机基础/计算机网络/网际层/NET网络地址转换技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/MySQL/基础篇/第06章 多表查询.md"
+                "file": "计算机基础/计算机网络/网际层/NET网络地址转换技术.md"
               }
             }
           }
@@ -160,6 +160,17 @@
   },
   "active": "6d9575d862acb74f",
   "lastOpenFiles": [
+    "计算机基础/计算机网络/网际层/ACL访问控制.md",
+    "计算机基础/计算机网络/网际层/NET网络地址转换技术.md",
+    "计算机基础/计算机网络/数据链路层/生成树协议STP.md",
+    "计算机基础/计算机网络/数据链路层/数据链路层.md",
+    "计算机基础/计算机网络/概述.md",
+    "数据库/MySQL/基础篇/第06章 多表查询.md",
+    "计算机基础/计算机网络/运输层",
+    "计算机基础/计算机网络/应用层",
+    "计算机基础/计算机网络/网际层",
+    "计算机基础/计算机网络/数据链路层",
+    "计算机基础/计算机网络/物理层",
     "计算机基础/面向对象技术/UML.md",
     "计算机基础/软件工程概论/运行和维护知识.md",
     "计算机基础/数据结构与算法/非线性结构/树/树的基础.md",
@@ -180,12 +191,6 @@
     "计算机基础/计算机组成原理/寻址.md",
     "计算机基础/计算机组成原理/浮点数.md",
     "计算机基础/计算机组成原理/高速缓存.md",
-    "计算机基础/计算机组成原理/数字的表示.md",
-    "计算机基础/计算机组成原理/输入输出控制方式.md",
-    "计算机基础/计算机组成原理/计算机系统概论.md",
-    "计算机基础/操作系统/第 1 章 概述.md",
-    "计算机基础/操作系统/磁盘调度算法.md",
-    "Java技术栈/23种设计模式/结构型/桥接模式.md",
     "Java技术栈/23种设计模式/结构型",
     "Java技术栈/23种设计模式/创建型",
     "Java技术栈/23种设计模式/行为型",
@@ -196,7 +201,6 @@
     "计算机基础/操作系统/attachment/Pasted image 20231026091623.png",
     "运维/Nginx",
     "运维",
-    "Excalidraw",
     "计算机基础/计算机网络/attachment/Pasted image 20231019232540.png",
     "计算机基础/计算机网络/attachment/Pasted image 20231019231951.png",
     "计算机基础/计算机网络/attachment/Pasted image 20231019231906.png",
@@ -204,10 +208,6 @@
     "计算机基础/计算机网络/attachment/Pasted image 20231019230651.png",
     "未命名.canvas",
     "未命名 1.canvas",
-    "计算机基础/计算机网络/实践",
-    "Java技术栈/Spring框架/Spring Boot3",
-    "计算机基础/计算机网络/实践/网络工程/attachment",
-    "数据库/MySQL/基础篇/第10章_创建和管理表.md.2023-10-11_23.32.36.foldersync.old",
     "开发工具/Git/attachment/未命名.canvas"
   ]
 }
