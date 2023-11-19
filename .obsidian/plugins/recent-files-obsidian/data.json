@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "VRRP",
+      "path": "计算机基础/计算机网络/网际层/VRRP.md"
+    },
+    {
       "basename": "校验码",
       "path": "计算机基础/计算机组成原理/校验码.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "第03章 常用命令",
       "path": "运维/Linux/第03章 常用命令.md"
-    },
-    {
-      "basename": "第01章 Linux概述",
-      "path": "运维/Linux/第01章 Linux概述.md"
     }
   ],
   "omittedPaths": [],

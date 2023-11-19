@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/计算机组成原理/校验码.md",
+                "file": "计算机基础/计算机网络/网际层/VRRP.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/计算机组成原理/校验码.md",
+                "file": "计算机基础/计算机网络/网际层/VRRP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/计算机组成原理/校验码.md",
+                "file": "计算机基础/计算机网络/网际层/VRRP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/计算机组成原理/校验码.md"
+                "file": "计算机基础/计算机网络/网际层/VRRP.md"
               }
             }
           }
@@ -173,9 +173,10 @@
   },
   "active": "2f8008ef41e49d31",
   "lastOpenFiles": [
+    "计算机基础/计算机组成原理/校验码.md",
+    "计算机基础/计算机网络/网际层/VRRP.md",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231114180455.png",
     "计算机基础/计算机网络/数据链路层/数据链路层.md",
-    "计算机基础/计算机组成原理/校验码.md",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231114175357.png",
     "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231114174817.png",
     "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231114174612.png",
@@ -185,7 +186,6 @@
     "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231114171111.png",
     "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231114170250.png",
     "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231114165526.png",
-    "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231114165126.png",
     "计算机基础/计算机网络/数据链路层/attachment",
     "计算机基础/计算机网络/网际层/NET网络地址转换技术.md",
     "计算机基础/计算机网络/网际层/attachment",
