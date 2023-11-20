@@ -88,3 +88,43 @@ IPv6地址也分为两部分：网络位和主机位，为了区分这两部分�
 
 # IPv6地址配置
 
+![](attachment/Pasted%20image%2020231120214351.png)
+
+```txt
+AR1
+#
+ sysname R1
+#
+ipv6 
+#
+interface GigabitEthernet0/0/0
+ ipv6 enable 
+ ipv6 address 2001::2/64 
+#
+interface GigabitEthernet0/0/1
+ ipv6 enable 
+ ipv6 address 2000::2/64 
+#
+ipv6 route-static :: 0 2000::1 
+ipv6 route-static 2002:: 64 2000::1 
+#
+```
+
+```txt
+AR2
+#
+ sysname R2
+#
+ipv6 
+#
+interface GigabitEthernet0/0/0
+ ipv6 enable 
+ ipv6 address 2000::1/64 
+#
+interface GigabitEthernet0/0/1
+ ipv6 enable 
+ ipv6 address 2002::2/64 
+#
+ipv6 route-static :: 0 2000::2 
+#
+```

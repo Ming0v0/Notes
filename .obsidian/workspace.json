@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/计算机网络/网际层/IPV6.md",
+                "file": "计算机基础/计算机网络/网际层/DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/计算机网络/网际层/IPV6.md",
+                "file": "计算机基础/计算机网络/网际层/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/计算机网络/网际层/IPV6.md",
+                "file": "计算机基础/计算机网络/网际层/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/计算机网络/网际层/IPV6.md"
+                "file": "计算机基础/计算机网络/网际层/DNS.md"
               }
             }
           }
@@ -160,6 +160,11 @@
   },
   "active": "2f8008ef41e49d31",
   "lastOpenFiles": [
+    "计算机基础/计算机网络/网际层/NET网络地址转换技术.md",
+    "计算机基础/计算机网络/网际层/DNS.md",
+    "计算机基础/计算机网络/网际层/ACL访问控制.md",
+    "计算机基础/计算机网络/网际层/IPv6.md",
+    "计算机基础/计算机网络/网际层/attachment/Pasted image 20231120214351.png",
     "计算机基础/计算机网络/网际层/attachment/Pasted image 20231120202524.png",
     "计算机基础/计算机网络/网际层/attachment/Pasted image 20231120202429.png",
     "计算机基础/计算机网络/网际层/attachment/Pasted image 20231120202240.png",
@@ -168,17 +173,12 @@
     "计算机基础/计算机网络/网际层/attachment/Pasted image 20231120201149.png",
     "计算机基础/计算机网络/网际层/attachment/Pasted image 20231120201057.png",
     "计算机基础/计算机网络/网际层/VRRP.md",
-    "计算机基础/计算机网络/网际层/IPV6.md",
     "计算机基础/计算机组成原理/校验码.md",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231114180455.png",
     "计算机基础/计算机网络/数据链路层/数据链路层.md",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231114175357.png",
-    "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231114174817.png",
-    "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231114174612.png",
     "计算机基础/计算机网络/数据链路层/attachment",
-    "计算机基础/计算机网络/网际层/NET网络地址转换技术.md",
     "计算机基础/计算机网络/网际层/attachment",
-    "计算机基础/计算机网络/网际层/ACL访问控制.md",
     "计算机基础/计算机网络/数据链路层/生成树协议STP.md",
     "计算机基础/计算机网络/概述.md",
     "数据库/MySQL/基础篇/第06章 多表查询.md",
