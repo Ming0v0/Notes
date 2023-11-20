@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "IPV6",
+      "path": "计算机基础/计算机网络/网际层/IPV6.md"
+    },
+    {
       "basename": "VRRP",
       "path": "计算机基础/计算机网络/网际层/VRRP.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "第02章 Vi 和 Vim 编辑器",
       "path": "运维/Linux/第02章 Vi 和 Vim 编辑器.md"
-    },
-    {
-      "basename": "第03章 常用命令",
-      "path": "运维/Linux/第03章 常用命令.md"
     }
   ],
   "omittedPaths": [],
