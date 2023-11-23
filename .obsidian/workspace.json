@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发工具/Git/Git.md",
+                "file": "计算机基础/计算机网络/网际层/WLAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发工具/Git/Git.md",
+                "file": "计算机基础/计算机网络/网际层/WLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发工具/Git/Git.md",
+                "file": "计算机基础/计算机网络/网际层/WLAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发工具/Git/Git.md"
+                "file": "计算机基础/计算机网络/网际层/WLAN.md"
               }
             }
           }
@@ -160,10 +160,16 @@
   },
   "active": "2f8008ef41e49d31",
   "lastOpenFiles": [
-    "计算机基础/计算机网络/网际层/DNS.md",
-    "计算机基础/计算机网络/网际层/NET网络地址转换技术.md",
     "计算机基础/计算机网络/网际层/ACL访问控制.md",
+    "计算机基础/计算机网络/网际层/静态路由.md",
+    "计算机基础/计算机网络/网际层/WLAN.md",
+    "计算机基础/计算机网络/网际层/PPPoE.md",
     "计算机基础/计算机网络/网际层/IPv6.md",
+    "计算机基础/计算机网络/网际层/DNS.md",
+    "计算机基础/计算机网络/网际层/VRRP虚拟路由冗余协议.md",
+    "计算机基础/计算机网络/数据链路层/VLAN.md",
+    "开发工具/Git/Git.md",
+    "计算机基础/计算机网络/网际层/NET网络地址转换技术.md",
     "计算机基础/计算机网络/网际层/attachment/Pasted image 20231120214351.png",
     "计算机基础/计算机网络/网际层/attachment/Pasted image 20231120202524.png",
     "计算机基础/计算机网络/网际层/attachment/Pasted image 20231120202429.png",
@@ -172,7 +178,6 @@
     "计算机基础/计算机网络/网际层/attachment/Pasted image 20231120201445.png",
     "计算机基础/计算机网络/网际层/attachment/Pasted image 20231120201149.png",
     "计算机基础/计算机网络/网际层/attachment/Pasted image 20231120201057.png",
-    "计算机基础/计算机网络/网际层/VRRP.md",
     "计算机基础/计算机组成原理/校验码.md",
     "计算机基础/计算机组成原理/attachment/Pasted image 20231114180455.png",
     "计算机基础/计算机网络/数据链路层/数据链路层.md",
@@ -198,11 +203,6 @@
     "计算机基础/数据结构与算法/线性结构/约瑟夫环.md",
     "计算机基础/数据结构与算法/算法/KMP算法.md",
     "计算机基础/数据结构与算法/非线性结构/树/平衡二叉树.md",
-    "计算机基础/数据结构与算法/非线性结构/树/赫夫曼树编码.md",
-    "计算机基础/数据结构与算法/非线性结构/树/赫夫曼树.md",
-    "计算机基础/面向对象技术/面向对象基础.md",
-    "计算机基础/结构化开发方法/系统分析与设计概述.md",
-    "计算机基础/计算机组成原理/指令控制方式.md",
     "Java技术栈/23种设计模式/结构型",
     "Java技术栈/23种设计模式/创建型",
     "Java技术栈/23种设计模式/行为型",

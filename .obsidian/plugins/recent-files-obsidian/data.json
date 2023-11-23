@@ -1,28 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Git",
-      "path": "开发工具/Git/Git.md"
-    },
-    {
-      "basename": "DNS",
-      "path": "计算机基础/计算机网络/网际层/DNS.md"
-    },
-    {
-      "basename": "NET网络地址转换技术",
-      "path": "计算机基础/计算机网络/网际层/NET网络地址转换技术.md"
+      "basename": "WLAN",
+      "path": "计算机基础/计算机网络/网际层/WLAN.md"
     },
     {
       "basename": "ACL访问控制",
       "path": "计算机基础/计算机网络/网际层/ACL访问控制.md"
     },
     {
+      "basename": "静态路由",
+      "path": "计算机基础/计算机网络/网际层/静态路由.md"
+    },
+    {
+      "basename": "PPPoE",
+      "path": "计算机基础/计算机网络/网际层/PPPoE.md"
+    },
+    {
       "basename": "IPv6",
       "path": "计算机基础/计算机网络/网际层/IPv6.md"
     },
     {
-      "basename": "VRRP",
-      "path": "计算机基础/计算机网络/网际层/VRRP.md"
+      "basename": "DNS",
+      "path": "计算机基础/计算机网络/网际层/DNS.md"
+    },
+    {
+      "basename": "VRRP虚拟路由冗余协议",
+      "path": "计算机基础/计算机网络/网际层/VRRP虚拟路由冗余协议.md"
+    },
+    {
+      "basename": "VLAN",
+      "path": "计算机基础/计算机网络/数据链路层/VLAN.md"
+    },
+    {
+      "basename": "Git",
+      "path": "开发工具/Git/Git.md"
+    },
+    {
+      "basename": "NET网络地址转换技术",
+      "path": "计算机基础/计算机网络/网际层/NET网络地址转换技术.md"
     },
     {
       "basename": "校验码",
@@ -183,22 +199,6 @@
     {
       "basename": "软件项目管理",
       "path": "计算机基础/软件工程概论/软件项目管理.md"
-    },
-    {
-      "basename": "RISC和CISC",
-      "path": "计算机基础/计算机组成原理/RISC和CISC.md"
-    },
-    {
-      "basename": "中断",
-      "path": "计算机基础/计算机组成原理/中断.md"
-    },
-    {
-      "basename": "存储器",
-      "path": "计算机基础/计算机组成原理/存储器.md"
-    },
-    {
-      "basename": "系统总线",
-      "path": "计算机基础/计算机组成原理/系统总线.md"
     }
   ],
   "omittedPaths": [],
