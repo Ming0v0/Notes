@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Git",
+      "path": "开发工具/Git/Git.md"
+    },
+    {
       "basename": "DNS",
       "path": "计算机基础/计算机网络/网际层/DNS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "系统总线",
       "path": "计算机基础/计算机组成原理/系统总线.md"
-    },
-    {
-      "basename": "二叉排序树",
-      "path": "计算机基础/数据结构与算法/非线性结构/树/二叉排序树.md"
     }
   ],
   "omittedPaths": [],

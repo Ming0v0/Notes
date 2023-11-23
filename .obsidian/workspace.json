@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/计算机网络/网际层/DNS.md",
+                "file": "开发工具/Git/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/计算机网络/网际层/DNS.md",
+                "file": "开发工具/Git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/计算机网络/网际层/DNS.md",
+                "file": "开发工具/Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/计算机网络/网际层/DNS.md"
+                "file": "开发工具/Git/Git.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "2f8008ef41e49d31",
   "lastOpenFiles": [
-    "计算机基础/计算机网络/网际层/NET网络地址转换技术.md",
     "计算机基础/计算机网络/网际层/DNS.md",
+    "计算机基础/计算机网络/网际层/NET网络地址转换技术.md",
     "计算机基础/计算机网络/网际层/ACL访问控制.md",
     "计算机基础/计算机网络/网际层/IPv6.md",
     "计算机基础/计算机网络/网际层/attachment/Pasted image 20231120214351.png",
