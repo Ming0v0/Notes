@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/计算机网络/网际层/WLAN.md",
+                "file": "计算机基础/计算机网络/数据链路层/VLAN虚拟局域网技术.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/计算机网络/网际层/WLAN.md",
+                "file": "计算机基础/计算机网络/数据链路层/VLAN虚拟局域网技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/计算机网络/网际层/WLAN.md",
+                "file": "计算机基础/计算机网络/数据链路层/VLAN虚拟局域网技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/计算机网络/网际层/WLAN.md"
+                "file": "计算机基础/计算机网络/数据链路层/VLAN虚拟局域网技术.md"
               }
             }
           }
@@ -160,32 +160,33 @@
   },
   "active": "2f8008ef41e49d31",
   "lastOpenFiles": [
-    "计算机基础/计算机网络/网际层/attachment/Pasted image 20231124132317.png",
-    "计算机基础/计算机网络/网际层/attachment/Pasted image 20231124124146.png",
-    "计算机基础/计算机网络/网际层/attachment/Pasted image 20231124124039.png",
-    "计算机基础/计算机网络/网际层/路由概述.md",
+    "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231125103305.png",
+    "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231125103203.png",
+    "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231125103138.png",
+    "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231125103115.png",
+    "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231125103034.png",
+    "计算机基础/计算机网络/网际层/IPv6.md",
+    "计算机基础/计算机网络/数据链路层/VLAN虚拟局域网技术.md",
+    "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231125102826.png",
+    "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231125102810.png",
+    "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231125101907.png",
+    "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231125101259.png",
+    "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231125101107.png",
+    "计算机基础/计算机网络/数据链路层/attachment/Pasted image 20231125100725.png",
+    "计算机基础/计算机网络/数据链路层/STP生成树协议.md",
+    "计算机基础/计算机网络/数据链路层/数据链路层.md",
+    "计算机基础/计算机网络/数据链路层/交换网络基础.md",
     "计算机基础/计算机网络/网际层/WLAN.md",
-    "计算机基础/计算机网络/网际层/attachment/Pasted image 20231124104224.png",
-    "计算机基础/计算机网络/网际层/attachment/Pasted image 20231124104200.png",
-    "计算机基础/计算机网络/网际层/attachment/Pasted image 20231123135833.png",
-    "计算机基础/计算机网络/网际层/attachment/Pasted image 20231123134933.png",
-    "计算机基础/计算机网络/网际层/attachment/Pasted image 20231123134054.png",
-    "计算机基础/计算机网络/网际层/attachment/Pasted image 20231123133439.png",
-    "计算机基础/计算机网络/网际层/attachment/Pasted image 20231123133230.png",
-    "计算机基础/计算机网络/网际层/attachment/Pasted image 20231123133130.png",
+    "计算机基础/计算机网络/网际层/路由概述.md",
     "计算机基础/计算机网络/网际层/ACL访问控制.md",
     "计算机基础/计算机网络/网际层/PPPoE.md",
-    "计算机基础/计算机网络/网际层/IPv6.md",
     "计算机基础/计算机网络/网际层/DNS.md",
     "计算机基础/计算机网络/网际层/VRRP虚拟路由冗余协议.md",
-    "计算机基础/计算机网络/数据链路层/VLAN.md",
     "开发工具/Git/Git.md",
     "计算机基础/计算机网络/网际层/NET网络地址转换技术.md",
     "计算机基础/计算机组成原理/校验码.md",
-    "计算机基础/计算机网络/数据链路层/数据链路层.md",
     "计算机基础/计算机网络/数据链路层/attachment",
     "计算机基础/计算机网络/网际层/attachment",
-    "计算机基础/计算机网络/数据链路层/生成树协议STP.md",
     "计算机基础/计算机网络/概述.md",
     "数据库/MySQL/基础篇/第06章 多表查询.md",
     "计算机基础/计算机网络/运输层",
@@ -202,7 +203,6 @@
     "计算机基础/信息安全/加密技术和认证技术.md",
     "计算机基础/数据结构与算法/哈希表/哈希表.md",
     "计算机基础/数据结构与算法/线性结构/约瑟夫环.md",
-    "计算机基础/数据结构与算法/算法/KMP算法.md",
     "Java技术栈/23种设计模式/结构型",
     "Java技术栈/23种设计模式/创建型",
     "Java技术栈/23种设计模式/行为型",

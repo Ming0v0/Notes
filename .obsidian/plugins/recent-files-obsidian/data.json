@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "VLAN虚拟局域网技术",
+      "path": "计算机基础/计算机网络/数据链路层/VLAN虚拟局域网技术.md"
+    },
+    {
+      "basename": "IPv6",
+      "path": "计算机基础/计算机网络/网际层/IPv6.md"
+    },
+    {
+      "basename": "STP生成树协议",
+      "path": "计算机基础/计算机网络/数据链路层/STP生成树协议.md"
+    },
+    {
+      "basename": "数据链路层",
+      "path": "计算机基础/计算机网络/数据链路层/数据链路层.md"
+    },
+    {
+      "basename": "交换网络基础",
+      "path": "计算机基础/计算机网络/数据链路层/交换网络基础.md"
+    },
+    {
       "basename": "WLAN",
       "path": "计算机基础/计算机网络/网际层/WLAN.md"
     },
@@ -17,20 +37,12 @@
       "path": "计算机基础/计算机网络/网际层/PPPoE.md"
     },
     {
-      "basename": "IPv6",
-      "path": "计算机基础/计算机网络/网际层/IPv6.md"
-    },
-    {
       "basename": "DNS",
       "path": "计算机基础/计算机网络/网际层/DNS.md"
     },
     {
       "basename": "VRRP虚拟路由冗余协议",
       "path": "计算机基础/计算机网络/网际层/VRRP虚拟路由冗余协议.md"
-    },
-    {
-      "basename": "VLAN",
-      "path": "计算机基础/计算机网络/数据链路层/VLAN.md"
     },
     {
       "basename": "Git",
@@ -43,14 +55,6 @@
     {
       "basename": "校验码",
       "path": "计算机基础/计算机组成原理/校验码.md"
-    },
-    {
-      "basename": "数据链路层",
-      "path": "计算机基础/计算机网络/数据链路层/数据链路层.md"
-    },
-    {
-      "basename": "生成树协议STP",
-      "path": "计算机基础/计算机网络/数据链路层/生成树协议STP.md"
     },
     {
       "basename": "概述",
@@ -195,10 +199,6 @@
     {
       "basename": "需求分析",
       "path": "计算机基础/软件工程概论/需求分析.md"
-    },
-    {
-      "basename": "软件项目管理",
-      "path": "计算机基础/软件工程概论/软件项目管理.md"
     }
   ],
   "omittedPaths": [],
