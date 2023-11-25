@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "交换网络基础",
+      "path": "计算机基础/计算机网络/数据链路层/交换网络基础.md"
+    },
+    {
       "basename": "VLAN虚拟局域网技术",
       "path": "计算机基础/计算机网络/数据链路层/VLAN虚拟局域网技术.md"
     },
     {
-      "basename": "IPv6",
-      "path": "计算机基础/计算机网络/网际层/IPv6.md"
+      "basename": "PPPoE以太网上的点对点协议",
+      "path": "计算机基础/计算机网络/网际层/PPPoE以太网上的点对点协议.md"
+    },
+    {
+      "basename": "IPv6协议",
+      "path": "计算机基础/计算机网络/网际层/IPv6协议.md"
     },
     {
       "basename": "STP生成树协议",
@@ -15,10 +23,6 @@
     {
       "basename": "数据链路层",
       "path": "计算机基础/计算机网络/数据链路层/数据链路层.md"
-    },
-    {
-      "basename": "交换网络基础",
-      "path": "计算机基础/计算机网络/数据链路层/交换网络基础.md"
     },
     {
       "basename": "WLAN",
@@ -31,10 +35,6 @@
     {
       "basename": "ACL访问控制",
       "path": "计算机基础/计算机网络/网际层/ACL访问控制.md"
-    },
-    {
-      "basename": "PPPoE",
-      "path": "计算机基础/计算机网络/网际层/PPPoE.md"
     },
     {
       "basename": "DNS",

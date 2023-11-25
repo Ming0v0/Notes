@@ -131,8 +131,38 @@ TCI：Tag Control Information，2字节，用来表示帧的控制信息，包�
 
 ## 案例：跨交换机场景
 
-案例背景与要求
+**案例背景与要求**
 
 以Jan16公司的财务部和项目部为例，为财务部创建VLAN10，PC1和PC2为财务部PC，连接在交换机SW1的ETH0/0/1和交换机SW2的ETH0/0/1端口，为项目部创建VLAN20，PC3和PC4为项目部PC，连接在交换机SW1的ETH0/0/2和交换机SW2的ETH0/0/2端口，配置交换机互联的端口模式为Trunk，实现两个部门内部可以通信，跨部门的PC不能互相通信。
 
 ![](attachment/Pasted%20image%2020231125103305.png)
+
+**案例配置过程**
+
+在SW1和SW2上创建VLAN 10和VLAN 20。
+
+![](attachment/Pasted%20image%2020231125110636.png)
+
+![](attachment/Pasted%20image%2020231125110647.png)
+
+在SW1和SW2上，将连接PC的交换机端口配置为access模式，并加入到相应的VLAN中
+
+![](attachment/Pasted%20image%2020231125110715.png)
+
+配置交换机SW1和SW2之间的端口为Trunk模式，并放行VLAN 10和VLAN 20
+
+![](attachment/Pasted%20image%2020231125110814.png)
+
+在交换机上使用 `display vlan` 命令查看交换机已创建的VLAN信息。
+
+![](attachment/Pasted%20image%2020231125110944.png)
+
+**案例验证**
+
+在交换机上使用 `display port vlan` 命令查看各端口的模式
+
+![](attachment/Pasted%20image%2020231125111034.png)
+
+配置IP地址后，测试连通性
+
+![](attachment/Pasted%20image%2020231125111113.png)
