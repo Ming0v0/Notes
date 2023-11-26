@@ -152,7 +152,7 @@ vlan batch 10
 ```
 
 
-## 旁挂三层组网
+## 案例1：旁挂三层组网
 
 ![](attachment/Pasted%20image%2020231124132317.png)
 
@@ -285,4 +285,153 @@ vlan batch 30
 配置AP3
 ```txt
 vlan batch 40
+```
+
+
+## 案例2：旁挂三层组网
+![](attachment/Pasted%20image%2020231126121847.png)
+
+配置AR
+```txt
+#
+ sysname R1
+#
+ undo info-center enable
+#
+interface GigabitEthernet0/0/0
+ ip address 10.1.17.1 255.255.255.0 
+#
+interface LoopBack0
+ ip address 10.1.1.1 255.255.255.255 
+#
+ospf 1 
+ area 0.0.0.0 
+  network 10.1.1.1 0.0.0.0 
+  network 10.1.17.0 0.0.0.255 
+#
+```
+
+配置SW
+```txt
+#
+sysname S1
+#
+undo info-center enable
+#
+vlan batch 7 17 30 40 254
+#
+dhcp enable
+#
+interface Vlanif1
+#
+interface Vlanif7
+ ip address 10.1.7.7 255.255.255.0
+ ospf enable 1 area 0.0.0.0
+#
+interface Vlanif17
+ ip address 10.1.17.7 255.255.255.0
+ ospf enable 1 area 0.0.0.0
+#
+interface Vlanif30
+ ip address 10.1.30.7 255.255.255.0
+ dhcp select interface
+#
+interface Vlanif40
+ ip address 10.1.40.7 255.255.255.0
+ dhcp select interface
+#
+interface Vlanif254
+ ip address 10.1.254.7 255.255.255.0
+ ospf enable 1 area 0.0.0.0
+ dhcp select interface
+ dhcp server option 43 sub-option 2 ip-address 10.1.7.10
+#
+interface GigabitEthernet0/0/1
+ port link-type trunk
+ port trunk pvid vlan 17
+ port trunk allow-pass vlan 2 to 4094
+#
+interface GigabitEthernet0/0/2
+ port link-type trunk
+ port trunk pvid vlan 7
+ port trunk allow-pass vlan 2 to 4094
+#
+interface GigabitEthernet0/0/3
+ port link-type trunk
+ port trunk pvid vlan 254
+ port trunk allow-pass vlan 2 to 4094
+#
+ospf 1
+ area 0.0.0.0
+  network 10.1.17.0 0.0.0.255
+  network 10.1.30.0 0.0.0.255
+  network 10.1.40.0 0.0.0.255
+#
+```
+
+配置AC
+```txt
+#
+ sysname AC
+#
+vlan batch 7 17 30 40 254
+#
+interface Vlanif7
+ ip address 10.1.7.10 255.255.255.0
+#
+interface Vlanif254
+#
+interface GigabitEthernet0/0/1
+ port link-type trunk
+ port trunk pvid vlan 7
+ port trunk allow-pass vlan 2 to 4094
+#
+ip route-static 0.0.0.0 0.0.0.0 10.1.7.7
+#
+capwap source interface vlanif7
+#
+wlan
+ security-profile name SEC-OPEN
+ security-profile name SEC-GXNZD
+  security wpa2 psk pass-phrase Huawei@123 aes
+ ssid-profile name GXNZD
+  ssid GXNZD
+ ssid-profile name GXNZD-open
+  ssid GXNZD-open
+ vap-profile name VAP-guest
+  forward-mode tunnel
+  service-vlan vlan-id 40
+  ssid-profile GXNZD-open
+  security-profile SEC-OPEN
+ vap-profile name VAP-gxnzd2303
+  forward-mode tunnel
+  service-vlan vlan-id 30
+  ssid-profile GXNZD
+  security-profile SEC-GXNZD
+ regulatory-domain-profile name DOMAIN-2303
+ ap-group name GROUP-1
+  regulatory-domain-profile DOMAIN-2303
+  radio 0
+   vap-profile VAP-gxnzd2303 wlan 1
+  radio 1
+   vap-profile VAP-gxnzd2303 wlan 1
+ ap-group name GROUP-2
+  regulatory-domain-profile DOMAIN-2303
+  radio 0
+   vap-profile VAP-guest wlan 1
+  radio 1
+   vap-profile VAP-guest wlan 1
+ ap-id 1 type-id 69 ap-mac 00e0-fc13-25e0 ap-sn 210235448310B95E0E3D
+  ap-name area-1
+  ap-group GROUP-1
+ ap-id 2 type-id 69 ap-mac 00e0-fc28-2060 ap-sn 210235448310FB51B011
+  ap-name area-2
+  ap-group GROUP-1
+ ap-id 3 type-id 69 ap-mac 00e0-fc8a-14c0 ap-sn 210235448310A9523021
+  ap-name area-3
+  ap-group GROUP-1
+ ap-id 4 type-id 69 ap-mac 00e0-fc80-3630 ap-sn 210235448310F05F2809
+  ap-name area-4
+  ap-group GROUP-2
+#
 ```
