@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/MySQL/基础篇/第08章_聚合函数.md",
+                "file": "数据库/MySQL/基础篇/第08章 聚合函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/MySQL/基础篇/第08章_聚合函数.md",
+                "file": "数据库/MySQL/基础篇/第08章 聚合函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/MySQL/基础篇/第08章_聚合函数.md",
+                "file": "数据库/MySQL/基础篇/第08章 聚合函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/MySQL/基础篇/第08章_聚合函数.md"
+                "file": "数据库/MySQL/基础篇/第08章 聚合函数.md"
               }
             }
           }
