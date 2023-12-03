@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/MySQL/基础篇/第08章 聚合函数.md",
+                "file": "计算机基础/计算机网络/网际层/WLAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/MySQL/基础篇/第08章 聚合函数.md",
+                "file": "计算机基础/计算机网络/网际层/WLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/MySQL/基础篇/第08章 聚合函数.md",
+                "file": "计算机基础/计算机网络/网际层/WLAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/MySQL/基础篇/第08章 聚合函数.md"
+                "file": "计算机基础/计算机网络/网际层/WLAN.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "2f8008ef41e49d31",
   "lastOpenFiles": [
+    "数据库/MySQL/基础篇/第08章 聚合函数.md",
     "计算机基础/计算机网络/网际层/WLAN.md",
     "计算机基础/计算机网络/网际层/attachment/Pasted image 20231126121847.png",
     "计算机基础/计算机网络/数据链路层/交换网络基础.md",
