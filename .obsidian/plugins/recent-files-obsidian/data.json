@@ -41,8 +41,8 @@
       "path": "计算机基础/计算机网络/网际层/ACL访问控制.md"
     },
     {
-      "basename": "DNS",
-      "path": "计算机基础/计算机网络/网际层/DNS.md"
+      "basename": "DNS域名服务",
+      "path": "计算机基础/计算机网络/网际层/DNS域名服务.md"
     },
     {
       "basename": "VRRP虚拟路由冗余协议",
