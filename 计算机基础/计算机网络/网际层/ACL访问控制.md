@@ -97,7 +97,7 @@ rule [rule-id] {permit | deny} [source {source-address source-wildcard｜any} fr
 
 - `rule`表示这是一条规则。
 - `rule-id`表示这条规则的编号。
- - `permit|deny`是一个“二选一”选项，表示与这条规则相关联的处理动作。用deny命令表示“拒绝”；用permit命令表示“允许”。
+- `permit|deny`是一个“二选一”选项，表示与这条规则相关联的处理动作。用deny命令表示“拒绝”；用permit命令表示“允许”。
 - `source`表示源IP地址信息。
 - `source-address`表示具体的源IP地址。
 - `source- wildcard`表示与source-address相对应的通配符。source-wildcard和source-address结合使用，可以确定出一个IP地址的集合。特殊情况下，该集合中可以只包含一个IP地址。
@@ -105,3 +105,5 @@ rule [rule-id] {permit | deny} [source {source-address source-wildcard｜any} fr
 - `fragment`表示该规则只对非首片分片报文有效。
 - `logging`表示需要将匹配上该规则的IP报文进行日志记录。
 - `time-range time-name`表示该规则的生效时间段为time-name
+
+## 高级ACL
