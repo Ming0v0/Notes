@@ -6,39 +6,52 @@ wlan
 	ap-id 1 ap-mac macAdress # ap的mac地址
 	ap-name APName # AP的名称
 capwap source interface vlanId
+```
 
+创建ssid模板
 
-（1）创建ssid模板
+```txt
 wlan
 	ssid-profile name 模板名称
 	ssid Wlan名称
+```
 
-（2）设置连接认证方式
+设置连接认证方式
+
+```
 wlan
 	security-profile name 认证名称
 	security 认证类型 加密方式 pass-phease 密码
 	# open 开放连接，不需要认证，通常使用在guest模式
+```
 
-（3）设置业务vlan
+设置业务vlan
+```txt
 wlan
 	vap-profile name vap名称
 	ssid-profile 模板名称
 	security-profile 认证名称
 	service-vlan vlan-id vlanid # 设置用户所在vlan
+```
 
-（4）设置转发方式
+设置转发方式
+```txt
 wlan
 	vap-profile name vap名称
 	forward-mode direct-forwad 
 	# direct-forwad：直接转发（系统默认），softgre：软gre，tunnel:隧道
-	
-（5）应用vap到ap（下发）
+```
+
+应用vap到ap（下发）
+```txt
 wlan
 	ap-id 1
 		vap-profile vap名称 wlan 1 radio 0 # 2.4G频段
 		vap-profile vap名称 waln 1 radio 1 # 5G频段
+```
 
-# 查看相关信息
+查看相关信息
+```txt
 dis capwap configuration
 dis vap-profile name vap名称
 dis station all
