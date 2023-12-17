@@ -14,7 +14,7 @@ VDO全称是Virtual Data Optimize（虚拟数据优化），主要是为了节�
 
 安装软件包（默认已安装）
 ```txt
-yum -y install vdo kmod-kvdo
+[root@localhost ~]yum -y install vdo kmod-kvdo
 ```
 
 **创建vdo卷的命令**
@@ -26,7 +26,7 @@ vdo create --name=vdo名称 --device=用于创建VDO卷的磁盘路径及名称 
 例如：创建一个名称为vdo0，路径为`/dev/sdb1`，大小为10T的卷
 
 ```txt
-vdo create --name=vdo0 --device=/dev/sdb1 --vdoLogicalSize=10T
+[root@localhost ~]vdo create --name=vdo0 --device=/dev/sdb1 --vdoLogicalSize=10T
 ```
 
 
@@ -67,7 +67,7 @@ vdostatus --human--readble
 将vdo1格式化为xfs文件系统并挂载于`/mnt/vdo0`
 
 ```txt
-mkfs.xfs /dev/mapper/vdo01
+[root@localhost ~]mkfs.xfs /dev/mapper/vdo01
 ```
 
 ![](attachment/Pasted%20image%2020231216214214.png)
@@ -75,17 +75,19 @@ mkfs.xfs /dev/mapper/vdo01
 
 ## vdo挂载
 
+案例：将vdo1挂载到/mnt/vdo1目录上。
+
 **临时挂载**
-将vdo1挂载到/vdo1目录上。
+
 ```txt
-mkdir -p /mnt/vdo1
-mount /dev/mapper/vdo1 /mnt/vdo1
+[root@localhost ~]mkdir -p /mnt/vdo1
+[root@localhost ~]mount /dev/mapper/vdo1 /mnt/vdo1
 ```
 
 **永久挂载**
 
 ```txt
-vim /etc/fstab
+[root@localhost ~]vim /etc/fstab
 ```
 
 ```txt
@@ -96,3 +98,43 @@ vim /etc/fstab
 - 挂载选项`x-systemd.requires=vdo.service`可延迟挂载文件系统，直到vdo.service启动为止
 
 ## 查看vdo的空间使用情况
+
+```txt
+vdostats --hu
+```
+
+![](attachment/Pasted%20image%2020231216235625.png)
+
+
+## 测试vdo是否创建成功
+
+![](attachment/Pasted%20image%2020231216235558.png)
+
+`节省的空间=本来应该消耗-实际消耗 `
+`节省率=节省空间/本来应该消耗`
+## 查看VDO卷是否开启重删压缩功能
+
+```txt
+[root@localhost ~]vdo status --name vdo1 | grep -E "Com|Dedu"
+```
+
+![](attachment/Pasted%20image%2020231216235021.png)
+
+
+## 删除vdo卷
+
+```txt
+vdo remove -n vdo名称
+```
+
+# vdo特性说明
+
+利用vdo创建的逻辑设备成为vdo卷，vdo卷与磁盘类似，可以将这些卷格式化为所需要的文件系统类型。此外，还可以将vdo卷用作LVM物理卷。
+
+在创建vdo卷时，可以指定块设备，以及vdo向用户显示的逻辑设备的名称。也可以指定vdo卷的逻辑大小，vdo卷的逻辑大小可以大于实际块设备的物理大小。
+
+**如果未指定逻辑大小，则vdo会将实际物理大小视为卷的逻辑大小**，这种方式有利于提高性能，但是会降低存储空间的使用效率，应视情况而定
+
+由于vdo卷采用了精简配置，因此用户只能看到正在使用的逻辑空间，而无法了解实际可用的物理空间。
+
+vdo卷的逻辑大小超过实际物理大小，应使用`vdostatus -verbose`命令查看实际使用情况
