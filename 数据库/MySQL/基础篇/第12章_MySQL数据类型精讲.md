@@ -1,10 +1,5 @@
 # 第12章_MySQL数据类型精讲
 
-讲师：尚硅谷-宋红康（江湖人称：康师傅）
-
-官网：[http://www.atguigu.com](http://www.atguigu.com/)
-
-***
 
 ## 1. MySQL中的数据类型
 
