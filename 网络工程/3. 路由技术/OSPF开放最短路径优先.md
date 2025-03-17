@@ -150,6 +150,11 @@ OSPF：**Open Shortest Path First，开放最短路径优先**
 
 ![](attachment/Pasted%20image%2020250314103250.png)
 
+![](attachment/Pasted%20image%2020250317154039.png)
+
+![](attachment/Pasted%20image%2020250317154046.png)
+
+![](attachment/Pasted%20image%2020250317154051.png)
 
 **DR和BDR：**
 •  在MA（BMA和NBMA）网络类型，为了减少邻接关系的数量，从而减少数据包交换次数，最终节省带宽 ，降低对路由器处理能力的压力，选举DR和BDR。
@@ -164,18 +169,30 @@ OSPF：**Open Shortest Path First，开放最短路径优先**
 | **地址**      | DR和BDR监听224.0.0.6<br>所有OSPF路由器监听224.0.0.5                                                                                                |
 | **选举规则**    | 首先比较Hello报文中携带的优先级<br>• 范围：0~255，默认=1 ，0不参与选举<br>• 最高的被选举为DR ，次高的被选举为BDR 优先级一致的情况下，比较RID，越大越优先<br><br>选举具有非抢占性，终身制，除非当DR和BDR都失效或重启OSPF进程 |
 
+![](attachment/Pasted%20image%2020250317154108.png)
+
+
+
 **选举制：**
+![](attachment/Pasted%20image%2020250317154123.png)
 
 **终身制：**
+![](attachment/Pasted%20image%2020250317154132.png)
 
 **继承制：**
+![](attachment/Pasted%20image%2020250317154149.png)
+
+**拓扑变化：**
+![](attachment/Pasted%20image%2020250317154426.png)
+
+![](attachment/Pasted%20image%2020250317154432.png)
 
 
 **OSPF度量值：Cost，开销**
 
 •  在每一个运行OSPF的接口上，都维护着一个接口Cost
 
-•   **Cost** **=** 10^8/BW（bps）= 100Mbps/BW = 接口带宽参考值/接口带宽
+•   **Cost** **=** `10^8/BW（bps）= 100Mbps/BW = 接口带宽参考值/接口带宽`
 
 •  **计算到一个目标网络的度量值** =
 
@@ -183,14 +200,97 @@ OSPF：**Open Shortest Path First，开放最短路径优先**
 
 ○ 从源到本路由器沿途所有入站接口的Cost值累加（路由方向）
 
+![](attachment/Pasted%20image%2020250317154527.png)
+
+![](attachment/Pasted%20image%2020250317154533.png)
+
+![](attachment/Pasted%20image%2020250317154539.png)
+
+
 
 **OSPF配置：**
 
-| **命令**                                                                                                                                          | **备注**                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| ospf 1 router-id 1.1.1.1 area 0 \| [0.0.0.0](0.0.0.0)<br><br>network [192.168.0.0](192.168.0.0) [0.0.0.255](0.0.0.255) bandwidth-reference 1000 | 创建OSPF进程，手动配置RID<br><br>配置区域<br><br>宣告网络，即指定运行OSPF的接口 调整带宽参考值，默认=100Mbps               |
-| **PS**                                                                                                                                          | 宣告使用反掩码                                                                                |
-| display ospf peer [brief]                                                                                                                       | 显示OSPF邻居信息                                                                             |
-| interface g0/0/1<br><br>ospf timer hello 10  ospf timer dead 40  ospf dr-priority 100 ospf cost 10                                              | 进入接口<br><br>修改Hello包发送间隔<br><br>修改Hello包超时时间<br><br>修改OSPF接口优先级，默认=1<br><br>修改OSPF接口开销 |
-| display ospf interface g0/0/1                                                                                                                   | 显示OSPF接口信息                                                                             |
-| reset ospf process                                                                                                                              | 重启OSPF进程                                                                               |
+```txt
+ospf 1 router-id 1.1.1.1    // 创建OSPF进程，手动配置RID
+  area 0 | 0.0.0.0          // 配置区域
+    network 192.168.0.0 0.0.0.255   // 宣告网络，即指定运行OSPF的接口
+  bandwidth-reference 1000  // 调整带宽参考值，默认=100Mbps
+```
+PS：宣告使用反掩码
+
+```txt
+display ospf peer[brief]  // 显示OSPF邻居信息
+```
+
+```txt
+interface g0/0/1  // 进入接口
+  ospf timer hello 10  // 修改Hello包发送间隔
+  ospf timer dead 40  // 修改Hello包超时时间
+  ospf dr-priority 100 // 修改OSPF接口优先级，默认=1
+  ospf cost 10  // 修改OSPF接口开销
+```
+
+```txt
+display ospf interface g0/0/1  // 显示OSPF接口信息
+```
+
+```txt
+reset ospf process  // 重启OSPF进程
+```
+
+==**配置案例：**==
+![](attachment/Pasted%20image%2020250317160417.png)
+
+![](attachment/Pasted%20image%2020250317160803.png)
+
+![](attachment/Pasted%20image%2020250317160921.png)
+
+![](attachment/Pasted%20image%2020250317160926.png)
+
+![](attachment/Pasted%20image%2020250317160931.png)
+
+# 路由认证
+
+技术背景：
+![](attachment/Pasted%20image%2020250317161620.png)
+
+OSPF认证命令：
+
+```txt 
+ospf authentication-mode md5 1 cipher huawei  // 配置接口认证
+```
+
+```txt
+authentication-mode md5 1 cipher wakin  // 配置区域认证
+```
+
+PS：如果同时配置，接口认证优先生效
+
+![](attachment/Pasted%20image%2020250317161719.png)
+
+# 缺省路由发布
+
+缺省路由配置方式：
+
+静态配置使用命令：
+```txt
+ip route-static 0.0.0.0 0.0.0.0
+```
+
+动态发布
+```txt
+使用动态路由协议进行发布
+```
+
+OSPF缺省路由发布命令：
+
+```txt
+default-route-advertise [always]   // 发布缺省路由
+```
+
+always：不需要路由表事先存在缺省路由（强制发布）
+
+![](attachment/Pasted%20image%2020250317162041.png)
+
+![](attachment/Pasted%20image%2020250317162047.png)
+
